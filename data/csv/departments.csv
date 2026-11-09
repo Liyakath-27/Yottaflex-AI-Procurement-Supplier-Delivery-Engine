@@ -1,0 +1,11 @@
+department_id,department_name,category,cost_center_code,head_requester_id,is_active
+DEPT-001,Engineering & Software,ENGINEERING,CC-1010,REQ-0001,True
+DEPT-002,Cloud & IT Infrastructure,IT_INFRASTRUCTURE,CC-1020,REQ-0036,True
+DEPT-003,Data Science & AI Research,RESEARCH_DEV,CC-1030,REQ-0030,True
+DEPT-004,Global Operations & Supply Chain,OPERATIONS,CC-1040,REQ-0023,True
+DEPT-005,Brand & Product Marketing,MARKETING,CC-1050,REQ-0015,True
+DEPT-006,Corporate Facilities & Workplace,FACILITIES,CC-1060,REQ-0053,True
+DEPT-007,Financial Planning & Control,FINANCE,CC-1070,REQ-0007,True
+DEPT-008,"Legal, Compliance & Risk",LEGAL,CC-1080,REQ-0147,True
+DEPT-009,People Operations & HR,HUMAN_RESOURCES,CC-1090,REQ-0009,True
+DEPT-010,Global Customer Experience,CUSTOMER_SUPPORT,CC-1100,REQ-0010,True

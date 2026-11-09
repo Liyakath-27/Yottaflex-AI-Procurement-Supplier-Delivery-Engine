@@ -1,0 +1,953 @@
+delivery_id,po_id,shipment_number,delivery_date,carrier,tracking_number,delivery_status,received_by_user_id,inspection_status,items_delivered_count,is_partial,notes
+DEL-PO-2026-000001-01,PO-2026-000001,1,2026-02-03,MAERSK,MAE-70384201,DELIVERED_ON_TIME,REQ-0142,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000002-01,PO-2026-000002,1,2026-01-30,DHL,DHL-25798101,DELIVERED_ON_TIME,REQ-0047,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000003-01,PO-2026-000003,1,2026-02-20,MAERSK,MAE-19336288,DELIVERED_ON_TIME,REQ-0168,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000004-01,PO-2026-000004,1,2026-01-28,DHL,DHL-15576232,DELIVERED_ON_TIME,REQ-0002,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000005-01,PO-2026-000005,1,2026-01-28,DHL,DHL-90331323,DELIVERED_ON_TIME,REQ-0265,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000006-01,PO-2026-000006,1,2026-01-27,FREIGHT_DIRECT,FRE-54446175,DELIVERED_ON_TIME,REQ-0265,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000007-01,PO-2026-000007,1,2026-01-30,UPS,UPS-34692766,DELIVERED_ON_TIME,REQ-0257,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000008-01,PO-2026-000008,1,2026-02-15,DHL,DHL-29083650,DELIVERED_LATE,REQ-0032,PASSED,1,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000009-01,PO-2026-000009,1,2026-02-05,FEDEX,FED-76200727,IN_TRANSIT,REQ-0137,PASSED,1,True,First partial batch received (1/2 items).
+DEL-PO-2026-000009-02,PO-2026-000009,2,2026-02-10,DHL,DHL-46533872,DELIVERED_ON_TIME,REQ-0201,PASSED,1,False,Final remainder batch received (1 items). Order complete.
+DEL-PO-2026-000010-01,PO-2026-000010,1,2026-01-29,DHL,DHL-58500206,DELIVERED_ON_TIME,REQ-0025,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000011-01,PO-2026-000011,1,2026-01-30,MAERSK,MAE-26601075,IN_TRANSIT,REQ-0173,PASSED,13,True,First partial batch received (13/22 items).
+DEL-PO-2026-000011-02,PO-2026-000011,2,2026-02-08,DHL,DHL-50492298,DELIVERED_LATE,REQ-0255,PASSED,9,False,Final remainder batch received (9 items). Order complete.
+DEL-PO-2026-000012-01,PO-2026-000012,1,2026-01-26,DHL,DHL-79762256,DELIVERED_ON_TIME,REQ-0131,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000013-01,PO-2026-000013,1,2026-02-04,UPS,UPS-70150229,DELIVERED_ON_TIME,REQ-0273,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000014-01,PO-2026-000014,1,2026-02-07,FREIGHT_DIRECT,FRE-10599802,DELIVERED_ON_TIME,REQ-0131,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000015-01,PO-2026-000015,1,2026-02-08,MAERSK,MAE-78179495,DELIVERED_ON_TIME,REQ-0068,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000016-01,PO-2026-000016,1,2026-02-17,FEDEX,FED-34553186,DELIVERED_ON_TIME,REQ-0212,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000017-01,PO-2026-000017,1,2026-02-02,UPS,UPS-35969683,DELIVERED_ON_TIME,REQ-0118,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000018-01,PO-2026-000018,1,2026-01-29,FEDEX,FED-54794999,DELIVERED_ON_TIME,REQ-0158,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000019-01,PO-2026-000019,1,2026-02-07,UPS,UPS-42632758,IN_TRANSIT,REQ-0145,PASSED,5,True,First partial batch received (5/9 items).
+DEL-PO-2026-000019-02,PO-2026-000019,2,2026-02-18,UPS,UPS-15156685,DELIVERED_ON_TIME,REQ-0196,PASSED,4,False,Final remainder batch received (4 items). Order complete.
+DEL-PO-2026-000020-01,PO-2026-000020,1,2026-02-11,MAERSK,MAE-18098621,IN_TRANSIT,REQ-0056,PASSED,3,True,First partial batch received (3/5 items).
+DEL-PO-2026-000020-02,PO-2026-000020,2,2026-02-21,UPS,UPS-48141978,DELIVERED_LATE,REQ-0284,PASSED,2,False,Final remainder batch received (2 items). Order complete.
+DEL-PO-2026-000021-01,PO-2026-000021,1,2026-01-31,DHL,DHL-93359559,DELIVERED_ON_TIME,REQ-0288,PASSED,17,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000022-01,PO-2026-000022,1,2026-02-10,UPS,UPS-63490384,DELIVERED_ON_TIME,REQ-0049,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000023-01,PO-2026-000023,1,2026-03-02,DHL,DHL-48010784,DELIVERED_LATE,REQ-0277,PASSED,20,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000024-01,PO-2026-000024,1,2026-02-05,DHL,DHL-53398180,DELIVERED_ON_TIME,REQ-0131,PASSED,17,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000025-01,PO-2026-000025,1,2026-02-04,DHL,DHL-54627614,DELIVERED_ON_TIME,REQ-0069,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000026-01,PO-2026-000026,1,2026-02-05,DHL,DHL-29892553,DELIVERED_ON_TIME,REQ-0211,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000027-01,PO-2026-000027,1,2026-02-20,FREIGHT_DIRECT,FRE-78951551,DELIVERED_LATE,REQ-0109,PASSED,3,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000028-01,PO-2026-000028,1,2026-02-01,FREIGHT_DIRECT,FRE-29872346,DELIVERED_ON_TIME,REQ-0192,PASSED,8,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000029-01,PO-2026-000029,1,2026-02-02,DHL,DHL-22159087,DELIVERED_ON_TIME,REQ-0084,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000030-01,PO-2026-000030,1,2026-02-07,FREIGHT_DIRECT,FRE-10203711,IN_TRANSIT,REQ-0032,PASSED,1,True,First partial batch received (1/3 items).
+DEL-PO-2026-000030-02,PO-2026-000030,2,2026-02-17,FEDEX,FED-39087977,DELIVERED_ON_TIME,REQ-0190,PASSED,2,False,Final remainder batch received (2 items). Order complete.
+DEL-PO-2026-000031-01,PO-2026-000031,1,2026-02-16,MAERSK,MAE-29991736,DELIVERED_ON_TIME,REQ-0154,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000032-01,PO-2026-000032,1,2026-02-09,DHL,DHL-86105331,DELIVERED_ON_TIME,REQ-0214,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000033-01,PO-2026-000033,1,2026-02-10,FREIGHT_DIRECT,FRE-70137846,DELIVERED_ON_TIME,REQ-0242,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000034-01,PO-2026-000034,1,2026-02-14,UPS,UPS-57332430,IN_TRANSIT,REQ-0175,PASSED,10,True,First partial batch received (10/18 items).
+DEL-PO-2026-000034-02,PO-2026-000034,2,2026-02-23,FEDEX,FED-44244560,DELIVERED_LATE,REQ-0122,PASSED,8,False,Final remainder batch received (8 items). Order complete.
+DEL-PO-2026-000035-01,PO-2026-000035,1,2026-02-12,DHL,DHL-92759995,DELIVERED_ON_TIME,REQ-0270,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000036-01,PO-2026-000036,1,2026-03-07,MAERSK,MAE-50817745,DELIVERED_LATE,REQ-0036,PASSED,7,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000037-01,PO-2026-000037,1,2026-02-13,FEDEX,FED-51627582,DELIVERED_ON_TIME,REQ-0198,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000038-01,PO-2026-000038,1,2026-02-16,DHL,DHL-80985152,DELIVERED_ON_TIME,REQ-0291,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000039-01,PO-2026-000039,1,2026-02-07,UPS,UPS-71473812,DELIVERED_ON_TIME,REQ-0261,PASSED,30,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000040-01,PO-2026-000040,1,2026-02-20,FEDEX,FED-20857194,DELIVERED_ON_TIME,REQ-0227,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000041-01,PO-2026-000041,1,2026-02-15,FREIGHT_DIRECT,FRE-60973639,DELIVERED_ON_TIME,REQ-0057,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000042-01,PO-2026-000042,1,2026-02-18,FEDEX,FED-30623514,DELIVERED_ON_TIME,REQ-0120,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000043-01,PO-2026-000043,1,2026-02-09,FREIGHT_DIRECT,FRE-93331779,DELIVERED_ON_TIME,REQ-0205,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000044-01,PO-2026-000044,1,2026-02-12,UPS,UPS-45639220,DELIVERED_ON_TIME,REQ-0103,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000045-01,PO-2026-000045,1,2026-03-06,FEDEX,FED-65746391,DELIVERED_LATE,REQ-0091,PASSED,30,False,Carrier transit delay (10 days overdue). Accepted upon arrival.
+DEL-PO-2026-000046-01,PO-2026-000046,1,2026-02-14,FREIGHT_DIRECT,FRE-90572073,DELIVERED_ON_TIME,REQ-0211,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000047-01,PO-2026-000047,1,2026-02-15,UPS,UPS-35671787,DELIVERED_ON_TIME,REQ-0111,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000048-01,PO-2026-000048,1,2026-02-18,UPS,UPS-24762172,DELIVERED_ON_TIME,REQ-0273,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000049-01,PO-2026-000049,1,2026-02-13,FEDEX,FED-57261627,DELIVERED_ON_TIME,REQ-0271,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000050-01,PO-2026-000050,1,2026-02-23,FREIGHT_DIRECT,FRE-68371000,DELIVERED_LATE,REQ-0294,PASSED,5,False,Carrier transit delay (4 days overdue). Accepted upon arrival.
+DEL-PO-2026-000051-01,PO-2026-000051,1,2026-02-14,FREIGHT_DIRECT,FRE-43769744,DELIVERED_ON_TIME,REQ-0235,PASSED,29,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000052-01,PO-2026-000052,1,2026-02-18,FEDEX,FED-86501866,DELIVERED_ON_TIME,REQ-0204,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000053-01,PO-2026-000053,1,2026-02-16,DHL,DHL-86011087,DELIVERED_ON_TIME,REQ-0052,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000054-01,PO-2026-000054,1,2026-03-04,DHL,DHL-79931482,DELIVERED_LATE,REQ-0188,PASSED,50,False,Carrier transit delay (6 days overdue). Accepted upon arrival.
+DEL-PO-2026-000055-01,PO-2026-000055,1,2026-02-13,DHL,DHL-77828329,DELIVERED_ON_TIME,REQ-0089,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000056-01,PO-2026-000056,1,2026-02-25,MAERSK,MAE-68773786,DELIVERED_ON_TIME,REQ-0036,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000057-01,PO-2026-000057,1,2026-02-18,UPS,UPS-98726987,DELIVERED_ON_TIME,REQ-0096,PASSED,102,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000058-01,PO-2026-000058,1,2026-03-12,UPS,UPS-57484313,DELIVERED_LATE,REQ-0129,PASSED,1,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000059-01,PO-2026-000059,1,2026-02-14,DHL,DHL-83691267,DELIVERED_ON_TIME,REQ-0100,PASSED,9,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000060-01,PO-2026-000060,1,2026-02-17,DHL,DHL-74853285,DELIVERED_ON_TIME,REQ-0090,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000061-01,PO-2026-000061,1,2026-02-20,MAERSK,MAE-91612439,DELIVERED_ON_TIME,REQ-0172,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000062-01,PO-2026-000062,1,2026-02-15,DHL,DHL-15216344,DELIVERED_ON_TIME,REQ-0151,PASSED,27,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000063-01,PO-2026-000063,1,2026-03-06,DHL,DHL-72852736,DELIVERED_LATE,REQ-0284,PASSED,3,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000064-01,PO-2026-000064,1,2026-02-17,FREIGHT_DIRECT,FRE-87027703,DELIVERED_ON_TIME,REQ-0002,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000065-01,PO-2026-000065,1,2026-02-21,DHL,DHL-94536532,DELIVERED_ON_TIME,REQ-0172,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000066-01,PO-2026-000066,1,2026-02-19,MAERSK,MAE-19823414,DAMAGED,REQ-0095,ACCEPTED_WITH_CONCESSION,20,False,Packaging dented; goods tested functional and accepted with 5% discount concession.
+DEL-PO-2026-000067-01,PO-2026-000067,1,2026-02-22,DHL,DHL-37514262,DELIVERED_ON_TIME,REQ-0160,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000068-01,PO-2026-000068,1,2026-02-17,UPS,UPS-48489823,DELIVERED_ON_TIME,REQ-0287,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000069-01,PO-2026-000069,1,2026-02-21,MAERSK,MAE-90510367,DELIVERED_ON_TIME,REQ-0256,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000070-01,PO-2026-000070,1,2026-03-14,FREIGHT_DIRECT,FRE-53723988,DELIVERED_LATE,REQ-0029,PASSED,2,False,Carrier transit delay (14 days overdue). Accepted upon arrival.
+DEL-PO-2026-000071-01,PO-2026-000071,1,2026-02-19,DHL,DHL-90397752,DELIVERED_ON_TIME,REQ-0197,PASSED,8,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000072-01,PO-2026-000072,1,2026-02-19,FREIGHT_DIRECT,FRE-77942583,DELIVERED_ON_TIME,REQ-0216,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000073-01,PO-2026-000073,1,2026-02-22,MAERSK,MAE-70089461,DELIVERED_ON_TIME,REQ-0157,PASSED,30,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000074-01,PO-2026-000074,1,2026-02-25,FEDEX,FED-59071820,IN_TRANSIT,REQ-0179,PASSED,13,True,First partial batch received (13/22 items).
+DEL-PO-2026-000074-02,PO-2026-000074,2,2026-03-06,UPS,UPS-37451943,DELIVERED_ON_TIME,REQ-0243,PASSED,9,False,Final remainder batch received (9 items). Order complete.
+DEL-PO-2026-000075-01,PO-2026-000075,1,2026-02-17,FEDEX,FED-35865957,DELIVERED_ON_TIME,REQ-0155,PASSED,43,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000076-01,PO-2026-000076,1,2026-02-25,FEDEX,FED-89760871,DELIVERED_ON_TIME,REQ-0091,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000077-01,PO-2026-000077,1,2026-02-18,MAERSK,MAE-80654418,DELIVERED_ON_TIME,REQ-0070,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000078-01,PO-2026-000078,1,2026-02-23,MAERSK,MAE-37026346,DELIVERED_ON_TIME,REQ-0255,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000079-01,PO-2026-000079,1,2026-02-22,UPS,UPS-74536929,DELIVERED_ON_TIME,REQ-0097,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000080-01,PO-2026-000080,1,2026-02-28,UPS,UPS-57806485,DELIVERED_LATE,REQ-0279,PASSED,14,False,Carrier transit delay (7 days overdue). Accepted upon arrival.
+DEL-PO-2026-000081-01,PO-2026-000081,1,2026-02-25,UPS,UPS-30516951,DELIVERED_ON_TIME,REQ-0111,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000082-01,PO-2026-000082,1,2026-03-03,MAERSK,MAE-27845556,DELIVERED_ON_TIME,REQ-0126,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000083-01,PO-2026-000083,1,2026-02-21,UPS,UPS-93181507,DELIVERED_ON_TIME,REQ-0265,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000084-01,PO-2026-000084,1,2026-02-23,DHL,DHL-74400083,DELIVERED_ON_TIME,REQ-0145,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000085-01,PO-2026-000085,1,2026-03-15,FEDEX,FED-36777603,DELIVERED_ON_TIME,REQ-0127,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000086-01,PO-2026-000086,1,2026-03-04,UPS,UPS-93471339,DELIVERED_ON_TIME,REQ-0135,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000087-01,PO-2026-000087,1,2026-03-01,MAERSK,MAE-36413495,DELIVERED_ON_TIME,REQ-0141,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000088-01,PO-2026-000088,1,2026-02-28,UPS,UPS-48091027,DELIVERED_ON_TIME,REQ-0266,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000089-01,PO-2026-000089,1,2026-03-14,FEDEX,FED-29585256,DELIVERED_LATE,REQ-0186,PASSED,4,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000090-01,PO-2026-000090,1,2026-03-04,DHL,DHL-37039434,DELIVERED_ON_TIME,REQ-0217,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000091-01,PO-2026-000091,1,2026-02-23,FREIGHT_DIRECT,FRE-35775753,DELIVERED_ON_TIME,REQ-0276,PASSED,71,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000092-01,PO-2026-000092,1,2026-02-26,FREIGHT_DIRECT,FRE-38126454,DELIVERED_ON_TIME,REQ-0058,PASSED,16,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000093-01,PO-2026-000093,1,2026-02-27,UPS,UPS-22620854,DELIVERED_ON_TIME,REQ-0076,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000094-01,PO-2026-000094,1,2026-03-01,FREIGHT_DIRECT,FRE-29786271,DELIVERED_ON_TIME,REQ-0252,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000095-01,PO-2026-000095,1,2026-02-26,FREIGHT_DIRECT,FRE-26711116,DELIVERED_ON_TIME,REQ-0235,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000096-01,PO-2026-000096,1,2026-03-04,MAERSK,MAE-41485426,IN_TRANSIT,REQ-0020,PASSED,31,True,First partial batch received (31/52 items).
+DEL-PO-2026-000096-02,PO-2026-000096,2,2026-03-15,FREIGHT_DIRECT,FRE-46913977,DELIVERED_LATE,REQ-0176,PASSED,21,False,Final remainder batch received (21 items). Order complete.
+DEL-PO-2026-000097-01,PO-2026-000097,1,2026-03-06,MAERSK,MAE-61237903,DELIVERED_ON_TIME,REQ-0077,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000098-01,PO-2026-000098,1,2026-03-08,UPS,UPS-18046851,DELIVERED_ON_TIME,REQ-0032,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000099-01,PO-2026-000099,1,2026-03-18,FEDEX,FED-25523097,DELIVERED_LATE,REQ-0111,PASSED,10,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000100-01,PO-2026-000100,1,2026-02-27,MAERSK,MAE-58079607,DELIVERED_ON_TIME,REQ-0062,PASSED,32,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000101-01,PO-2026-000101,1,2026-02-26,MAERSK,MAE-76530623,DELIVERED_ON_TIME,REQ-0113,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000102-01,PO-2026-000102,1,2026-03-06,MAERSK,MAE-86052037,DELIVERED_ON_TIME,REQ-0274,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000103-01,PO-2026-000103,1,2026-03-04,FEDEX,FED-25371806,IN_TRANSIT,REQ-0134,PASSED,2,True,First partial batch received (2/4 items).
+DEL-PO-2026-000103-02,PO-2026-000103,2,2026-03-12,MAERSK,MAE-58835340,DELIVERED_LATE,REQ-0251,PASSED,2,False,Final remainder batch received (2 items). Order complete.
+DEL-PO-2026-000104-01,PO-2026-000104,1,2026-02-27,FEDEX,FED-11410931,DELIVERED_ON_TIME,REQ-0199,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000105-01,PO-2026-000105,1,2026-02-24,UPS,UPS-25638749,DELIVERED_ON_TIME,REQ-0029,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000106-01,PO-2026-000106,1,2026-03-04,FREIGHT_DIRECT,FRE-98904622,DELIVERED_ON_TIME,REQ-0072,PASSED,23,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000107-01,PO-2026-000107,1,2026-03-05,DHL,DHL-41372866,DELIVERED_ON_TIME,REQ-0233,PASSED,58,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000108-01,PO-2026-000108,1,2026-03-25,MAERSK,MAE-55403870,DELIVERED_LATE,REQ-0170,PASSED,11,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000109-01,PO-2026-000109,1,2026-02-26,UPS,UPS-93753743,DELIVERED_ON_TIME,REQ-0283,PASSED,56,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000110-01,PO-2026-000110,1,2026-02-28,DHL,DHL-64072610,DELIVERED_ON_TIME,REQ-0120,PASSED,57,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000111-01,PO-2026-000111,1,2026-03-17,UPS,UPS-57116175,DELIVERED_LATE,REQ-0179,PASSED,52,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000112-01,PO-2026-000112,1,2026-03-12,FREIGHT_DIRECT,FRE-54134619,DELIVERED_LATE,REQ-0204,PASSED,20,False,Carrier transit delay (4 days overdue). Accepted upon arrival.
+DEL-PO-2026-000113-01,PO-2026-000113,1,2026-03-17,UPS,UPS-63482865,DELIVERED_LATE,REQ-0277,PASSED,4,False,Carrier transit delay (8 days overdue). Accepted upon arrival.
+DEL-PO-2026-000114-01,PO-2026-000114,1,2026-03-19,MAERSK,MAE-99351317,DELIVERED_ON_TIME,REQ-0025,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000115-01,PO-2026-000115,1,2026-03-08,UPS,UPS-63593751,DELIVERED_ON_TIME,REQ-0130,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000116-01,PO-2026-000116,1,2026-02-28,DHL,DHL-51716232,DELIVERED_ON_TIME,REQ-0131,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000117-01,PO-2026-000117,1,2026-03-02,FEDEX,FED-93340817,DELIVERED_ON_TIME,REQ-0198,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000118-01,PO-2026-000118,1,2026-03-03,FEDEX,FED-87609023,DELIVERED_ON_TIME,REQ-0082,PASSED,42,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000119-01,PO-2026-000119,1,2026-03-18,DHL,DHL-46228973,DELIVERED_ON_TIME,REQ-0278,PASSED,30,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000120-01,PO-2026-000120,1,2026-03-04,FREIGHT_DIRECT,FRE-19057767,DELIVERED_ON_TIME,REQ-0194,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000121-01,PO-2026-000121,1,2026-03-04,FEDEX,FED-63626987,DELIVERED_ON_TIME,REQ-0238,PASSED,17,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000122-01,PO-2026-000122,1,2026-03-21,UPS,UPS-26927200,DELIVERED_LATE,REQ-0190,PASSED,71,False,Carrier transit delay (3 days overdue). Accepted upon arrival.
+DEL-PO-2026-000123-01,PO-2026-000123,1,2026-03-10,DHL,DHL-17497077,DELIVERED_ON_TIME,REQ-0292,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000124-01,PO-2026-000124,1,2026-03-09,DHL,DHL-17954406,DELIVERED_ON_TIME,REQ-0200,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000125-01,PO-2026-000125,1,2026-03-04,FREIGHT_DIRECT,FRE-48829284,DELIVERED_ON_TIME,REQ-0162,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000126-01,PO-2026-000126,1,2026-03-07,DHL,DHL-25148951,DELIVERED_ON_TIME,REQ-0083,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000127-01,PO-2026-000127,1,2026-03-08,FREIGHT_DIRECT,FRE-92291462,DELIVERED_ON_TIME,REQ-0099,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000128-01,PO-2026-000128,1,2026-03-10,FREIGHT_DIRECT,FRE-68483162,IN_TRANSIT,REQ-0244,PASSED,1,True,First partial batch received (1/1 items).
+DEL-PO-2026-000128-02,PO-2026-000128,2,2026-03-19,MAERSK,MAE-80970024,DELIVERED_LATE,REQ-0245,PASSED,0,False,Final remainder batch received (0 items). Order complete.
+DEL-PO-2026-000129-01,PO-2026-000129,1,2026-03-14,MAERSK,MAE-69723195,DELIVERED_ON_TIME,REQ-0116,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000130-01,PO-2026-000130,1,2026-03-04,FEDEX,FED-61895909,DELIVERED_ON_TIME,REQ-0002,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000131-01,PO-2026-000131,1,2026-03-11,MAERSK,MAE-34531086,DELIVERED_ON_TIME,REQ-0226,PASSED,8,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000132-01,PO-2026-000132,1,2026-03-13,FREIGHT_DIRECT,FRE-71302949,DELIVERED_ON_TIME,REQ-0096,PASSED,51,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000133-01,PO-2026-000133,1,2026-03-11,UPS,UPS-88619666,DELIVERED_ON_TIME,REQ-0001,PASSED,8,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000134-01,PO-2026-000134,1,2026-03-08,FEDEX,FED-51844913,DELIVERED_ON_TIME,REQ-0169,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000135-01,PO-2026-000135,1,2026-03-10,MAERSK,MAE-64569614,DELIVERED_ON_TIME,REQ-0026,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000136-01,PO-2026-000136,1,2026-03-24,FEDEX,FED-58410619,DELIVERED_ON_TIME,REQ-0127,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000137-01,PO-2026-000137,1,2026-03-20,FEDEX,FED-78949070,DELIVERED_ON_TIME,REQ-0020,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000138-01,PO-2026-000138,1,2026-03-17,FEDEX,FED-39704904,DELIVERED_ON_TIME,REQ-0259,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000139-01,PO-2026-000139,1,2026-03-15,UPS,UPS-84823220,DELIVERED_ON_TIME,REQ-0180,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000140-01,PO-2026-000140,1,2026-03-12,DHL,DHL-86964997,DELIVERED_ON_TIME,REQ-0090,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000141-01,PO-2026-000141,1,2026-04-16,MAERSK,MAE-82500439,DELIVERED_LATE,REQ-0132,PASSED,25,False,Carrier transit delay (10 days overdue). Accepted upon arrival.
+DEL-PO-2026-000142-01,PO-2026-000142,1,2026-03-14,DHL,DHL-58576864,DELIVERED_ON_TIME,REQ-0015,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000143-01,PO-2026-000143,1,2026-03-19,UPS,UPS-73357345,IN_TRANSIT,REQ-0035,PASSED,1,True,First partial batch received (1/1 items).
+DEL-PO-2026-000143-02,PO-2026-000143,2,2026-03-29,FEDEX,FED-70078867,DELIVERED_LATE,REQ-0248,PASSED,0,False,Final remainder batch received (0 items). Order complete.
+DEL-PO-2026-000144-01,PO-2026-000144,1,2026-03-21,MAERSK,MAE-82791838,DELIVERED_ON_TIME,REQ-0292,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000145-01,PO-2026-000145,1,2026-03-19,FEDEX,FED-13272030,DELIVERED_ON_TIME,REQ-0122,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000146-01,PO-2026-000146,1,2026-03-11,FEDEX,FED-53392887,DELIVERED_ON_TIME,REQ-0286,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000147-01,PO-2026-000147,1,2026-03-24,FREIGHT_DIRECT,FRE-42362781,DELIVERED_ON_TIME,REQ-0120,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000148-01,PO-2026-000148,1,2026-03-20,FEDEX,FED-71748140,DELIVERED_ON_TIME,REQ-0224,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000149-01,PO-2026-000149,1,2026-03-16,UPS,UPS-61323316,DELIVERED_ON_TIME,REQ-0047,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000150-01,PO-2026-000150,1,2026-03-23,UPS,UPS-75329558,DELIVERED_ON_TIME,REQ-0292,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000151-01,PO-2026-000151,1,2026-03-22,DHL,DHL-72429218,DELIVERED_ON_TIME,REQ-0068,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000152-01,PO-2026-000152,1,2026-03-18,UPS,UPS-35891683,DELIVERED_ON_TIME,REQ-0278,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000153-01,PO-2026-000153,1,2026-03-15,DHL,DHL-20619607,DELIVERED_ON_TIME,REQ-0206,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000154-01,PO-2026-000154,1,2026-03-20,MAERSK,MAE-15802088,DELIVERED_ON_TIME,REQ-0257,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000155-01,PO-2026-000155,1,2026-04-07,UPS,UPS-83663222,DELIVERED_LATE,REQ-0080,PASSED,1,False,Carrier transit delay (8 days overdue). Accepted upon arrival.
+DEL-PO-2026-000156-01,PO-2026-000156,1,2026-03-14,DHL,DHL-84180738,IN_TRANSIT,REQ-0174,PASSED,12,True,First partial batch received (12/20 items).
+DEL-PO-2026-000156-02,PO-2026-000156,2,2026-03-24,UPS,UPS-72837369,DELIVERED_LATE,REQ-0291,PASSED,8,False,Final remainder batch received (8 items). Order complete.
+DEL-PO-2026-000157-01,PO-2026-000157,1,2026-03-19,MAERSK,MAE-88519393,DELIVERED_ON_TIME,REQ-0137,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000158-01,PO-2026-000158,1,2026-03-28,FREIGHT_DIRECT,FRE-19073447,DELIVERED_ON_TIME,REQ-0123,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000159-01,PO-2026-000159,1,2026-03-23,FREIGHT_DIRECT,FRE-84752733,DELIVERED_ON_TIME,REQ-0121,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000160-01,PO-2026-000160,1,2026-03-24,DHL,DHL-14033220,DELIVERED_ON_TIME,REQ-0083,PASSED,30,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000161-01,PO-2026-000161,1,2026-03-19,FREIGHT_DIRECT,FRE-36006598,DELIVERED_ON_TIME,REQ-0249,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000162-01,PO-2026-000162,1,2026-03-24,DHL,DHL-27982244,DELIVERED_ON_TIME,REQ-0140,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000163-01,PO-2026-000163,1,2026-03-18,FREIGHT_DIRECT,FRE-28242161,IN_TRANSIT,REQ-0141,PASSED,1,True,First partial batch received (1/1 items).
+DEL-PO-2026-000163-02,PO-2026-000163,2,2026-03-30,FREIGHT_DIRECT,FRE-82945594,DELIVERED_ON_TIME,REQ-0071,PASSED,0,False,Final remainder batch received (0 items). Order complete.
+DEL-PO-2026-000164-01,PO-2026-000164,1,2026-03-24,FEDEX,FED-17469932,DELIVERED_ON_TIME,REQ-0187,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000165-01,PO-2026-000165,1,2026-03-31,FEDEX,FED-97068966,DELIVERED_ON_TIME,REQ-0102,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000166-01,PO-2026-000166,1,2026-03-22,FREIGHT_DIRECT,FRE-42500468,DELIVERED_ON_TIME,REQ-0266,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000167-01,PO-2026-000167,1,2026-03-27,MAERSK,MAE-93236844,DELIVERED_ON_TIME,REQ-0045,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000168-01,PO-2026-000168,1,2026-03-29,UPS,UPS-73983051,DELIVERED_ON_TIME,REQ-0149,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000169-01,PO-2026-000169,1,2026-03-21,UPS,UPS-75429912,DELIVERED_ON_TIME,REQ-0136,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000170-01,PO-2026-000170,1,2026-03-20,UPS,UPS-73739397,DELIVERED_ON_TIME,REQ-0197,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000171-01,PO-2026-000171,1,2026-03-25,MAERSK,MAE-38628138,DELIVERED_ON_TIME,REQ-0232,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000172-01,PO-2026-000172,1,2026-04-09,MAERSK,MAE-33638508,DELIVERED_LATE,REQ-0082,PASSED,10,False,Carrier transit delay (3 days overdue). Accepted upon arrival.
+DEL-PO-2026-000173-01,PO-2026-000173,1,2026-03-19,UPS,UPS-43283722,DELIVERED_ON_TIME,REQ-0028,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000174-01,PO-2026-000174,1,2026-03-27,DHL,DHL-15349696,DELIVERED_ON_TIME,REQ-0011,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000175-01,PO-2026-000175,1,2026-03-27,DHL,DHL-70508301,IN_TRANSIT,REQ-0223,PASSED,2,True,First partial batch received (2/4 items).
+DEL-PO-2026-000175-02,PO-2026-000175,2,2026-04-03,FEDEX,FED-92875361,DELIVERED_LATE,REQ-0150,PASSED,2,False,Final remainder batch received (2 items). Order complete.
+DEL-PO-2026-000176-01,PO-2026-000176,1,2026-03-29,DHL,DHL-37185953,DELIVERED_ON_TIME,REQ-0198,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000177-01,PO-2026-000177,1,2026-03-21,FREIGHT_DIRECT,FRE-24999737,DELIVERED_ON_TIME,REQ-0160,PASSED,28,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000178-01,PO-2026-000178,1,2026-03-26,MAERSK,MAE-80182874,DELIVERED_ON_TIME,REQ-0166,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000179-01,PO-2026-000179,1,2026-03-21,MAERSK,MAE-27410872,DELIVERED_ON_TIME,REQ-0242,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000180-01,PO-2026-000180,1,2026-03-23,MAERSK,MAE-72199524,DELIVERED_ON_TIME,REQ-0298,PASSED,16,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000181-01,PO-2026-000181,1,2026-04-11,UPS,UPS-75141573,DELIVERED_LATE,REQ-0224,PASSED,21,False,Carrier transit delay (14 days overdue). Accepted upon arrival.
+DEL-PO-2026-000182-01,PO-2026-000182,1,2026-03-23,DHL,DHL-77534635,DELIVERED_ON_TIME,REQ-0194,PASSED,51,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000183-01,PO-2026-000183,1,2026-04-07,FREIGHT_DIRECT,FRE-70813731,DELIVERED_ON_TIME,REQ-0003,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000184-01,PO-2026-000184,1,2026-03-26,UPS,UPS-89627541,DELIVERED_ON_TIME,REQ-0080,PASSED,76,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000185-01,PO-2026-000185,1,2026-04-15,UPS,UPS-94248896,DELIVERED_ON_TIME,REQ-0079,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000186-01,PO-2026-000186,1,2026-04-09,MAERSK,MAE-49728906,DELIVERED_ON_TIME,REQ-0206,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000187-01,PO-2026-000187,1,2026-04-03,MAERSK,MAE-89475092,DELIVERED_ON_TIME,REQ-0188,PASSED,14,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000188-01,PO-2026-000188,1,2026-03-31,DHL,DHL-96025185,DELIVERED_ON_TIME,REQ-0046,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000189-01,PO-2026-000189,1,2026-03-28,MAERSK,MAE-80593450,DELIVERED_ON_TIME,REQ-0123,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000190-01,PO-2026-000190,1,2026-03-27,DHL,DHL-16323068,DELIVERED_ON_TIME,REQ-0091,PASSED,26,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000191-01,PO-2026-000191,1,2026-04-17,UPS,UPS-29272726,DELIVERED_LATE,REQ-0175,PASSED,22,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000192-01,PO-2026-000192,1,2026-03-27,FEDEX,FED-82292920,DELIVERED_ON_TIME,REQ-0231,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000193-01,PO-2026-000193,1,2026-03-25,MAERSK,MAE-18270823,DELIVERED_ON_TIME,REQ-0074,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000194-01,PO-2026-000194,1,2026-03-23,MAERSK,MAE-33467705,DELIVERED_ON_TIME,REQ-0283,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000195-01,PO-2026-000195,1,2026-03-31,MAERSK,MAE-14334050,DELIVERED_ON_TIME,REQ-0195,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000196-01,PO-2026-000196,1,2026-04-12,UPS,UPS-25456290,DELIVERED_LATE,REQ-0255,PASSED,7,False,Carrier transit delay (14 days overdue). Accepted upon arrival.
+DEL-PO-2026-000197-01,PO-2026-000197,1,2026-04-12,FREIGHT_DIRECT,FRE-60875503,DELIVERED_ON_TIME,REQ-0245,PASSED,40,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000198-01,PO-2026-000198,1,2026-04-02,UPS,UPS-89774330,DELIVERED_ON_TIME,REQ-0158,PASSED,28,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000199-01,PO-2026-000199,1,2026-04-07,DHL,DHL-60074891,DELIVERED_ON_TIME,REQ-0123,PASSED,25,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000200-01,PO-2026-000200,1,2026-04-09,MAERSK,MAE-56426443,DELIVERED_ON_TIME,REQ-0278,PASSED,50,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000201-01,PO-2026-000201,1,2026-04-03,UPS,UPS-64467574,DELIVERED_ON_TIME,REQ-0234,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000202-01,PO-2026-000202,1,2026-04-03,FEDEX,FED-67472567,IN_TRANSIT,REQ-0129,PASSED,3,True,First partial batch received (3/6 items).
+DEL-PO-2026-000202-02,PO-2026-000202,2,2026-04-15,MAERSK,MAE-71916260,DELIVERED_LATE,REQ-0261,PASSED,3,False,Final remainder batch received (3 items). Order complete.
+DEL-PO-2026-000203-01,PO-2026-000203,1,2026-04-09,DHL,DHL-34912551,DELIVERED_ON_TIME,REQ-0269,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000204-01,PO-2026-000204,1,2026-04-04,UPS,UPS-58283107,DELIVERED_ON_TIME,REQ-0083,PASSED,53,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000205-01,PO-2026-000205,1,2026-03-31,UPS,UPS-25217429,DELIVERED_ON_TIME,REQ-0209,PASSED,31,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000206-01,PO-2026-000206,1,2026-04-10,FREIGHT_DIRECT,FRE-69757261,DELIVERED_ON_TIME,REQ-0232,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000207-01,PO-2026-000207,1,2026-04-19,FREIGHT_DIRECT,FRE-48330933,DELIVERED_LATE,REQ-0032,PASSED,3,False,Carrier transit delay (7 days overdue). Accepted upon arrival.
+DEL-PO-2026-000208-01,PO-2026-000208,1,2026-04-04,FREIGHT_DIRECT,FRE-84094360,DELIVERED_ON_TIME,REQ-0209,PASSED,52,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000209-01,PO-2026-000209,1,2026-03-31,UPS,UPS-13542916,DELIVERED_ON_TIME,REQ-0179,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000210-01,PO-2026-000210,1,2026-04-04,MAERSK,MAE-24269133,DAMAGED,REQ-0054,ACCEPTED_WITH_CONCESSION,2,False,Packaging dented; goods tested functional and accepted with 5% discount concession.
+DEL-PO-2026-000211-01,PO-2026-000211,1,2026-04-06,MAERSK,MAE-29306101,DELIVERED_ON_TIME,REQ-0216,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000212-01,PO-2026-000212,1,2026-04-08,FREIGHT_DIRECT,FRE-91908583,DELIVERED_ON_TIME,REQ-0034,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000213-01,PO-2026-000213,1,2026-04-09,FEDEX,FED-14021280,DELIVERED_ON_TIME,REQ-0015,PASSED,26,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000214-01,PO-2026-000214,1,2026-04-12,MAERSK,MAE-99821261,DELIVERED_ON_TIME,REQ-0237,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000215-01,PO-2026-000215,1,2026-04-15,MAERSK,MAE-59994807,DELIVERED_LATE,REQ-0273,PASSED,20,False,Carrier transit delay (7 days overdue). Accepted upon arrival.
+DEL-PO-2026-000216-01,PO-2026-000216,1,2026-04-01,FREIGHT_DIRECT,FRE-95388608,DELIVERED_ON_TIME,REQ-0278,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000217-01,PO-2026-000217,1,2026-04-06,MAERSK,MAE-62738230,IN_TRANSIT,REQ-0200,PASSED,6,True,First partial batch received (6/10 items).
+DEL-PO-2026-000217-02,PO-2026-000217,2,2026-04-12,FREIGHT_DIRECT,FRE-10562368,DELIVERED_LATE,REQ-0299,PASSED,4,False,Final remainder batch received (4 items). Order complete.
+DEL-PO-2026-000218-01,PO-2026-000218,1,2026-04-14,DHL,DHL-68287922,DELIVERED_ON_TIME,REQ-0290,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000219-01,PO-2026-000219,1,2026-04-12,MAERSK,MAE-74752136,DELIVERED_ON_TIME,REQ-0074,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000220-01,PO-2026-000220,1,2026-04-08,FEDEX,FED-88763014,DELIVERED_ON_TIME,REQ-0266,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000221-01,PO-2026-000221,1,2026-04-05,MAERSK,MAE-73500276,DELIVERED_ON_TIME,REQ-0158,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000222-01,PO-2026-000222,1,2026-04-05,FEDEX,FED-19164758,DELIVERED_ON_TIME,REQ-0283,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000223-01,PO-2026-000223,1,2026-04-08,DHL,DHL-81583189,DELIVERED_ON_TIME,REQ-0222,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000224-01,PO-2026-000224,1,2026-04-12,MAERSK,MAE-38267938,DELIVERED_ON_TIME,REQ-0257,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000225-01,PO-2026-000225,1,2026-04-20,MAERSK,MAE-31742194,DELIVERED_LATE,REQ-0163,PASSED,2,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000226-01,PO-2026-000226,1,2026-04-17,FREIGHT_DIRECT,FRE-71458191,DELIVERED_LATE,REQ-0025,PASSED,5,False,Carrier transit delay (7 days overdue). Accepted upon arrival.
+DEL-PO-2026-000227-01,PO-2026-000227,1,2026-04-16,UPS,UPS-13691031,DELIVERED_ON_TIME,REQ-0026,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000228-01,PO-2026-000228,1,2026-04-30,DHL,DHL-42928937,DELIVERED_LATE,REQ-0226,PASSED,5,False,Carrier transit delay (14 days overdue). Accepted upon arrival.
+DEL-PO-2026-000229-01,PO-2026-000229,1,2026-04-10,UPS,UPS-71718004,DELIVERED_ON_TIME,REQ-0247,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000230-01,PO-2026-000230,1,2026-04-04,UPS,UPS-89335887,DELIVERED_ON_TIME,REQ-0155,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000231-01,PO-2026-000231,1,2026-04-11,FREIGHT_DIRECT,FRE-94188831,DELIVERED_ON_TIME,REQ-0173,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000232-01,PO-2026-000232,1,2026-04-10,MAERSK,MAE-69761545,DELIVERED_ON_TIME,REQ-0131,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000233-01,PO-2026-000233,1,2026-04-11,FEDEX,FED-50044720,DELIVERED_ON_TIME,REQ-0191,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000234-01,PO-2026-000234,1,2026-04-13,FEDEX,FED-37598155,DELIVERED_ON_TIME,REQ-0027,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000235-01,PO-2026-000235,1,2026-04-19,FREIGHT_DIRECT,FRE-44573974,DELIVERED_LATE,REQ-0242,PASSED,20,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000236-01,PO-2026-000236,1,2026-04-12,MAERSK,MAE-27596396,DELIVERED_ON_TIME,REQ-0188,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000237-01,PO-2026-000237,1,2026-04-19,MAERSK,MAE-71619393,DELIVERED_ON_TIME,REQ-0136,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000238-01,PO-2026-000238,1,2026-04-14,DHL,DHL-53965168,DELIVERED_ON_TIME,REQ-0067,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000239-01,PO-2026-000239,1,2026-04-14,UPS,UPS-12853841,DELIVERED_ON_TIME,REQ-0147,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000240-01,PO-2026-000240,1,2026-04-14,DHL,DHL-18835939,DELIVERED_ON_TIME,REQ-0078,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000241-01,PO-2026-000241,1,2026-04-10,DHL,DHL-60024868,DELIVERED_ON_TIME,REQ-0025,PASSED,16,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000242-01,PO-2026-000242,1,2026-04-23,FREIGHT_DIRECT,FRE-87905924,DELIVERED_ON_TIME,REQ-0102,PASSED,25,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000243-01,PO-2026-000243,1,2026-04-11,DHL,DHL-88657739,DELIVERED_ON_TIME,REQ-0103,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000244-01,PO-2026-000244,1,2026-04-20,DHL,DHL-29355324,DELIVERED_ON_TIME,REQ-0015,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000245-01,PO-2026-000245,1,2026-04-12,FEDEX,FED-85579521,DELIVERED_ON_TIME,REQ-0147,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000246-01,PO-2026-000246,1,2026-04-17,UPS,UPS-29763096,IN_TRANSIT,REQ-0034,PASSED,1,True,First partial batch received (1/2 items).
+DEL-PO-2026-000246-02,PO-2026-000246,2,2026-04-22,UPS,UPS-30099703,DELIVERED_LATE,REQ-0159,PASSED,1,False,Final remainder batch received (1 items). Order complete.
+DEL-PO-2026-000247-01,PO-2026-000247,1,2026-04-14,UPS,UPS-69175177,DELIVERED_ON_TIME,REQ-0161,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000248-01,PO-2026-000248,1,2026-04-17,FEDEX,FED-36202369,DELIVERED_ON_TIME,REQ-0018,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000249-01,PO-2026-000249,1,2026-04-20,FEDEX,FED-44380574,DELIVERED_ON_TIME,REQ-0051,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000250-01,PO-2026-000250,1,2026-04-20,MAERSK,MAE-97497062,DELIVERED_ON_TIME,REQ-0258,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000251-01,PO-2026-000251,1,2026-04-20,UPS,UPS-48346520,DELIVERED_ON_TIME,REQ-0087,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000252-01,PO-2026-000252,1,2026-04-12,FEDEX,FED-69598564,DELIVERED_ON_TIME,REQ-0191,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000253-01,PO-2026-000253,1,2026-04-12,MAERSK,MAE-88187975,DELIVERED_ON_TIME,REQ-0275,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000254-01,PO-2026-000254,1,2026-04-17,FEDEX,FED-73468951,DELIVERED_ON_TIME,REQ-0074,PASSED,42,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000255-01,PO-2026-000255,1,2026-04-22,MAERSK,MAE-45759239,IN_TRANSIT,REQ-0191,PASSED,1,True,First partial batch received (1/2 items).
+DEL-PO-2026-000255-02,PO-2026-000255,2,2026-05-03,MAERSK,MAE-14931471,DELIVERED_LATE,REQ-0207,PASSED,1,False,Final remainder batch received (1 items). Order complete.
+DEL-PO-2026-000256-01,PO-2026-000256,1,2026-04-15,MAERSK,MAE-67130230,DELIVERED_ON_TIME,REQ-0153,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000257-01,PO-2026-000257,1,2026-04-29,FREIGHT_DIRECT,FRE-68000317,DELIVERED_LATE,REQ-0018,PASSED,1,False,Carrier transit delay (7 days overdue). Accepted upon arrival.
+DEL-PO-2026-000258-01,PO-2026-000258,1,2026-04-21,FREIGHT_DIRECT,FRE-25909880,DELIVERED_ON_TIME,REQ-0090,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000259-01,PO-2026-000259,1,2026-04-21,MAERSK,MAE-26454429,DELIVERED_ON_TIME,REQ-0275,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000260-01,PO-2026-000260,1,2026-04-20,FEDEX,FED-40781876,DELIVERED_ON_TIME,REQ-0075,PASSED,27,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000261-01,PO-2026-000261,1,2026-04-24,FREIGHT_DIRECT,FRE-24590806,DELIVERED_ON_TIME,REQ-0206,PASSED,55,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000262-01,PO-2026-000262,1,2026-05-13,FREIGHT_DIRECT,FRE-68093413,DELIVERED_LATE,REQ-0245,PASSED,51,False,Carrier transit delay (6 days overdue). Accepted upon arrival.
+DEL-PO-2026-000263-01,PO-2026-000263,1,2026-05-03,FEDEX,FED-96698780,DELIVERED_ON_TIME,REQ-0118,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000264-01,PO-2026-000264,1,2026-04-21,MAERSK,MAE-95484551,DELIVERED_ON_TIME,REQ-0278,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000265-01,PO-2026-000265,1,2026-04-28,FEDEX,FED-56595554,DELIVERED_ON_TIME,REQ-0142,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000266-01,PO-2026-000266,1,2026-05-10,UPS,UPS-91947936,DELIVERED_LATE,REQ-0300,PASSED,30,False,Carrier transit delay (6 days overdue). Accepted upon arrival.
+DEL-PO-2026-000267-01,PO-2026-000267,1,2026-04-20,MAERSK,MAE-41148233,DELIVERED_ON_TIME,REQ-0076,PASSED,9,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000268-01,PO-2026-000268,1,2026-04-29,FEDEX,FED-81421829,DELIVERED_ON_TIME,REQ-0079,PASSED,8,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000269-01,PO-2026-000269,1,2026-04-25,FEDEX,FED-91616021,DELIVERED_ON_TIME,REQ-0276,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000270-01,PO-2026-000270,1,2026-05-01,FREIGHT_DIRECT,FRE-59474837,DELIVERED_ON_TIME,REQ-0152,PASSED,57,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000271-01,PO-2026-000271,1,2026-05-06,DHL,DHL-55678546,DELIVERED_ON_TIME,REQ-0179,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000272-01,PO-2026-000272,1,2026-04-19,FEDEX,FED-50329198,DELIVERED_ON_TIME,REQ-0189,PASSED,16,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000273-01,PO-2026-000273,1,2026-04-22,DHL,DHL-13005955,DELIVERED_ON_TIME,REQ-0252,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000274-01,PO-2026-000274,1,2026-05-08,FREIGHT_DIRECT,FRE-30885066,DELIVERED_LATE,REQ-0061,PASSED,11,False,Carrier transit delay (10 days overdue). Accepted upon arrival.
+DEL-PO-2026-000275-01,PO-2026-000275,1,2026-05-02,FEDEX,FED-25393841,DELIVERED_ON_TIME,REQ-0180,PASSED,9,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000276-01,PO-2026-000276,1,2026-04-26,DHL,DHL-97029023,DELIVERED_ON_TIME,REQ-0158,PASSED,52,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000277-01,PO-2026-000277,1,2026-04-28,MAERSK,MAE-75785908,IN_TRANSIT,REQ-0162,PASSED,3,True,First partial batch received (3/6 items).
+DEL-PO-2026-000277-02,PO-2026-000277,2,2026-05-09,FEDEX,FED-12322531,DELIVERED_ON_TIME,REQ-0105,PASSED,3,False,Final remainder batch received (3 items). Order complete.
+DEL-PO-2026-000278-01,PO-2026-000278,1,2026-04-25,FREIGHT_DIRECT,FRE-38822781,IN_TRANSIT,REQ-0280,PASSED,2,True,First partial batch received (2/4 items).
+DEL-PO-2026-000278-02,PO-2026-000278,2,2026-05-05,FREIGHT_DIRECT,FRE-78617696,DELIVERED_ON_TIME,REQ-0264,PASSED,2,False,Final remainder batch received (2 items). Order complete.
+DEL-PO-2026-000279-01,PO-2026-000279,1,2026-04-28,MAERSK,MAE-81478497,DELIVERED_ON_TIME,REQ-0242,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000280-01,PO-2026-000280,1,2026-05-17,DHL,DHL-25519988,DELIVERED_LATE,REQ-0098,PASSED,3,False,Carrier transit delay (6 days overdue). Accepted upon arrival.
+DEL-PO-2026-000281-01,PO-2026-000281,1,2026-04-25,FEDEX,FED-12254549,DELIVERED_ON_TIME,REQ-0028,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000282-01,PO-2026-000282,1,2026-04-30,MAERSK,MAE-71349178,DELIVERED_ON_TIME,REQ-0113,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000283-01,PO-2026-000283,1,2026-05-06,MAERSK,MAE-29656345,DELIVERED_ON_TIME,REQ-0058,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000284-01,PO-2026-000284,1,2026-05-01,MAERSK,MAE-43706378,DELIVERED_ON_TIME,REQ-0078,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000285-01,PO-2026-000285,1,2026-05-03,FEDEX,FED-89343317,DELIVERED_ON_TIME,REQ-0070,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000286-01,PO-2026-000286,1,2026-05-16,FEDEX,FED-45161591,DELIVERED_LATE,REQ-0300,PASSED,5,False,Carrier transit delay (10 days overdue). Accepted upon arrival.
+DEL-PO-2026-000287-01,PO-2026-000287,1,2026-05-23,MAERSK,MAE-75695049,DELIVERED_LATE,REQ-0292,PASSED,5,False,Carrier transit delay (14 days overdue). Accepted upon arrival.
+DEL-PO-2026-000288-01,PO-2026-000288,1,2026-04-27,FEDEX,FED-76353219,DELIVERED_ON_TIME,REQ-0094,PASSED,50,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000289-01,PO-2026-000289,1,2026-04-28,DHL,DHL-55178253,DELIVERED_ON_TIME,REQ-0089,PASSED,50,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000290-01,PO-2026-000290,1,2026-05-16,UPS,UPS-11107361,DELIVERED_LATE,REQ-0022,PASSED,7,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000291-01,PO-2026-000291,1,2026-05-02,DHL,DHL-51801738,DELIVERED_ON_TIME,REQ-0204,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000292-01,PO-2026-000292,1,2026-05-16,MAERSK,MAE-76586435,DELIVERED_LATE,REQ-0183,PASSED,3,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000293-01,PO-2026-000293,1,2026-05-09,FREIGHT_DIRECT,FRE-79507212,DELIVERED_LATE,REQ-0292,PASSED,3,False,Carrier transit delay (6 days overdue). Accepted upon arrival.
+DEL-PO-2026-000294-01,PO-2026-000294,1,2026-04-29,FEDEX,FED-36992514,DELIVERED_ON_TIME,REQ-0223,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000295-01,PO-2026-000295,1,2026-05-09,MAERSK,MAE-17433197,DELIVERED_ON_TIME,REQ-0140,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000296-01,PO-2026-000296,1,2026-05-02,FEDEX,FED-32160327,DELIVERED_ON_TIME,REQ-0143,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000297-01,PO-2026-000297,1,2026-06-06,FEDEX,FED-58010115,DELIVERED_LATE,REQ-0070,PASSED,5,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000298-01,PO-2026-000298,1,2026-05-12,FREIGHT_DIRECT,FRE-38475844,DELIVERED_LATE,REQ-0060,PASSED,2,False,Carrier transit delay (4 days overdue). Accepted upon arrival.
+DEL-PO-2026-000299-01,PO-2026-000299,1,2026-05-07,MAERSK,MAE-51697089,DELIVERED_ON_TIME,REQ-0057,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000300-01,PO-2026-000300,1,2026-05-03,FEDEX,FED-91101125,DELIVERED_ON_TIME,REQ-0009,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000301-01,PO-2026-000301,1,2026-05-04,MAERSK,MAE-15582358,DELIVERED_ON_TIME,REQ-0087,PASSED,62,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000302-01,PO-2026-000302,1,2026-05-19,UPS,UPS-53305157,DELIVERED_LATE,REQ-0103,PASSED,5,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000303-01,PO-2026-000303,1,2026-05-08,MAERSK,MAE-36933468,DELIVERED_ON_TIME,REQ-0069,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000304-01,PO-2026-000304,1,2026-05-07,DHL,DHL-56839032,DELIVERED_ON_TIME,REQ-0114,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000305-01,PO-2026-000305,1,2026-05-07,MAERSK,MAE-10238080,DELIVERED_ON_TIME,REQ-0145,PASSED,27,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000306-01,PO-2026-000306,1,2026-05-03,MAERSK,MAE-77876544,DELIVERED_ON_TIME,REQ-0093,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000307-01,PO-2026-000307,1,2026-05-26,DHL,DHL-81032450,DELIVERED_LATE,REQ-0266,PASSED,1,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000308-01,PO-2026-000308,1,2026-05-05,MAERSK,MAE-36075816,DELIVERED_ON_TIME,REQ-0089,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000309-01,PO-2026-000309,1,2026-05-14,FEDEX,FED-92517922,DELIVERED_LATE,REQ-0096,PASSED,30,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000310-01,PO-2026-000310,1,2026-05-11,FEDEX,FED-14530791,DELIVERED_ON_TIME,REQ-0076,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000311-01,PO-2026-000311,1,2026-05-23,FEDEX,FED-65277731,DELIVERED_ON_TIME,REQ-0279,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000312-01,PO-2026-000312,1,2026-05-07,UPS,UPS-35758925,IN_TRANSIT,REQ-0202,PASSED,6,True,First partial batch received (6/10 items).
+DEL-PO-2026-000312-02,PO-2026-000312,2,2026-05-16,FEDEX,FED-20155987,DELIVERED_LATE,REQ-0100,PASSED,4,False,Final remainder batch received (4 items). Order complete.
+DEL-PO-2026-000313-01,PO-2026-000313,1,2026-05-05,DHL,DHL-82942866,DELIVERED_ON_TIME,REQ-0231,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000314-01,PO-2026-000314,1,2026-05-08,UPS,UPS-50614121,DELIVERED_ON_TIME,REQ-0157,PASSED,53,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000315-01,PO-2026-000315,1,2026-05-06,MAERSK,MAE-38380146,IN_TRANSIT,REQ-0276,PASSED,2,True,First partial batch received (2/4 items).
+DEL-PO-2026-000315-02,PO-2026-000315,2,2026-05-13,FREIGHT_DIRECT,FRE-91996028,DELIVERED_ON_TIME,REQ-0165,PASSED,2,False,Final remainder batch received (2 items). Order complete.
+DEL-PO-2026-000316-01,PO-2026-000316,1,2026-05-07,FEDEX,FED-92534707,DELIVERED_ON_TIME,REQ-0125,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000317-01,PO-2026-000317,1,2026-05-11,UPS,UPS-61532371,DELIVERED_ON_TIME,REQ-0151,PASSED,53,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000318-01,PO-2026-000318,1,2026-05-16,DHL,DHL-41520961,DELIVERED_LATE,REQ-0081,PASSED,3,False,Carrier transit delay (6 days overdue). Accepted upon arrival.
+DEL-PO-2026-000319-01,PO-2026-000319,1,2026-05-09,FEDEX,FED-30860862,DELIVERED_ON_TIME,REQ-0187,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000320-01,PO-2026-000320,1,2026-05-16,FREIGHT_DIRECT,FRE-96963043,DELIVERED_ON_TIME,REQ-0103,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000321-01,PO-2026-000321,1,2026-05-05,FREIGHT_DIRECT,FRE-82221746,DELIVERED_ON_TIME,REQ-0046,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000322-01,PO-2026-000322,1,2026-05-16,FEDEX,FED-58645034,DELIVERED_ON_TIME,REQ-0226,PASSED,60,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000323-01,PO-2026-000323,1,2026-05-09,DHL,DHL-36271318,DELIVERED_ON_TIME,REQ-0002,PASSED,9,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000324-01,PO-2026-000324,1,2026-05-20,MAERSK,MAE-28277112,DELIVERED_ON_TIME,REQ-0119,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000325-01,PO-2026-000325,1,2026-05-13,MAERSK,MAE-81642532,DELIVERED_LATE,REQ-0242,PASSED,1,False,Carrier transit delay (3 days overdue). Accepted upon arrival.
+DEL-PO-2026-000326-01,PO-2026-000326,1,2026-05-13,FEDEX,FED-80511541,DELIVERED_ON_TIME,REQ-0099,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000327-01,PO-2026-000327,1,2026-05-06,UPS,UPS-25871810,DELIVERED_ON_TIME,REQ-0091,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000328-01,PO-2026-000328,1,2026-05-23,UPS,UPS-50508985,DELIVERED_LATE,REQ-0004,PASSED,50,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000329-01,PO-2026-000329,1,2026-06-01,MAERSK,MAE-19990689,DELIVERED_LATE,REQ-0013,PASSED,11,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000330-01,PO-2026-000330,1,2026-05-14,FEDEX,FED-46249977,IN_TRANSIT,REQ-0123,PASSED,3,True,First partial batch received (3/5 items).
+DEL-PO-2026-000330-02,PO-2026-000330,2,2026-05-24,FEDEX,FED-87535630,DELIVERED_LATE,REQ-0048,PASSED,2,False,Final remainder batch received (2 items). Order complete.
+DEL-PO-2026-000331-01,PO-2026-000331,1,2026-05-30,FEDEX,FED-14381045,DELIVERED_ON_TIME,REQ-0071,PASSED,27,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000332-01,PO-2026-000332,1,2026-05-06,FREIGHT_DIRECT,FRE-41414701,DELIVERED_ON_TIME,REQ-0135,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000333-01,PO-2026-000333,1,2026-05-11,MAERSK,MAE-73910808,DELIVERED_ON_TIME,REQ-0257,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000334-01,PO-2026-000334,1,2026-05-17,FEDEX,FED-67261447,DELIVERED_ON_TIME,REQ-0063,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000335-01,PO-2026-000335,1,2026-05-15,MAERSK,MAE-99562511,DELIVERED_ON_TIME,REQ-0078,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000336-01,PO-2026-000336,1,2026-05-12,DHL,DHL-32400099,DELIVERED_ON_TIME,REQ-0090,PASSED,24,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000337-01,PO-2026-000337,1,2026-05-14,MAERSK,MAE-38205592,DELIVERED_ON_TIME,REQ-0167,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000338-01,PO-2026-000338,1,2026-06-11,FREIGHT_DIRECT,FRE-18015650,DELIVERED_LATE,REQ-0230,PASSED,20,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000339-01,PO-2026-000339,1,2026-05-12,FEDEX,FED-66961280,DELIVERED_ON_TIME,REQ-0003,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000340-01,PO-2026-000340,1,2026-05-11,FREIGHT_DIRECT,FRE-33794015,DELIVERED_ON_TIME,REQ-0019,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000341-01,PO-2026-000341,1,2026-05-22,FREIGHT_DIRECT,FRE-94916397,DELIVERED_ON_TIME,REQ-0103,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000342-01,PO-2026-000342,1,2026-06-07,FREIGHT_DIRECT,FRE-33391866,DELIVERED_LATE,REQ-0207,PASSED,5,False,Carrier transit delay (10 days overdue). Accepted upon arrival.
+DEL-PO-2026-000343-01,PO-2026-000343,1,2026-06-04,FEDEX,FED-65154797,DELIVERED_ON_TIME,REQ-0042,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000344-01,PO-2026-000344,1,2026-05-30,DHL,DHL-61147345,DELIVERED_ON_TIME,REQ-0225,PASSED,14,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000345-01,PO-2026-000345,1,2026-05-27,MAERSK,MAE-42371449,DELIVERED_LATE,REQ-0297,PASSED,10,False,Carrier transit delay (7 days overdue). Accepted upon arrival.
+DEL-PO-2026-000346-01,PO-2026-000346,1,2026-05-16,MAERSK,MAE-10808766,DELIVERED_ON_TIME,REQ-0275,PASSED,55,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000347-01,PO-2026-000347,1,2026-05-26,FREIGHT_DIRECT,FRE-22725970,DELIVERED_ON_TIME,REQ-0159,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000348-01,PO-2026-000348,1,2026-05-25,DHL,DHL-79087514,DELIVERED_ON_TIME,REQ-0192,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000349-01,PO-2026-000349,1,2026-05-25,FEDEX,FED-16348763,DELIVERED_LATE,REQ-0139,PASSED,51,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000350-01,PO-2026-000350,1,2026-05-21,FEDEX,FED-62138032,DELIVERED_ON_TIME,REQ-0170,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000351-01,PO-2026-000351,1,2026-05-22,FEDEX,FED-90962979,DELIVERED_ON_TIME,REQ-0105,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000352-01,PO-2026-000352,1,2026-05-19,FEDEX,FED-84789812,DELIVERED_ON_TIME,REQ-0176,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000353-01,PO-2026-000353,1,2026-05-18,UPS,UPS-83376367,DELIVERED_ON_TIME,REQ-0246,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000354-01,PO-2026-000354,1,2026-05-21,FEDEX,FED-95610399,DELIVERED_ON_TIME,REQ-0057,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000355-01,PO-2026-000355,1,2026-05-13,UPS,UPS-70677561,DELIVERED_ON_TIME,REQ-0230,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000356-01,PO-2026-000356,1,2026-05-20,FEDEX,FED-56155060,DELIVERED_ON_TIME,REQ-0142,PASSED,9,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000357-01,PO-2026-000357,1,2026-05-20,UPS,UPS-97205800,DELIVERED_ON_TIME,REQ-0198,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000358-01,PO-2026-000358,1,2026-05-20,DHL,DHL-77034539,DELIVERED_ON_TIME,REQ-0201,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000359-01,PO-2026-000359,1,2026-05-19,FEDEX,FED-94125927,DELIVERED_ON_TIME,REQ-0151,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000360-01,PO-2026-000360,1,2026-05-21,UPS,UPS-69747275,DELIVERED_ON_TIME,REQ-0230,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000361-01,PO-2026-000361,1,2026-05-27,UPS,UPS-23033108,DELIVERED_ON_TIME,REQ-0103,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000362-01,PO-2026-000362,1,2026-05-19,UPS,UPS-50071503,DELIVERED_ON_TIME,REQ-0278,PASSED,52,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000363-01,PO-2026-000363,1,2026-06-02,MAERSK,MAE-36675663,DELIVERED_ON_TIME,REQ-0001,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000364-01,PO-2026-000364,1,2026-05-20,MAERSK,MAE-39094918,DELIVERED_ON_TIME,REQ-0064,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000365-01,PO-2026-000365,1,2026-05-24,MAERSK,MAE-95359925,DELIVERED_ON_TIME,REQ-0164,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000366-01,PO-2026-000366,1,2026-05-20,DHL,DHL-46328809,DELIVERED_ON_TIME,REQ-0124,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000367-01,PO-2026-000367,1,2026-05-22,UPS,UPS-55433748,DELIVERED_ON_TIME,REQ-0035,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000368-01,PO-2026-000368,1,2026-05-23,MAERSK,MAE-86259480,DELIVERED_ON_TIME,REQ-0170,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000369-01,PO-2026-000369,1,2026-06-15,MAERSK,MAE-61519291,DELIVERED_ON_TIME,REQ-0087,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000370-01,PO-2026-000370,1,2026-06-19,DHL,DHL-50730129,DELIVERED_LATE,REQ-0060,PASSED,5,False,Carrier transit delay (8 days overdue). Accepted upon arrival.
+DEL-PO-2026-000371-01,PO-2026-000371,1,2026-05-21,FREIGHT_DIRECT,FRE-75995674,DELIVERED_ON_TIME,REQ-0247,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000372-01,PO-2026-000372,1,2026-06-04,UPS,UPS-86498752,DELIVERED_ON_TIME,REQ-0077,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000373-01,PO-2026-000373,1,2026-05-25,FEDEX,FED-33659657,DELIVERED_ON_TIME,REQ-0097,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000374-01,PO-2026-000374,1,2026-05-25,UPS,UPS-53142824,DELIVERED_ON_TIME,REQ-0067,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000375-01,PO-2026-000375,1,2026-05-23,FREIGHT_DIRECT,FRE-19195221,DELIVERED_ON_TIME,REQ-0192,PASSED,9,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000376-01,PO-2026-000376,1,2026-05-26,FREIGHT_DIRECT,FRE-58075865,IN_TRANSIT,REQ-0074,PASSED,4,True,First partial batch received (4/8 items).
+DEL-PO-2026-000376-02,PO-2026-000376,2,2026-05-31,DHL,DHL-12645551,DELIVERED_LATE,REQ-0196,PASSED,4,False,Final remainder batch received (4 items). Order complete.
+DEL-PO-2026-000377-01,PO-2026-000377,1,2026-05-20,MAERSK,MAE-26803541,DELIVERED_ON_TIME,REQ-0020,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000378-01,PO-2026-000378,1,2026-06-08,FREIGHT_DIRECT,FRE-43572521,DELIVERED_LATE,REQ-0151,PASSED,1,False,Carrier transit delay (14 days overdue). Accepted upon arrival.
+DEL-PO-2026-000379-01,PO-2026-000379,1,2026-06-09,FEDEX,FED-57032777,DELIVERED_ON_TIME,REQ-0239,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000380-01,PO-2026-000380,1,2026-06-09,FEDEX,FED-51875363,DELIVERED_LATE,REQ-0048,PASSED,11,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000381-01,PO-2026-000381,1,2026-05-29,UPS,UPS-31723769,DELIVERED_ON_TIME,REQ-0157,PASSED,36,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000382-01,PO-2026-000382,1,2026-05-27,FREIGHT_DIRECT,FRE-60249283,DELIVERED_ON_TIME,REQ-0158,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000383-01,PO-2026-000383,1,2026-05-28,UPS,UPS-48833043,DELIVERED_ON_TIME,REQ-0149,PASSED,30,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000384-01,PO-2026-000384,1,2026-06-05,DHL,DHL-39042150,DELIVERED_ON_TIME,REQ-0045,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000385-01,PO-2026-000385,1,2026-05-28,UPS,UPS-54817831,DELIVERED_ON_TIME,REQ-0081,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000386-01,PO-2026-000386,1,2026-06-01,MAERSK,MAE-24135476,DELIVERED_ON_TIME,REQ-0048,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000387-01,PO-2026-000387,1,2026-06-11,FREIGHT_DIRECT,FRE-38241607,DELIVERED_ON_TIME,REQ-0221,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000388-01,PO-2026-000388,1,2026-05-22,UPS,UPS-57251558,DELIVERED_ON_TIME,REQ-0073,PASSED,26,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000389-01,PO-2026-000389,1,2026-05-27,FEDEX,FED-36907911,DELIVERED_ON_TIME,REQ-0011,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000390-01,PO-2026-000390,1,2026-05-28,FEDEX,FED-18159571,DELIVERED_ON_TIME,REQ-0194,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000391-01,PO-2026-000391,1,2026-05-25,FREIGHT_DIRECT,FRE-43307843,DELIVERED_ON_TIME,REQ-0069,PASSED,57,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000392-01,PO-2026-000392,1,2026-06-03,FEDEX,FED-56611901,DELIVERED_ON_TIME,REQ-0042,PASSED,56,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000393-01,PO-2026-000393,1,2026-06-04,FEDEX,FED-99587435,DELIVERED_ON_TIME,REQ-0290,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000394-01,PO-2026-000394,1,2026-06-01,MAERSK,MAE-31171265,DELIVERED_ON_TIME,REQ-0117,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000395-01,PO-2026-000395,1,2026-05-29,FEDEX,FED-36377247,DELIVERED_ON_TIME,REQ-0258,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000396-01,PO-2026-000396,1,2026-05-27,UPS,UPS-38704076,DELIVERED_ON_TIME,REQ-0242,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000397-01,PO-2026-000397,1,2026-06-06,FREIGHT_DIRECT,FRE-88598890,DELIVERED_ON_TIME,REQ-0120,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000398-01,PO-2026-000398,1,2026-05-29,MAERSK,MAE-93478298,DELIVERED_ON_TIME,REQ-0218,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000399-01,PO-2026-000399,1,2026-06-05,DHL,DHL-55578822,DELIVERED_ON_TIME,REQ-0039,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000400-01,PO-2026-000400,1,2026-05-29,UPS,UPS-16423704,DELIVERED_ON_TIME,REQ-0258,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000401-01,PO-2026-000401,1,2026-05-28,MAERSK,MAE-57772670,DELIVERED_ON_TIME,REQ-0188,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000402-01,PO-2026-000402,1,2026-06-16,MAERSK,MAE-88872364,DELIVERED_LATE,REQ-0007,PASSED,52,False,Carrier transit delay (10 days overdue). Accepted upon arrival.
+DEL-PO-2026-000403-01,PO-2026-000403,1,2026-06-04,FREIGHT_DIRECT,FRE-60853274,IN_TRANSIT,REQ-0230,PASSED,1,True,First partial batch received (1/2 items).
+DEL-PO-2026-000403-02,PO-2026-000403,2,2026-06-13,MAERSK,MAE-33022099,DELIVERED_LATE,REQ-0182,PASSED,1,False,Final remainder batch received (1 items). Order complete.
+DEL-PO-2026-000404-01,PO-2026-000404,1,2026-06-03,FEDEX,FED-91807176,DELIVERED_ON_TIME,REQ-0270,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000405-01,PO-2026-000405,1,2026-06-03,FREIGHT_DIRECT,FRE-14875547,DELIVERED_ON_TIME,REQ-0249,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000406-01,PO-2026-000406,1,2026-06-25,UPS,UPS-34763528,DELIVERED_LATE,REQ-0016,PASSED,35,False,Carrier transit delay (7 days overdue). Accepted upon arrival.
+DEL-PO-2026-000407-01,PO-2026-000407,1,2026-06-02,FREIGHT_DIRECT,FRE-40383548,DELIVERED_ON_TIME,REQ-0164,PASSED,25,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000408-01,PO-2026-000408,1,2026-06-04,FEDEX,FED-51716176,DELIVERED_ON_TIME,REQ-0244,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000409-01,PO-2026-000409,1,2026-05-30,UPS,UPS-80077917,DELIVERED_ON_TIME,REQ-0103,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000410-01,PO-2026-000410,1,2026-06-05,MAERSK,MAE-16662670,DELIVERED_ON_TIME,REQ-0234,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000411-01,PO-2026-000411,1,2026-06-18,FREIGHT_DIRECT,FRE-28052268,DELIVERED_LATE,REQ-0026,PASSED,1,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000412-01,PO-2026-000412,1,2026-05-29,FREIGHT_DIRECT,FRE-49849969,DELIVERED_ON_TIME,REQ-0233,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000413-01,PO-2026-000413,1,2026-06-18,DHL,DHL-36690808,DELIVERED_ON_TIME,REQ-0270,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000414-01,PO-2026-000414,1,2026-06-30,UPS,UPS-37415611,DELIVERED_LATE,REQ-0237,PASSED,5,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000415-01,PO-2026-000415,1,2026-06-06,MAERSK,MAE-67173997,DELIVERED_ON_TIME,REQ-0171,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000416-01,PO-2026-000416,1,2026-06-10,FEDEX,FED-47960634,DELIVERED_ON_TIME,REQ-0203,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000417-01,PO-2026-000417,1,2026-06-03,FEDEX,FED-86598187,DELIVERED_ON_TIME,REQ-0226,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000418-01,PO-2026-000418,1,2026-06-02,UPS,UPS-15483391,DELIVERED_ON_TIME,REQ-0090,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000419-01,PO-2026-000419,1,2026-06-08,FEDEX,FED-38988274,DAMAGED,REQ-0026,ACCEPTED_WITH_CONCESSION,2,False,Packaging dented; goods tested functional and accepted with 5% discount concession.
+DEL-PO-2026-000420-01,PO-2026-000420,1,2026-06-28,UPS,UPS-73884018,DELIVERED_LATE,REQ-0188,PASSED,10,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000421-01,PO-2026-000421,1,2026-06-15,FEDEX,FED-35973838,DELIVERED_ON_TIME,REQ-0075,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000422-01,PO-2026-000422,1,2026-07-02,FEDEX,FED-35598999,DELIVERED_LATE,REQ-0120,PASSED,3,False,Carrier transit delay (14 days overdue). Accepted upon arrival.
+DEL-PO-2026-000423-01,PO-2026-000423,1,2026-06-10,MAERSK,MAE-80220926,DELIVERED_ON_TIME,REQ-0007,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000424-01,PO-2026-000424,1,2026-06-03,FEDEX,FED-74834811,DELIVERED_ON_TIME,REQ-0115,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000425-01,PO-2026-000425,1,2026-06-14,UPS,UPS-93909261,DELIVERED_ON_TIME,REQ-0160,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000426-01,PO-2026-000426,1,2026-06-05,DHL,DHL-59395679,DELIVERED_ON_TIME,REQ-0257,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000427-01,PO-2026-000427,1,2026-06-11,DHL,DHL-75742680,DELIVERED_ON_TIME,REQ-0067,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000428-01,PO-2026-000428,1,2026-06-10,FREIGHT_DIRECT,FRE-70690964,DELIVERED_ON_TIME,REQ-0068,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000429-01,PO-2026-000429,1,2026-06-24,DHL,DHL-24892770,DELIVERED_ON_TIME,REQ-0069,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000430-01,PO-2026-000430,1,2026-06-12,UPS,UPS-59432401,IN_TRANSIT,REQ-0171,PASSED,16,True,First partial batch received (16/28 items).
+DEL-PO-2026-000430-02,PO-2026-000430,2,2026-06-19,FREIGHT_DIRECT,FRE-49683132,DELIVERED_LATE,REQ-0031,PASSED,12,False,Final remainder batch received (12 items). Order complete.
+DEL-PO-2026-000431-01,PO-2026-000431,1,2026-06-25,FREIGHT_DIRECT,FRE-10934277,DELIVERED_ON_TIME,REQ-0123,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000432-01,PO-2026-000432,1,2026-06-12,FEDEX,FED-37189059,DELIVERED_ON_TIME,REQ-0255,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000433-01,PO-2026-000433,1,2026-06-07,UPS,UPS-10380528,DELIVERED_ON_TIME,REQ-0060,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000434-01,PO-2026-000434,1,2026-06-09,MAERSK,MAE-21188426,DELIVERED_ON_TIME,REQ-0117,PASSED,31,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000435-01,PO-2026-000435,1,2026-06-08,UPS,UPS-56510051,DELIVERED_ON_TIME,REQ-0028,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000436-01,PO-2026-000436,1,2026-06-16,MAERSK,MAE-66168675,DELIVERED_ON_TIME,REQ-0046,PASSED,73,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000437-01,PO-2026-000437,1,2026-06-10,MAERSK,MAE-47939769,DELIVERED_ON_TIME,REQ-0126,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000438-01,PO-2026-000438,1,2026-06-18,FREIGHT_DIRECT,FRE-11285173,DELIVERED_ON_TIME,REQ-0218,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000439-01,PO-2026-000439,1,2026-06-27,FEDEX,FED-89392827,DELIVERED_LATE,REQ-0191,PASSED,12,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000440-01,PO-2026-000440,1,2026-06-09,MAERSK,MAE-42611100,DELIVERED_ON_TIME,REQ-0065,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000441-01,PO-2026-000441,1,2026-06-09,FEDEX,FED-87962099,DELIVERED_ON_TIME,REQ-0226,PASSED,25,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000442-01,PO-2026-000442,1,2026-06-23,FEDEX,FED-89865319,DELIVERED_ON_TIME,REQ-0194,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000443-01,PO-2026-000443,1,2026-06-20,DHL,DHL-64252434,DELIVERED_ON_TIME,REQ-0137,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000444-01,PO-2026-000444,1,2026-07-11,FREIGHT_DIRECT,FRE-10865009,DELIVERED_LATE,REQ-0105,PASSED,72,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000445-01,PO-2026-000445,1,2026-06-17,FEDEX,FED-17877054,DELIVERED_ON_TIME,REQ-0179,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000446-01,PO-2026-000446,1,2026-06-16,FEDEX,FED-15968498,DELIVERED_ON_TIME,REQ-0085,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000447-01,PO-2026-000447,1,2026-06-13,UPS,UPS-18430734,DELIVERED_ON_TIME,REQ-0160,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000448-01,PO-2026-000448,1,2026-06-21,MAERSK,MAE-49304373,DELIVERED_ON_TIME,REQ-0015,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000449-01,PO-2026-000449,1,2026-06-19,FREIGHT_DIRECT,FRE-74069443,IN_TRANSIT,REQ-0232,PASSED,12,True,First partial batch received (12/20 items).
+DEL-PO-2026-000449-02,PO-2026-000449,2,2026-07-01,DHL,DHL-24227161,DELIVERED_LATE,REQ-0293,PASSED,8,False,Final remainder batch received (8 items). Order complete.
+DEL-PO-2026-000450-01,PO-2026-000450,1,2026-06-24,MAERSK,MAE-64008823,DELIVERED_ON_TIME,REQ-0279,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000451-01,PO-2026-000451,1,2026-06-16,UPS,UPS-58613694,DELIVERED_ON_TIME,REQ-0016,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000452-01,PO-2026-000452,1,2026-06-15,MAERSK,MAE-32494863,DELIVERED_ON_TIME,REQ-0284,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000453-01,PO-2026-000453,1,2026-06-21,UPS,UPS-19395255,DELIVERED_LATE,REQ-0025,PASSED,13,False,Carrier transit delay (3 days overdue). Accepted upon arrival.
+DEL-PO-2026-000454-01,PO-2026-000454,1,2026-06-23,DHL,DHL-97434502,DELIVERED_LATE,REQ-0211,PASSED,10,False,Carrier transit delay (3 days overdue). Accepted upon arrival.
+DEL-PO-2026-000455-01,PO-2026-000455,1,2026-06-16,FREIGHT_DIRECT,FRE-10741504,DELIVERED_ON_TIME,REQ-0217,PASSED,40,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000456-01,PO-2026-000456,1,2026-06-19,FEDEX,FED-37094020,DELIVERED_ON_TIME,REQ-0146,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000457-01,PO-2026-000457,1,2026-06-17,DHL,DHL-81701912,IN_TRANSIT,REQ-0110,PASSED,18,True,First partial batch received (18/31 items).
+DEL-PO-2026-000457-02,PO-2026-000457,2,2026-06-24,UPS,UPS-27174663,DELIVERED_ON_TIME,REQ-0188,PASSED,13,False,Final remainder batch received (13 items). Order complete.
+DEL-PO-2026-000458-01,PO-2026-000458,1,2026-06-18,FEDEX,FED-19204351,DELIVERED_ON_TIME,REQ-0215,PASSED,32,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000459-01,PO-2026-000459,1,2026-07-06,FREIGHT_DIRECT,FRE-18283889,DELIVERED_LATE,REQ-0031,PASSED,2,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000460-01,PO-2026-000460,1,2026-06-16,UPS,UPS-29925940,DELIVERED_ON_TIME,REQ-0014,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000461-01,PO-2026-000461,1,2026-06-16,FEDEX,FED-26620392,DELIVERED_ON_TIME,REQ-0133,PASSED,50,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000462-01,PO-2026-000462,1,2026-06-21,DHL,DHL-76892512,DAMAGED,REQ-0094,ACCEPTED_WITH_CONCESSION,20,False,Packaging dented; goods tested functional and accepted with 5% discount concession.
+DEL-PO-2026-000463-01,PO-2026-000463,1,2026-06-26,UPS,UPS-65406146,DELIVERED_ON_TIME,REQ-0206,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000464-01,PO-2026-000464,1,2026-06-18,UPS,UPS-46326851,IN_TRANSIT,REQ-0262,PASSED,3,True,First partial batch received (3/5 items).
+DEL-PO-2026-000464-02,PO-2026-000464,2,2026-06-30,MAERSK,MAE-58572828,DELIVERED_LATE,REQ-0076,PASSED,2,False,Final remainder batch received (2 items). Order complete.
+DEL-PO-2026-000465-01,PO-2026-000465,1,2026-06-29,UPS,UPS-69406344,DELIVERED_ON_TIME,REQ-0227,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000466-01,PO-2026-000466,1,2026-06-28,UPS,UPS-54183943,DELIVERED_ON_TIME,REQ-0138,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000467-01,PO-2026-000467,1,2026-06-24,DHL,DHL-75659708,DELIVERED_ON_TIME,REQ-0097,PASSED,60,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000468-01,PO-2026-000468,1,2026-07-05,DHL,DHL-28693905,DELIVERED_LATE,REQ-0152,PASSED,1,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000469-01,PO-2026-000469,1,2026-06-18,MAERSK,MAE-51936206,DELIVERED_ON_TIME,REQ-0022,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000470-01,PO-2026-000470,1,2026-06-17,UPS,UPS-87824807,DELIVERED_ON_TIME,REQ-0246,PASSED,26,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000471-01,PO-2026-000471,1,2026-06-20,FEDEX,FED-40739670,DELIVERED_ON_TIME,REQ-0065,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000472-01,PO-2026-000472,1,2026-06-20,UPS,UPS-70602534,DELIVERED_ON_TIME,REQ-0045,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000473-01,PO-2026-000473,1,2026-06-21,UPS,UPS-54995939,DELIVERED_ON_TIME,REQ-0048,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000474-01,PO-2026-000474,1,2026-06-25,MAERSK,MAE-25131007,DELIVERED_ON_TIME,REQ-0057,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000475-01,PO-2026-000475,1,2026-06-22,MAERSK,MAE-53364523,DELIVERED_ON_TIME,REQ-0225,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000476-01,PO-2026-000476,1,2026-06-24,MAERSK,MAE-38577795,DELIVERED_ON_TIME,REQ-0293,PASSED,36,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000477-01,PO-2026-000477,1,2026-06-26,MAERSK,MAE-13041549,IN_TRANSIT,REQ-0258,PASSED,12,True,First partial batch received (12/20 items).
+DEL-PO-2026-000477-02,PO-2026-000477,2,2026-07-04,MAERSK,MAE-79730030,DELIVERED_LATE,REQ-0288,PASSED,8,False,Final remainder batch received (8 items). Order complete.
+DEL-PO-2026-000478-01,PO-2026-000478,1,2026-06-21,FREIGHT_DIRECT,FRE-11691096,DELIVERED_ON_TIME,REQ-0270,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000479-01,PO-2026-000479,1,2026-06-26,MAERSK,MAE-14704276,DELIVERED_ON_TIME,REQ-0158,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000480-01,PO-2026-000480,1,2026-06-25,FEDEX,FED-57901521,DELIVERED_ON_TIME,REQ-0041,PASSED,27,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000481-01,PO-2026-000481,1,2026-07-08,FREIGHT_DIRECT,FRE-56248178,DELIVERED_LATE,REQ-0245,PASSED,9,False,Carrier transit delay (8 days overdue). Accepted upon arrival.
+DEL-PO-2026-000482-01,PO-2026-000482,1,2026-07-10,FREIGHT_DIRECT,FRE-90955667,DELIVERED_LATE,REQ-0218,PASSED,10,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000483-01,PO-2026-000483,1,2026-07-04,UPS,UPS-32678016,DELIVERED_ON_TIME,REQ-0230,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000484-01,PO-2026-000484,1,2026-07-06,MAERSK,MAE-14468462,DELIVERED_LATE,REQ-0049,PASSED,2,False,Carrier transit delay (7 days overdue). Accepted upon arrival.
+DEL-PO-2026-000485-01,PO-2026-000485,1,2026-06-23,FREIGHT_DIRECT,FRE-68861287,DELIVERED_ON_TIME,REQ-0114,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000486-01,PO-2026-000486,1,2026-06-22,MAERSK,MAE-98565320,DELIVERED_ON_TIME,REQ-0106,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000487-01,PO-2026-000487,1,2026-06-21,FEDEX,FED-81962136,DELIVERED_ON_TIME,REQ-0231,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000488-01,PO-2026-000488,1,2026-07-16,FREIGHT_DIRECT,FRE-10402544,DELIVERED_LATE,REQ-0048,PASSED,20,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000489-01,PO-2026-000489,1,2026-07-01,DHL,DHL-61898558,DELIVERED_LATE,REQ-0168,PASSED,12,False,Carrier transit delay (3 days overdue). Accepted upon arrival.
+DEL-PO-2026-000490-01,PO-2026-000490,1,2026-07-06,FREIGHT_DIRECT,FRE-76535276,DELIVERED_ON_TIME,REQ-0140,PASSED,55,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000491-01,PO-2026-000491,1,2026-06-25,FEDEX,FED-46067173,DELIVERED_ON_TIME,REQ-0118,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000492-01,PO-2026-000492,1,2026-07-02,UPS,UPS-43715200,DELIVERED_ON_TIME,REQ-0203,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000493-01,PO-2026-000493,1,2026-07-17,MAERSK,MAE-63065077,DELIVERED_LATE,REQ-0288,PASSED,2,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000494-01,PO-2026-000494,1,2026-06-29,FREIGHT_DIRECT,FRE-38261957,DELIVERED_ON_TIME,REQ-0272,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000495-01,PO-2026-000495,1,2026-07-23,MAERSK,MAE-23435650,DELIVERED_LATE,REQ-0265,PASSED,1,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000496-01,PO-2026-000496,1,2026-07-18,FEDEX,FED-44377769,DELIVERED_LATE,REQ-0077,PASSED,7,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000497-01,PO-2026-000497,1,2026-06-26,MAERSK,MAE-91467379,DELIVERED_ON_TIME,REQ-0057,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000498-01,PO-2026-000498,1,2026-06-28,FEDEX,FED-50827526,DELIVERED_ON_TIME,REQ-0298,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000499-01,PO-2026-000499,1,2026-07-20,FREIGHT_DIRECT,FRE-37366389,DELIVERED_LATE,REQ-0190,PASSED,50,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000500-01,PO-2026-000500,1,2026-07-01,FREIGHT_DIRECT,FRE-88983392,DELIVERED_ON_TIME,REQ-0210,PASSED,25,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000501-01,PO-2026-000501,1,2026-01-13,FEDEX,FED-90893390,IN_TRANSIT,REQ-0122,PASSED,1,True,First partial batch received (1/1 items).
+DEL-PO-2026-000501-02,PO-2026-000501,2,2026-01-20,MAERSK,MAE-74265476,DELIVERED_ON_TIME,REQ-0179,PASSED,0,False,Final remainder batch received (0 items). Order complete.
+DEL-PO-2026-000502-01,PO-2026-000502,1,2026-01-23,FEDEX,FED-70697922,DELIVERED_ON_TIME,REQ-0059,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000503-01,PO-2026-000503,1,2026-01-09,MAERSK,MAE-38475979,DELIVERED_ON_TIME,REQ-0165,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000504-01,PO-2026-000504,1,2026-01-16,MAERSK,MAE-72005074,DELIVERED_ON_TIME,REQ-0279,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000505-01,PO-2026-000505,1,2026-01-17,MAERSK,MAE-92749783,DELIVERED_ON_TIME,REQ-0130,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000506-01,PO-2026-000506,1,2026-01-23,DHL,DHL-94477094,DELIVERED_ON_TIME,REQ-0283,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000507-01,PO-2026-000507,1,2026-01-19,MAERSK,MAE-76309778,DELIVERED_ON_TIME,REQ-0259,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000508-01,PO-2026-000508,1,2026-01-27,FEDEX,FED-20005075,DELIVERED_ON_TIME,REQ-0014,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000509-01,PO-2026-000509,1,2026-02-02,UPS,UPS-24406724,DELIVERED_ON_TIME,REQ-0073,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000510-01,PO-2026-000510,1,2026-01-28,UPS,UPS-64310522,DELIVERED_ON_TIME,REQ-0263,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000511-01,PO-2026-000511,1,2026-01-27,UPS,UPS-64358956,DELIVERED_ON_TIME,REQ-0073,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000512-01,PO-2026-000512,1,2026-02-02,FREIGHT_DIRECT,FRE-49182082,DELIVERED_LATE,REQ-0034,PASSED,7,False,Carrier transit delay (4 days overdue). Accepted upon arrival.
+DEL-PO-2026-000513-01,PO-2026-000513,1,2026-01-31,FREIGHT_DIRECT,FRE-83834511,DELIVERED_ON_TIME,REQ-0080,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000514-01,PO-2026-000514,1,2026-01-21,UPS,UPS-61631828,DELIVERED_ON_TIME,REQ-0092,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000515-01,PO-2026-000515,1,2026-02-04,DHL,DHL-23237896,IN_TRANSIT,REQ-0130,PASSED,30,True,First partial batch received (30/50 items).
+DEL-PO-2026-000515-02,PO-2026-000515,2,2026-02-11,DHL,DHL-20944301,DELIVERED_LATE,REQ-0132,PASSED,20,False,Final remainder batch received (20 items). Order complete.
+DEL-PO-2026-000516-01,PO-2026-000516,1,2026-02-13,UPS,UPS-16158187,DELIVERED_ON_TIME,REQ-0235,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000517-01,PO-2026-000517,1,2026-02-14,DHL,DHL-86864452,DELIVERED_ON_TIME,REQ-0044,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000518-01,PO-2026-000518,1,2026-02-21,DHL,DHL-64110238,DELIVERED_LATE,REQ-0269,PASSED,4,False,Carrier transit delay (4 days overdue). Accepted upon arrival.
+DEL-PO-2026-000519-01,PO-2026-000519,1,2026-02-08,MAERSK,MAE-98027661,DELIVERED_ON_TIME,REQ-0105,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000520-01,PO-2026-000520,1,2026-02-07,UPS,UPS-64556304,DELIVERED_ON_TIME,REQ-0174,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000521-01,PO-2026-000521,1,2026-02-12,UPS,UPS-17260811,DELIVERED_ON_TIME,REQ-0056,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000522-01,PO-2026-000522,1,2026-02-11,MAERSK,MAE-55271825,DELIVERED_ON_TIME,REQ-0198,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000523-01,PO-2026-000523,1,2026-02-17,DHL,DHL-47059310,DELIVERED_ON_TIME,REQ-0175,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000524-01,PO-2026-000524,1,2026-03-07,UPS,UPS-19879271,DELIVERED_LATE,REQ-0117,PASSED,5,False,Carrier transit delay (10 days overdue). Accepted upon arrival.
+DEL-PO-2026-000525-01,PO-2026-000525,1,2026-02-15,MAERSK,MAE-83073549,DELIVERED_ON_TIME,REQ-0027,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000526-01,PO-2026-000526,1,2026-02-27,DHL,DHL-36102240,DELIVERED_ON_TIME,REQ-0205,PASSED,25,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000527-01,PO-2026-000527,1,2026-03-09,FREIGHT_DIRECT,FRE-19491650,DELIVERED_ON_TIME,REQ-0154,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000528-01,PO-2026-000528,1,2026-02-25,DHL,DHL-89156153,DELIVERED_ON_TIME,REQ-0173,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000529-01,PO-2026-000529,1,2026-03-05,FREIGHT_DIRECT,FRE-38288280,DELIVERED_ON_TIME,REQ-0193,PASSED,64,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000530-01,PO-2026-000530,1,2026-02-25,FREIGHT_DIRECT,FRE-21029087,DELIVERED_ON_TIME,REQ-0181,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000531-01,PO-2026-000531,1,2026-02-26,FREIGHT_DIRECT,FRE-84498227,DELIVERED_ON_TIME,REQ-0219,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000532-01,PO-2026-000532,1,2026-02-25,MAERSK,MAE-74175124,DELIVERED_ON_TIME,REQ-0127,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000533-01,PO-2026-000533,1,2026-03-16,FREIGHT_DIRECT,FRE-15070417,DELIVERED_ON_TIME,REQ-0086,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000534-01,PO-2026-000534,1,2026-03-07,FEDEX,FED-55883269,DELIVERED_ON_TIME,REQ-0079,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000535-01,PO-2026-000535,1,2026-03-20,MAERSK,MAE-73739529,DELIVERED_LATE,REQ-0238,PASSED,2,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000536-01,PO-2026-000536,1,2026-03-12,FREIGHT_DIRECT,FRE-81623505,DELIVERED_ON_TIME,REQ-0052,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000537-01,PO-2026-000537,1,2026-03-15,FEDEX,FED-43613703,DELIVERED_ON_TIME,REQ-0295,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000538-01,PO-2026-000538,1,2026-03-12,FREIGHT_DIRECT,FRE-44175728,DELIVERED_ON_TIME,REQ-0096,PASSED,30,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000539-01,PO-2026-000539,1,2026-03-16,FEDEX,FED-72211113,DELIVERED_ON_TIME,REQ-0072,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000540-01,PO-2026-000540,1,2026-03-22,UPS,UPS-54780536,DELIVERED_ON_TIME,REQ-0207,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000541-01,PO-2026-000541,1,2026-03-25,DHL,DHL-63882757,DELIVERED_ON_TIME,REQ-0206,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000542-01,PO-2026-000542,1,2026-03-20,MAERSK,MAE-21430781,DELIVERED_ON_TIME,REQ-0089,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000543-01,PO-2026-000543,1,2026-03-25,DHL,DHL-18405549,DELIVERED_ON_TIME,REQ-0235,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000544-01,PO-2026-000544,1,2026-03-28,FEDEX,FED-46366903,DELIVERED_ON_TIME,REQ-0152,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000545-01,PO-2026-000545,1,2026-03-25,DHL,DHL-38143450,DELIVERED_ON_TIME,REQ-0102,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000546-01,PO-2026-000546,1,2026-03-26,FREIGHT_DIRECT,FRE-74626475,DELIVERED_ON_TIME,REQ-0211,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000547-01,PO-2026-000547,1,2026-03-30,MAERSK,MAE-14051931,DELIVERED_ON_TIME,REQ-0001,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000548-01,PO-2026-000548,1,2026-03-30,FREIGHT_DIRECT,FRE-81374115,DELIVERED_ON_TIME,REQ-0067,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000549-01,PO-2026-000549,1,2026-03-31,FREIGHT_DIRECT,FRE-29867424,DELIVERED_ON_TIME,REQ-0086,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000550-01,PO-2026-000550,1,2026-03-31,DHL,DHL-27162839,DELIVERED_ON_TIME,REQ-0085,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000551-01,PO-2026-000551,1,2026-03-26,FEDEX,FED-48461881,DELIVERED_ON_TIME,REQ-0057,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000552-01,PO-2026-000552,1,2026-04-11,MAERSK,MAE-97170201,DELIVERED_LATE,REQ-0163,PASSED,3,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000553-01,PO-2026-000553,1,2026-04-03,FREIGHT_DIRECT,FRE-54239732,DELIVERED_ON_TIME,REQ-0086,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000554-01,PO-2026-000554,1,2026-04-04,UPS,UPS-41092281,DELIVERED_ON_TIME,REQ-0107,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000555-01,PO-2026-000555,1,2026-04-10,DHL,DHL-76947871,DELIVERED_ON_TIME,REQ-0256,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000556-01,PO-2026-000556,1,2026-04-05,MAERSK,MAE-45242285,DELIVERED_ON_TIME,REQ-0209,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000557-01,PO-2026-000557,1,2026-04-21,FREIGHT_DIRECT,FRE-98656206,DELIVERED_ON_TIME,REQ-0143,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000558-01,PO-2026-000558,1,2026-04-10,FEDEX,FED-79206372,DELIVERED_ON_TIME,REQ-0058,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000559-01,PO-2026-000559,1,2026-04-24,MAERSK,MAE-96210304,DELIVERED_ON_TIME,REQ-0101,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000560-01,PO-2026-000560,1,2026-04-17,UPS,UPS-52655521,DELIVERED_ON_TIME,REQ-0144,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000561-01,PO-2026-000561,1,2026-04-12,DHL,DHL-91481252,DELIVERED_ON_TIME,REQ-0033,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000562-01,PO-2026-000562,1,2026-04-16,DHL,DHL-48039820,DELIVERED_ON_TIME,REQ-0118,PASSED,23,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000563-01,PO-2026-000563,1,2026-04-10,FREIGHT_DIRECT,FRE-48638981,DELIVERED_ON_TIME,REQ-0251,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000564-01,PO-2026-000564,1,2026-04-17,DHL,DHL-25261099,DELIVERED_ON_TIME,REQ-0247,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000565-01,PO-2026-000565,1,2026-04-29,FREIGHT_DIRECT,FRE-95358609,DELIVERED_ON_TIME,REQ-0299,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000566-01,PO-2026-000566,1,2026-04-27,UPS,UPS-42630515,DELIVERED_ON_TIME,REQ-0060,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000567-01,PO-2026-000567,1,2026-04-21,FREIGHT_DIRECT,FRE-48742753,DELIVERED_ON_TIME,REQ-0273,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000568-01,PO-2026-000568,1,2026-05-02,FREIGHT_DIRECT,FRE-25029974,DELIVERED_ON_TIME,REQ-0199,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000569-01,PO-2026-000569,1,2026-04-30,MAERSK,MAE-38049601,DELIVERED_ON_TIME,REQ-0032,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000570-01,PO-2026-000570,1,2026-05-10,MAERSK,MAE-54760017,DELIVERED_ON_TIME,REQ-0093,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000571-01,PO-2026-000571,1,2026-05-07,MAERSK,MAE-62196525,DELIVERED_LATE,REQ-0268,PASSED,10,False,Carrier transit delay (3 days overdue). Accepted upon arrival.
+DEL-PO-2026-000572-01,PO-2026-000572,1,2026-05-06,UPS,UPS-21992842,DELIVERED_ON_TIME,REQ-0190,PASSED,45,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000573-01,PO-2026-000573,1,2026-04-30,UPS,UPS-43732560,DELIVERED_ON_TIME,REQ-0030,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000574-01,PO-2026-000574,1,2026-04-28,MAERSK,MAE-52901663,DELIVERED_ON_TIME,REQ-0191,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000575-01,PO-2026-000575,1,2026-05-08,DHL,DHL-19702224,DELIVERED_ON_TIME,REQ-0186,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000576-01,PO-2026-000576,1,2026-05-03,FREIGHT_DIRECT,FRE-76441216,DELIVERED_ON_TIME,REQ-0012,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000577-01,PO-2026-000577,1,2026-05-14,DHL,DHL-51670010,DELIVERED_ON_TIME,REQ-0103,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000578-01,PO-2026-000578,1,2026-05-09,FREIGHT_DIRECT,FRE-50471700,DELIVERED_ON_TIME,REQ-0236,PASSED,50,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000579-01,PO-2026-000579,1,2026-05-21,UPS,UPS-65718013,DELIVERED_ON_TIME,REQ-0292,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000580-01,PO-2026-000580,1,2026-05-16,FREIGHT_DIRECT,FRE-56508204,IN_TRANSIT,REQ-0223,PASSED,1,True,First partial batch received (1/2 items).
+DEL-PO-2026-000580-02,PO-2026-000580,2,2026-05-22,FEDEX,FED-12905989,DELIVERED_LATE,REQ-0046,PASSED,1,False,Final remainder batch received (1 items). Order complete.
+DEL-PO-2026-000581-01,PO-2026-000581,1,2026-05-28,FREIGHT_DIRECT,FRE-63523230,DELIVERED_ON_TIME,REQ-0026,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000582-01,PO-2026-000582,1,2026-05-25,FREIGHT_DIRECT,FRE-69843769,DELIVERED_ON_TIME,REQ-0211,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000583-01,PO-2026-000583,1,2026-05-14,FREIGHT_DIRECT,FRE-65085184,DELIVERED_ON_TIME,REQ-0104,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000584-01,PO-2026-000584,1,2026-05-23,UPS,UPS-42726722,DELIVERED_ON_TIME,REQ-0073,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000585-01,PO-2026-000585,1,2026-05-21,MAERSK,MAE-92544681,DELIVERED_ON_TIME,REQ-0042,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000586-01,PO-2026-000586,1,2026-05-23,DHL,DHL-34471839,IN_TRANSIT,REQ-0283,PASSED,1,True,First partial batch received (1/1 items).
+DEL-PO-2026-000586-02,PO-2026-000586,2,2026-05-29,DHL,DHL-20819813,DELIVERED_LATE,REQ-0139,PASSED,0,False,Final remainder batch received (0 items). Order complete.
+DEL-PO-2026-000587-01,PO-2026-000587,1,2026-05-25,DHL,DHL-71830556,DELIVERED_ON_TIME,REQ-0277,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000588-01,PO-2026-000588,1,2026-05-25,UPS,UPS-17442577,DELIVERED_ON_TIME,REQ-0046,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000589-01,PO-2026-000589,1,2026-06-15,DHL,DHL-69777397,DELIVERED_LATE,REQ-0120,PASSED,25,False,Carrier transit delay (10 days overdue). Accepted upon arrival.
+DEL-PO-2026-000590-01,PO-2026-000590,1,2026-05-29,FREIGHT_DIRECT,FRE-61715033,DELIVERED_ON_TIME,REQ-0255,PASSED,50,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000591-01,PO-2026-000591,1,2026-06-03,FEDEX,FED-90541409,DELIVERED_ON_TIME,REQ-0038,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000592-01,PO-2026-000592,1,2026-05-30,FREIGHT_DIRECT,FRE-49457430,DELIVERED_ON_TIME,REQ-0112,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000593-01,PO-2026-000593,1,2026-06-28,DHL,DHL-62531764,DELIVERED_LATE,REQ-0222,PASSED,6,False,Carrier transit delay (14 days overdue). Accepted upon arrival.
+DEL-PO-2026-000594-01,PO-2026-000594,1,2026-06-15,DHL,DHL-86573603,DELIVERED_ON_TIME,REQ-0232,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000595-01,PO-2026-000595,1,2026-06-07,DHL,DHL-25574178,DELIVERED_ON_TIME,REQ-0115,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000596-01,PO-2026-000596,1,2026-06-27,FREIGHT_DIRECT,FRE-90408624,DELIVERED_LATE,REQ-0238,PASSED,2,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000597-01,PO-2026-000597,1,2026-06-17,MAERSK,MAE-71590760,DELIVERED_ON_TIME,REQ-0011,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000598-01,PO-2026-000598,1,2026-06-08,DHL,DHL-96028204,DELIVERED_ON_TIME,REQ-0262,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000599-01,PO-2026-000599,1,2026-06-26,MAERSK,MAE-63320099,DELIVERED_ON_TIME,REQ-0280,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000600-01,PO-2026-000600,1,2026-06-26,FEDEX,FED-41338611,DELIVERED_ON_TIME,REQ-0097,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000601-01,PO-2026-000601,1,2026-06-19,UPS,UPS-70426002,DELIVERED_ON_TIME,REQ-0090,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000602-01,PO-2026-000602,1,2026-07-01,DHL,DHL-85229954,DELIVERED_LATE,REQ-0024,PASSED,14,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000603-01,PO-2026-000603,1,2026-06-20,UPS,UPS-92461681,DELIVERED_ON_TIME,REQ-0052,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000604-01,PO-2026-000604,1,2026-06-12,FEDEX,FED-30919948,DELIVERED_ON_TIME,REQ-0080,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000605-01,PO-2026-000605,1,2026-06-18,DHL,DHL-46363124,DELIVERED_ON_TIME,REQ-0158,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000606-01,PO-2026-000606,1,2026-06-13,MAERSK,MAE-38601400,DELIVERED_ON_TIME,REQ-0044,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000607-01,PO-2026-000607,1,2026-06-18,DHL,DHL-27755598,DELIVERED_ON_TIME,REQ-0008,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000608-01,PO-2026-000608,1,2026-06-25,UPS,UPS-22361403,DELIVERED_ON_TIME,REQ-0096,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000609-01,PO-2026-000609,1,2026-06-11,DHL,DHL-64703213,DELIVERED_ON_TIME,REQ-0024,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000610-01,PO-2026-000610,1,2026-06-19,UPS,UPS-17296330,DELIVERED_ON_TIME,REQ-0215,PASSED,55,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000611-01,PO-2026-000611,1,2026-06-17,DHL,DHL-81508564,DELIVERED_ON_TIME,REQ-0087,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000612-01,PO-2026-000612,1,2026-06-30,FREIGHT_DIRECT,FRE-56170685,DELIVERED_ON_TIME,REQ-0136,PASSED,51,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000613-01,PO-2026-000613,1,2026-06-18,FEDEX,FED-20258818,DELIVERED_ON_TIME,REQ-0123,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000614-01,PO-2026-000614,1,2026-06-15,FEDEX,FED-69885303,DELIVERED_ON_TIME,REQ-0181,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000615-01,PO-2026-000615,1,2026-06-17,FREIGHT_DIRECT,FRE-97090527,DELIVERED_ON_TIME,REQ-0047,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000616-01,PO-2026-000616,1,2026-06-15,FEDEX,FED-88344156,DELIVERED_ON_TIME,REQ-0155,PASSED,36,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000617-01,PO-2026-000617,1,2026-06-18,FEDEX,FED-31095709,DELIVERED_ON_TIME,REQ-0031,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000618-01,PO-2026-000618,1,2026-06-26,MAERSK,MAE-38833282,DELIVERED_ON_TIME,REQ-0278,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000619-01,PO-2026-000619,1,2026-06-19,FEDEX,FED-11802592,DELIVERED_ON_TIME,REQ-0019,PASSED,30,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000620-01,PO-2026-000620,1,2026-07-02,FEDEX,FED-32443340,DELIVERED_LATE,REQ-0112,PASSED,9,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000621-01,PO-2026-000621,1,2026-06-16,MAERSK,MAE-29177147,DELIVERED_ON_TIME,REQ-0072,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000622-01,PO-2026-000622,1,2026-06-22,MAERSK,MAE-69153576,IN_TRANSIT,REQ-0072,PASSED,1,True,First partial batch received (1/2 items).
+DEL-PO-2026-000622-02,PO-2026-000622,2,2026-07-04,DHL,DHL-46478977,DELIVERED_LATE,REQ-0074,PASSED,1,False,Final remainder batch received (1 items). Order complete.
+DEL-PO-2026-000623-01,PO-2026-000623,1,2026-07-11,UPS,UPS-48509492,DELIVERED_LATE,REQ-0062,PASSED,7,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000624-01,PO-2026-000624,1,2026-07-03,MAERSK,MAE-70037401,DELIVERED_LATE,REQ-0181,PASSED,4,False,Carrier transit delay (8 days overdue). Accepted upon arrival.
+DEL-PO-2026-000625-01,PO-2026-000625,1,2026-06-21,UPS,UPS-25856376,IN_TRANSIT,REQ-0027,PASSED,9,True,First partial batch received (9/15 items).
+DEL-PO-2026-000625-02,PO-2026-000625,2,2026-07-02,UPS,UPS-53749543,DELIVERED_LATE,REQ-0278,PASSED,6,False,Final remainder batch received (6 items). Order complete.
+DEL-PO-2026-000626-01,PO-2026-000626,1,2026-06-19,FEDEX,FED-33068689,DELIVERED_ON_TIME,REQ-0004,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000627-01,PO-2026-000627,1,2026-06-27,MAERSK,MAE-31819121,DELIVERED_ON_TIME,REQ-0156,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000628-01,PO-2026-000628,1,2026-06-19,FEDEX,FED-50321161,DELIVERED_ON_TIME,REQ-0189,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000629-01,PO-2026-000629,1,2026-06-17,FEDEX,FED-68311676,DELIVERED_ON_TIME,REQ-0260,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000630-01,PO-2026-000630,1,2026-06-28,UPS,UPS-22391023,DELIVERED_ON_TIME,REQ-0191,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000631-01,PO-2026-000631,1,2026-06-20,MAERSK,MAE-90723769,DELIVERED_ON_TIME,REQ-0006,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000632-01,PO-2026-000632,1,2026-07-12,DHL,DHL-18303396,DELIVERED_LATE,REQ-0081,PASSED,25,False,Carrier transit delay (4 days overdue). Accepted upon arrival.
+DEL-PO-2026-000633-01,PO-2026-000633,1,2026-07-03,FREIGHT_DIRECT,FRE-16471883,DELIVERED_ON_TIME,REQ-0063,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000634-01,PO-2026-000634,1,2026-07-08,FREIGHT_DIRECT,FRE-96452647,DELIVERED_LATE,REQ-0030,PASSED,8,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000635-01,PO-2026-000635,1,2026-06-23,DHL,DHL-63050649,DELIVERED_ON_TIME,REQ-0208,PASSED,26,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000636-01,PO-2026-000636,1,2026-07-07,MAERSK,MAE-67644143,DELIVERED_ON_TIME,REQ-0229,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000637-01,PO-2026-000637,1,2026-06-23,DHL,DHL-36639317,DELIVERED_ON_TIME,REQ-0122,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000638-01,PO-2026-000638,1,2026-06-20,FEDEX,FED-31792538,DELIVERED_ON_TIME,REQ-0132,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000639-01,PO-2026-000639,1,2026-07-11,DHL,DHL-48311352,DELIVERED_LATE,REQ-0246,PASSED,5,False,Carrier transit delay (7 days overdue). Accepted upon arrival.
+DEL-PO-2026-000640-01,PO-2026-000640,1,2026-06-24,DHL,DHL-35883412,DELIVERED_ON_TIME,REQ-0002,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000641-01,PO-2026-000641,1,2026-06-26,UPS,UPS-80485961,DELIVERED_ON_TIME,REQ-0045,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000642-01,PO-2026-000642,1,2026-06-25,MAERSK,MAE-82156235,DELIVERED_ON_TIME,REQ-0193,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000643-01,PO-2026-000643,1,2026-06-27,FREIGHT_DIRECT,FRE-65896541,DELIVERED_ON_TIME,REQ-0102,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000644-01,PO-2026-000644,1,2026-06-28,UPS,UPS-78159915,DELIVERED_ON_TIME,REQ-0083,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000645-01,PO-2026-000645,1,2026-07-05,FEDEX,FED-84294202,DELIVERED_ON_TIME,REQ-0121,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000646-01,PO-2026-000646,1,2026-06-27,FREIGHT_DIRECT,FRE-41004932,DELIVERED_ON_TIME,REQ-0028,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000647-01,PO-2026-000647,1,2026-07-02,MAERSK,MAE-18885667,DAMAGED,REQ-0010,ACCEPTED_WITH_CONCESSION,3,False,Packaging dented; goods tested functional and accepted with 5% discount concession.
+DEL-PO-2026-000648-01,PO-2026-000648,1,2026-07-01,DHL,DHL-86460370,DELIVERED_ON_TIME,REQ-0070,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000649-01,PO-2026-000649,1,2026-07-06,UPS,UPS-52750859,DELIVERED_ON_TIME,REQ-0203,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000650-01,PO-2026-000650,1,2026-06-24,FREIGHT_DIRECT,FRE-70820077,IN_TRANSIT,REQ-0258,PASSED,4,True,First partial batch received (4/7 items).
+DEL-PO-2026-000650-02,PO-2026-000650,2,2026-07-03,DHL,DHL-74317747,DELIVERED_LATE,REQ-0269,PASSED,3,False,Final remainder batch received (3 items). Order complete.
+DEL-PO-2026-000651-01,PO-2026-000651,1,2026-06-22,DHL,DHL-29609100,DELIVERED_ON_TIME,REQ-0182,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000652-01,PO-2026-000652,1,2026-07-04,UPS,UPS-92929388,IN_TRANSIT,REQ-0256,PASSED,15,True,First partial batch received (15/26 items).
+DEL-PO-2026-000652-02,PO-2026-000652,2,2026-07-16,UPS,UPS-82363104,DELIVERED_LATE,REQ-0071,PASSED,11,False,Final remainder batch received (11 items). Order complete.
+DEL-PO-2026-000653-01,PO-2026-000653,1,2026-06-30,MAERSK,MAE-88282577,DELIVERED_ON_TIME,REQ-0105,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000654-01,PO-2026-000654,1,2026-06-30,FREIGHT_DIRECT,FRE-24593059,DELIVERED_ON_TIME,REQ-0177,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000655-01,PO-2026-000655,1,2026-06-27,FEDEX,FED-23040542,DELIVERED_ON_TIME,REQ-0297,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000656-01,PO-2026-000656,1,2026-06-30,MAERSK,MAE-12338544,DELIVERED_ON_TIME,REQ-0070,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000657-01,PO-2026-000657,1,2026-07-09,DHL,DHL-25140252,DELIVERED_ON_TIME,REQ-0272,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000658-01,PO-2026-000658,1,2026-06-28,FREIGHT_DIRECT,FRE-57166977,DELIVERED_ON_TIME,REQ-0084,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000659-01,PO-2026-000659,1,2026-06-29,DHL,DHL-92435108,IN_TRANSIT,REQ-0089,PASSED,16,True,First partial batch received (16/27 items).
+DEL-PO-2026-000659-02,PO-2026-000659,2,2026-07-04,FREIGHT_DIRECT,FRE-98208225,DELIVERED_ON_TIME,REQ-0281,PASSED,11,False,Final remainder batch received (11 items). Order complete.
+DEL-PO-2026-000660-01,PO-2026-000660,1,2026-07-02,FREIGHT_DIRECT,FRE-92929391,DELIVERED_ON_TIME,REQ-0184,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000661-01,PO-2026-000661,1,2026-06-28,DHL,DHL-33852957,DELIVERED_ON_TIME,REQ-0163,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000662-01,PO-2026-000662,1,2026-07-04,MAERSK,MAE-32810398,DELIVERED_ON_TIME,REQ-0052,PASSED,75,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000663-01,PO-2026-000663,1,2026-07-02,UPS,UPS-30368487,DELIVERED_ON_TIME,REQ-0017,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000664-01,PO-2026-000664,1,2026-07-20,UPS,UPS-56421965,DELIVERED_LATE,REQ-0023,PASSED,4,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000665-01,PO-2026-000665,1,2026-06-30,FEDEX,FED-89576023,IN_TRANSIT,REQ-0170,PASSED,3,True,First partial batch received (3/5 items).
+DEL-PO-2026-000665-02,PO-2026-000665,2,2026-07-12,MAERSK,MAE-61049174,DELIVERED_ON_TIME,REQ-0244,PASSED,2,False,Final remainder batch received (2 items). Order complete.
+DEL-PO-2026-000666-01,PO-2026-000666,1,2026-07-03,MAERSK,MAE-16415690,DELIVERED_ON_TIME,REQ-0179,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000667-01,PO-2026-000667,1,2026-07-08,DHL,DHL-87163363,DELIVERED_ON_TIME,REQ-0286,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000668-01,PO-2026-000668,1,2026-07-01,MAERSK,MAE-89556006,DELIVERED_ON_TIME,REQ-0195,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000669-01,PO-2026-000669,1,2026-07-09,MAERSK,MAE-64624875,DELIVERED_ON_TIME,REQ-0103,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000670-01,PO-2026-000670,1,2026-07-03,MAERSK,MAE-56893945,IN_TRANSIT,REQ-0123,PASSED,15,True,First partial batch received (15/26 items).
+DEL-PO-2026-000670-02,PO-2026-000670,2,2026-07-13,DHL,DHL-68814164,DELIVERED_LATE,REQ-0063,PASSED,11,False,Final remainder batch received (11 items). Order complete.
+DEL-PO-2026-000671-01,PO-2026-000671,1,2026-07-15,UPS,UPS-94996819,DELIVERED_ON_TIME,REQ-0259,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000672-01,PO-2026-000672,1,2026-07-03,MAERSK,MAE-78694849,DELIVERED_ON_TIME,REQ-0203,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000673-01,PO-2026-000673,1,2026-06-29,MAERSK,MAE-68773770,DELIVERED_ON_TIME,REQ-0105,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000674-01,PO-2026-000674,1,2026-07-01,DHL,DHL-68646451,DELIVERED_ON_TIME,REQ-0183,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000675-01,PO-2026-000675,1,2026-07-01,FEDEX,FED-73666001,DELIVERED_ON_TIME,REQ-0151,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000676-01,PO-2026-000676,1,2026-07-04,FREIGHT_DIRECT,FRE-25662904,DELIVERED_ON_TIME,REQ-0143,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000677-01,PO-2026-000677,1,2026-07-04,FEDEX,FED-76384969,IN_TRANSIT,REQ-0104,PASSED,18,True,First partial batch received (18/30 items).
+DEL-PO-2026-000677-02,PO-2026-000677,2,2026-07-10,UPS,UPS-48292105,DELIVERED_ON_TIME,REQ-0254,PASSED,12,False,Final remainder batch received (12 items). Order complete.
+DEL-PO-2026-000678-01,PO-2026-000678,1,2026-06-30,FEDEX,FED-12114994,DELIVERED_ON_TIME,REQ-0093,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000679-01,PO-2026-000679,1,2026-07-16,MAERSK,MAE-51402893,DELIVERED_ON_TIME,REQ-0217,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000680-01,PO-2026-000680,1,2026-07-02,FREIGHT_DIRECT,FRE-89716891,DELIVERED_ON_TIME,REQ-0283,PASSED,25,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000681-01,PO-2026-000681,1,2026-07-10,MAERSK,MAE-16866030,DELIVERED_ON_TIME,REQ-0290,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000682-01,PO-2026-000682,1,2026-07-10,FEDEX,FED-39087397,DELIVERED_ON_TIME,REQ-0133,PASSED,61,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000683-01,PO-2026-000683,1,2026-07-20,DHL,DHL-89964296,DELIVERED_ON_TIME,REQ-0266,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000684-01,PO-2026-000684,1,2026-07-06,DHL,DHL-14213558,DELIVERED_ON_TIME,REQ-0042,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000685-01,PO-2026-000685,1,2026-07-10,UPS,UPS-23293414,DELIVERED_ON_TIME,REQ-0124,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000686-01,PO-2026-000686,1,2026-07-01,FREIGHT_DIRECT,FRE-41844913,DELIVERED_ON_TIME,REQ-0152,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000687-01,PO-2026-000687,1,2026-07-09,DHL,DHL-48494441,DELIVERED_ON_TIME,REQ-0120,PASSED,9,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000688-01,PO-2026-000688,1,2026-07-15,FREIGHT_DIRECT,FRE-14761275,DELIVERED_ON_TIME,REQ-0268,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000689-01,PO-2026-000689,1,2026-07-07,FEDEX,FED-46648184,DAMAGED,REQ-0268,ACCEPTED_WITH_CONCESSION,2,False,Packaging dented; goods tested functional and accepted with 5% discount concession.
+DEL-PO-2026-000690-01,PO-2026-000690,1,2026-07-07,UPS,UPS-58583233,DELIVERED_ON_TIME,REQ-0214,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000691-01,PO-2026-000691,1,2026-07-24,DHL,DHL-85019994,DELIVERED_LATE,REQ-0252,PASSED,1,False,Carrier transit delay (8 days overdue). Accepted upon arrival.
+DEL-PO-2026-000692-01,PO-2026-000692,1,2026-07-14,MAERSK,MAE-42477649,DELIVERED_ON_TIME,REQ-0101,PASSED,30,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000693-01,PO-2026-000693,1,2026-07-19,UPS,UPS-56766286,DELIVERED_ON_TIME,REQ-0233,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000694-01,PO-2026-000694,1,2026-07-11,UPS,UPS-45897800,DELIVERED_ON_TIME,REQ-0137,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000695-01,PO-2026-000695,1,2026-07-08,MAERSK,MAE-46353328,DELIVERED_ON_TIME,REQ-0179,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000696-01,PO-2026-000696,1,2026-07-14,MAERSK,MAE-76268287,DELIVERED_ON_TIME,REQ-0248,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000697-01,PO-2026-000697,1,2026-08-03,MAERSK,MAE-64005192,DELIVERED_LATE,REQ-0269,PASSED,1,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000698-01,PO-2026-000698,1,2026-07-13,MAERSK,MAE-50952889,DELIVERED_ON_TIME,REQ-0224,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000699-01,PO-2026-000699,1,2026-08-02,UPS,UPS-56044289,DELIVERED_LATE,REQ-0078,PASSED,10,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000700-01,PO-2026-000700,1,2026-07-18,FEDEX,FED-51714862,DELIVERED_ON_TIME,REQ-0131,PASSED,46,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000701-01,PO-2026-000701,1,2026-07-20,MAERSK,MAE-85947639,DELIVERED_ON_TIME,REQ-0060,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000702-01,PO-2026-000702,1,2026-07-06,FREIGHT_DIRECT,FRE-58697313,IN_TRANSIT,REQ-0090,PASSED,34,True,First partial batch received (34/57 items).
+DEL-PO-2026-000702-02,PO-2026-000702,2,2026-07-11,UPS,UPS-49128198,DELIVERED_ON_TIME,REQ-0288,PASSED,23,False,Final remainder batch received (23 items). Order complete.
+DEL-PO-2026-000703-01,PO-2026-000703,1,2026-08-07,DHL,DHL-63559858,DELIVERED_LATE,REQ-0140,PASSED,1,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000704-01,PO-2026-000704,1,2026-07-11,DHL,DHL-25265577,DELIVERED_ON_TIME,REQ-0255,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000705-01,PO-2026-000705,1,2026-07-09,UPS,UPS-21467319,DELIVERED_ON_TIME,REQ-0198,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000706-01,PO-2026-000706,1,2026-07-23,FREIGHT_DIRECT,FRE-64087157,DELIVERED_ON_TIME,REQ-0022,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000707-01,PO-2026-000707,1,2026-07-15,MAERSK,MAE-30470638,DELIVERED_ON_TIME,REQ-0029,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000708-01,PO-2026-000708,1,2026-07-13,UPS,UPS-98816650,DELIVERED_ON_TIME,REQ-0181,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000709-01,PO-2026-000709,1,2026-07-12,UPS,UPS-39673611,DELIVERED_ON_TIME,REQ-0287,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000710-01,PO-2026-000710,1,2026-07-12,UPS,UPS-31547835,DELIVERED_ON_TIME,REQ-0149,PASSED,25,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000711-01,PO-2026-000711,1,2026-07-20,UPS,UPS-49366176,DELIVERED_ON_TIME,REQ-0060,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000712-01,PO-2026-000712,1,2026-08-05,UPS,UPS-33920031,DELIVERED_LATE,REQ-0060,PASSED,52,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000713-01,PO-2026-000713,1,2026-07-14,DHL,DHL-38563829,DELIVERED_ON_TIME,REQ-0123,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000714-01,PO-2026-000714,1,2026-07-17,DHL,DHL-14121812,DELIVERED_ON_TIME,REQ-0114,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000715-01,PO-2026-000715,1,2026-07-19,MAERSK,MAE-34540188,DELIVERED_ON_TIME,REQ-0108,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000716-01,PO-2026-000716,1,2026-07-10,UPS,UPS-17832998,IN_TRANSIT,REQ-0084,PASSED,5,True,First partial batch received (5/9 items).
+DEL-PO-2026-000716-02,PO-2026-000716,2,2026-07-18,DHL,DHL-64513222,DELIVERED_ON_TIME,REQ-0276,PASSED,4,False,Final remainder batch received (4 items). Order complete.
+DEL-PO-2026-000717-01,PO-2026-000717,1,2026-07-17,FEDEX,FED-79980268,DELIVERED_ON_TIME,REQ-0002,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000718-01,PO-2026-000718,1,2026-07-11,MAERSK,MAE-70052587,DELIVERED_ON_TIME,REQ-0239,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000719-01,PO-2026-000719,1,2026-07-13,DHL,DHL-44945970,DELIVERED_ON_TIME,REQ-0233,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000720-01,PO-2026-000720,1,2026-07-22,MAERSK,MAE-32625842,DELIVERED_ON_TIME,REQ-0240,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000721-01,PO-2026-000721,1,2026-07-12,FREIGHT_DIRECT,FRE-17755836,DELIVERED_ON_TIME,REQ-0032,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000722-01,PO-2026-000722,1,2026-07-14,DHL,DHL-20490747,DELIVERED_ON_TIME,REQ-0278,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000723-01,PO-2026-000723,1,2026-07-17,FEDEX,FED-70443530,DELIVERED_ON_TIME,REQ-0086,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000724-01,PO-2026-000724,1,2026-07-14,MAERSK,MAE-11055017,DELIVERED_ON_TIME,REQ-0106,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000725-01,PO-2026-000725,1,2026-07-10,UPS,UPS-52417215,DELIVERED_ON_TIME,REQ-0109,PASSED,52,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000726-01,PO-2026-000726,1,2026-07-21,MAERSK,MAE-71370327,DELIVERED_ON_TIME,REQ-0285,PASSED,16,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000727-01,PO-2026-000727,1,2026-07-30,FEDEX,FED-32141601,DELIVERED_ON_TIME,REQ-0182,PASSED,8,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000728-01,PO-2026-000728,1,2026-07-15,DHL,DHL-38709262,DELIVERED_ON_TIME,REQ-0245,PASSED,37,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000729-01,PO-2026-000729,1,2026-07-24,DHL,DHL-81826269,DELIVERED_ON_TIME,REQ-0276,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000730-01,PO-2026-000730,1,2026-07-15,FREIGHT_DIRECT,FRE-73902279,DELIVERED_ON_TIME,REQ-0046,PASSED,25,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000731-01,PO-2026-000731,1,2026-07-15,FREIGHT_DIRECT,FRE-70236556,DELIVERED_ON_TIME,REQ-0258,PASSED,9,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000732-01,PO-2026-000732,1,2026-07-18,DHL,DHL-51117178,DELIVERED_ON_TIME,REQ-0153,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000733-01,PO-2026-000733,1,2026-07-27,UPS,UPS-47070289,DELIVERED_ON_TIME,REQ-0022,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000734-01,PO-2026-000734,1,2026-07-13,UPS,UPS-69217155,DELIVERED_ON_TIME,REQ-0202,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000735-01,PO-2026-000735,1,2026-07-17,UPS,UPS-72332984,DELIVERED_ON_TIME,REQ-0133,PASSED,9,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000736-01,PO-2026-000736,1,2026-08-15,FREIGHT_DIRECT,FRE-49098443,DELIVERED_LATE,REQ-0250,PASSED,27,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000737-01,PO-2026-000737,1,2026-07-19,FEDEX,FED-23792142,DELIVERED_ON_TIME,REQ-0215,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000738-01,PO-2026-000738,1,2026-07-29,FEDEX,FED-98064700,DELIVERED_ON_TIME,REQ-0194,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000739-01,PO-2026-000739,1,2026-07-21,UPS,UPS-62584368,DAMAGED,REQ-0065,ACCEPTED_WITH_CONCESSION,2,False,Packaging dented; goods tested functional and accepted with 5% discount concession.
+DEL-PO-2026-000740-01,PO-2026-000740,1,2026-08-02,MAERSK,MAE-79281057,DELIVERED_LATE,REQ-0056,PASSED,3,False,Carrier transit delay (6 days overdue). Accepted upon arrival.
+DEL-PO-2026-000741-01,PO-2026-000741,1,2026-07-21,FREIGHT_DIRECT,FRE-63861497,DELIVERED_ON_TIME,REQ-0172,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000742-01,PO-2026-000742,1,2026-07-22,FREIGHT_DIRECT,FRE-87283874,DELIVERED_ON_TIME,REQ-0154,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000743-01,PO-2026-000743,1,2026-07-24,UPS,UPS-89816491,DELIVERED_ON_TIME,REQ-0097,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000744-01,PO-2026-000744,1,2026-07-28,FEDEX,FED-24176436,DELIVERED_ON_TIME,REQ-0133,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000745-01,PO-2026-000745,1,2026-07-24,FEDEX,FED-58137987,DELIVERED_ON_TIME,REQ-0213,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000746-01,PO-2026-000746,1,2026-07-23,FREIGHT_DIRECT,FRE-53676654,DELIVERED_ON_TIME,REQ-0169,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000747-01,PO-2026-000747,1,2026-07-26,DHL,DHL-99541755,DELIVERED_ON_TIME,REQ-0258,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000748-01,PO-2026-000748,1,2026-07-18,FREIGHT_DIRECT,FRE-33578234,IN_TRANSIT,REQ-0202,PASSED,1,True,First partial batch received (1/2 items).
+DEL-PO-2026-000748-02,PO-2026-000748,2,2026-07-23,MAERSK,MAE-53363965,DELIVERED_ON_TIME,REQ-0259,PASSED,1,False,Final remainder batch received (1 items). Order complete.
+DEL-PO-2026-000749-01,PO-2026-000749,1,2026-07-18,FEDEX,FED-91309587,DELIVERED_ON_TIME,REQ-0028,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000750-01,PO-2026-000750,1,2026-07-24,DHL,DHL-77929829,DELIVERED_ON_TIME,REQ-0058,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000751-01,PO-2026-000751,1,2026-07-29,DHL,DHL-95980098,DELIVERED_ON_TIME,REQ-0150,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000752-01,PO-2026-000752,1,2026-07-21,UPS,UPS-24665464,DELIVERED_ON_TIME,REQ-0193,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000753-01,PO-2026-000753,1,2026-07-21,DHL,DHL-21594435,DELIVERED_ON_TIME,REQ-0029,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000754-01,PO-2026-000754,1,2026-08-10,MAERSK,MAE-54309284,DELIVERED_LATE,REQ-0234,PASSED,21,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000755-01,PO-2026-000755,1,2026-07-22,FREIGHT_DIRECT,FRE-21099589,DELIVERED_ON_TIME,REQ-0177,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000756-01,PO-2026-000756,1,2026-07-31,FEDEX,FED-42080298,DELIVERED_ON_TIME,REQ-0118,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000757-01,PO-2026-000757,1,2026-07-28,FEDEX,FED-17231569,DELIVERED_ON_TIME,REQ-0259,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000758-01,PO-2026-000758,1,2026-07-23,FEDEX,FED-28156589,DELIVERED_ON_TIME,REQ-0202,PASSED,33,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000759-01,PO-2026-000759,1,2026-07-29,DHL,DHL-17593134,DELIVERED_ON_TIME,REQ-0264,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000760-01,PO-2026-000760,1,2026-07-25,UPS,UPS-84406352,DELIVERED_ON_TIME,REQ-0024,PASSED,55,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000761-01,PO-2026-000761,1,2026-07-27,FEDEX,FED-58835333,DELIVERED_ON_TIME,REQ-0077,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000762-01,PO-2026-000762,1,2026-08-03,UPS,UPS-74236253,DELIVERED_ON_TIME,REQ-0125,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000763-01,PO-2026-000763,1,2026-08-03,DHL,DHL-49995749,DELIVERED_ON_TIME,REQ-0287,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000764-01,PO-2026-000764,1,2026-08-02,FEDEX,FED-69278216,DELIVERED_ON_TIME,REQ-0077,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000765-01,PO-2026-000765,1,2026-07-20,DHL,DHL-46240050,DELIVERED_ON_TIME,REQ-0042,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000766-01,PO-2026-000766,1,2026-07-26,DHL,DHL-31881339,DELIVERED_ON_TIME,REQ-0202,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000767-01,PO-2026-000767,1,2026-08-09,FREIGHT_DIRECT,FRE-61382008,DELIVERED_ON_TIME,REQ-0271,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000768-01,PO-2026-000768,1,2026-08-01,DHL,DHL-32304782,DELIVERED_ON_TIME,REQ-0147,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000769-01,PO-2026-000769,1,2026-07-27,DHL,DHL-57340865,DELIVERED_ON_TIME,REQ-0103,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000770-01,PO-2026-000770,1,2026-07-25,FREIGHT_DIRECT,FRE-76511541,DELIVERED_ON_TIME,REQ-0139,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000771-01,PO-2026-000771,1,2026-08-02,UPS,UPS-73910834,DELIVERED_ON_TIME,REQ-0093,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000772-01,PO-2026-000772,1,2026-08-03,MAERSK,MAE-56552731,DELIVERED_LATE,REQ-0096,PASSED,1,False,Carrier transit delay (6 days overdue). Accepted upon arrival.
+DEL-PO-2026-000773-01,PO-2026-000773,1,2026-07-26,UPS,UPS-51506616,DELIVERED_ON_TIME,REQ-0230,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000774-01,PO-2026-000774,1,2026-08-05,UPS,UPS-77267018,DELIVERED_ON_TIME,REQ-0285,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000775-01,PO-2026-000775,1,2026-07-25,UPS,UPS-36187146,DELIVERED_ON_TIME,REQ-0202,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000776-01,PO-2026-000776,1,2026-07-27,FREIGHT_DIRECT,FRE-20905823,DELIVERED_ON_TIME,REQ-0279,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000777-01,PO-2026-000777,1,2026-07-25,UPS,UPS-32953703,IN_TRANSIT,REQ-0271,PASSED,1,True,First partial batch received (1/3 items).
+DEL-PO-2026-000777-02,PO-2026-000777,2,2026-08-01,MAERSK,MAE-76856763,DELIVERED_ON_TIME,REQ-0106,PASSED,2,False,Final remainder batch received (2 items). Order complete.
+DEL-PO-2026-000778-01,PO-2026-000778,1,2026-07-31,UPS,UPS-56016203,DELIVERED_ON_TIME,REQ-0001,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000779-01,PO-2026-000779,1,2026-07-31,MAERSK,MAE-17051288,DELIVERED_ON_TIME,REQ-0246,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000780-01,PO-2026-000780,1,2026-08-08,DHL,DHL-10565399,DELIVERED_LATE,REQ-0275,PASSED,1,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000781-01,PO-2026-000781,1,2026-07-29,FREIGHT_DIRECT,FRE-89338702,DELIVERED_ON_TIME,REQ-0133,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000782-01,PO-2026-000782,1,2026-08-08,UPS,UPS-50150181,DELIVERED_ON_TIME,REQ-0174,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000783-01,PO-2026-000783,1,2026-08-02,FREIGHT_DIRECT,FRE-94684995,DELIVERED_ON_TIME,REQ-0026,PASSED,50,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000784-01,PO-2026-000784,1,2026-08-07,FREIGHT_DIRECT,FRE-20161119,DELIVERED_ON_TIME,REQ-0212,PASSED,8,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000785-01,PO-2026-000785,1,2026-08-03,FREIGHT_DIRECT,FRE-10496752,DELIVERED_ON_TIME,REQ-0289,PASSED,28,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000786-01,PO-2026-000786,1,2026-07-31,UPS,UPS-13650206,DELIVERED_ON_TIME,REQ-0010,PASSED,26,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000787-01,PO-2026-000787,1,2026-07-31,FEDEX,FED-71569160,DELIVERED_ON_TIME,REQ-0201,PASSED,15,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000788-01,PO-2026-000788,1,2026-08-01,FEDEX,FED-10123753,DELIVERED_ON_TIME,REQ-0088,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000789-01,PO-2026-000789,1,2026-08-07,FEDEX,FED-75019029,DELIVERED_ON_TIME,REQ-0075,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000790-01,PO-2026-000790,1,2026-08-01,FEDEX,FED-45487221,DELIVERED_ON_TIME,REQ-0239,PASSED,30,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000791-01,PO-2026-000791,1,2026-08-07,FREIGHT_DIRECT,FRE-99445156,DELIVERED_ON_TIME,REQ-0091,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000792-01,PO-2026-000792,1,2026-08-09,FEDEX,FED-10761256,DAMAGED,REQ-0058,ACCEPTED_WITH_CONCESSION,10,False,Packaging dented; goods tested functional and accepted with 5% discount concession.
+DEL-PO-2026-000793-01,PO-2026-000793,1,2026-08-08,DHL,DHL-28439775,DAMAGED,REQ-0024,ACCEPTED_WITH_CONCESSION,1,False,Packaging dented; goods tested functional and accepted with 5% discount concession.
+DEL-PO-2026-000794-01,PO-2026-000794,1,2026-08-11,FREIGHT_DIRECT,FRE-14818807,DELIVERED_ON_TIME,REQ-0119,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000795-01,PO-2026-000795,1,2026-08-14,FEDEX,FED-60020810,DELIVERED_ON_TIME,REQ-0239,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000796-01,PO-2026-000796,1,2026-08-02,UPS,UPS-27424098,DELIVERED_ON_TIME,REQ-0061,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000797-01,PO-2026-000797,1,2026-08-08,FEDEX,FED-13371335,DELIVERED_ON_TIME,REQ-0249,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000798-01,PO-2026-000798,1,2026-08-14,DHL,DHL-88966072,DELIVERED_ON_TIME,REQ-0186,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000799-01,PO-2026-000799,1,2026-08-06,MAERSK,MAE-54172423,DELIVERED_ON_TIME,REQ-0149,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000800-01,PO-2026-000800,1,2026-08-22,FEDEX,FED-87699547,DELIVERED_LATE,REQ-0004,PASSED,20,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000801-01,PO-2026-000801,1,2026-08-22,UPS,UPS-82954790,DELIVERED_LATE,REQ-0052,PASSED,7,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000802-01,PO-2026-000802,1,2026-08-03,MAERSK,MAE-69289830,DELIVERED_ON_TIME,REQ-0149,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000803-01,PO-2026-000803,1,2026-08-11,FREIGHT_DIRECT,FRE-58214586,DELIVERED_ON_TIME,REQ-0156,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000804-01,PO-2026-000804,1,2026-07-30,MAERSK,MAE-66185347,DELIVERED_ON_TIME,REQ-0140,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000805-01,PO-2026-000805,1,2026-08-16,FREIGHT_DIRECT,FRE-74083133,DELIVERED_LATE,REQ-0038,PASSED,1,False,Carrier transit delay (3 days overdue). Accepted upon arrival.
+DEL-PO-2026-000806-01,PO-2026-000806,1,2026-08-11,FEDEX,FED-57590883,IN_TRANSIT,REQ-0137,PASSED,4,True,First partial batch received (4/7 items).
+DEL-PO-2026-000806-02,PO-2026-000806,2,2026-08-16,MAERSK,MAE-55754226,DELIVERED_LATE,REQ-0022,PASSED,3,False,Final remainder batch received (3 items). Order complete.
+DEL-PO-2026-000807-01,PO-2026-000807,1,2026-08-20,DHL,DHL-15678804,DELIVERED_ON_TIME,REQ-0228,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000808-01,PO-2026-000808,1,2026-08-06,FEDEX,FED-88941370,DELIVERED_ON_TIME,REQ-0231,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000809-01,PO-2026-000809,1,2026-08-19,UPS,UPS-83301295,DELIVERED_ON_TIME,REQ-0189,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000810-01,PO-2026-000810,1,2026-08-18,DHL,DHL-86670213,DELIVERED_ON_TIME,REQ-0002,PASSED,21,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000811-01,PO-2026-000811,1,2026-08-18,MAERSK,MAE-47190746,DELIVERED_LATE,REQ-0220,PASSED,1,False,Carrier transit delay (4 days overdue). Accepted upon arrival.
+DEL-PO-2026-000812-01,PO-2026-000812,1,2026-08-02,DHL,DHL-94038165,DELIVERED_ON_TIME,REQ-0164,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000813-01,PO-2026-000813,1,2026-08-18,DHL,DHL-14759876,DELIVERED_ON_TIME,REQ-0131,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000814-01,PO-2026-000814,1,2026-08-13,DHL,DHL-85801397,DELIVERED_ON_TIME,REQ-0048,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000815-01,PO-2026-000815,1,2026-08-09,FREIGHT_DIRECT,FRE-38353969,DELIVERED_ON_TIME,REQ-0102,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000816-01,PO-2026-000816,1,2026-08-15,MAERSK,MAE-19375857,DELIVERED_ON_TIME,REQ-0016,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000817-01,PO-2026-000817,1,2026-08-08,FEDEX,FED-36231832,DELIVERED_ON_TIME,REQ-0249,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000818-01,PO-2026-000818,1,2026-08-15,DHL,DHL-42105112,DELIVERED_ON_TIME,REQ-0024,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000819-01,PO-2026-000819,1,2026-08-15,DHL,DHL-67996737,DELIVERED_ON_TIME,REQ-0165,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000820-01,PO-2026-000820,1,2026-08-05,FREIGHT_DIRECT,FRE-63875855,DELIVERED_ON_TIME,REQ-0195,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000821-01,PO-2026-000821,1,2026-08-07,UPS,UPS-67065971,DELIVERED_ON_TIME,REQ-0177,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000822-01,PO-2026-000822,1,2026-08-09,FEDEX,FED-13868801,DELIVERED_ON_TIME,REQ-0035,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000823-01,PO-2026-000823,1,2026-08-16,FEDEX,FED-56929471,DELIVERED_ON_TIME,REQ-0059,PASSED,51,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000824-01,PO-2026-000824,1,2026-09-07,FEDEX,FED-36487765,DELIVERED_LATE,REQ-0201,PASSED,20,False,Carrier transit delay (13 days overdue). Accepted upon arrival.
+DEL-PO-2026-000825-01,PO-2026-000825,1,2026-08-11,FEDEX,FED-30819833,DELIVERED_ON_TIME,REQ-0256,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000826-01,PO-2026-000826,1,2026-08-12,FREIGHT_DIRECT,FRE-85481228,DELIVERED_ON_TIME,REQ-0120,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000827-01,PO-2026-000827,1,2026-08-07,FEDEX,FED-95293510,DELIVERED_ON_TIME,REQ-0240,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000828-01,PO-2026-000828,1,2026-08-20,MAERSK,MAE-90414571,DELIVERED_ON_TIME,REQ-0269,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000829-01,PO-2026-000829,1,2026-08-13,FEDEX,FED-79985460,DELIVERED_ON_TIME,REQ-0290,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000830-01,PO-2026-000830,1,2026-08-15,DHL,DHL-47055670,DELIVERED_ON_TIME,REQ-0057,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000831-01,PO-2026-000831,1,2026-09-07,MAERSK,MAE-59996964,DELIVERED_LATE,REQ-0243,PASSED,10,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000832-01,PO-2026-000832,1,2026-08-11,DHL,DHL-26036899,DELIVERED_ON_TIME,REQ-0154,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000833-01,PO-2026-000833,1,2026-08-21,FEDEX,FED-15037439,DELIVERED_ON_TIME,REQ-0237,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000834-01,PO-2026-000834,1,2026-08-18,UPS,UPS-70525997,DELIVERED_ON_TIME,REQ-0293,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000835-01,PO-2026-000835,1,2026-08-18,DHL,DHL-61876471,DELIVERED_ON_TIME,REQ-0135,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000836-01,PO-2026-000836,1,2026-08-18,FREIGHT_DIRECT,FRE-84600763,DELIVERED_ON_TIME,REQ-0035,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000837-01,PO-2026-000837,1,2026-08-12,DHL,DHL-79730751,IN_TRANSIT,REQ-0078,PASSED,1,True,First partial batch received (1/3 items).
+DEL-PO-2026-000837-02,PO-2026-000837,2,2026-08-20,MAERSK,MAE-18326787,DELIVERED_LATE,REQ-0132,PASSED,2,False,Final remainder batch received (2 items). Order complete.
+DEL-PO-2026-000838-01,PO-2026-000838,1,2026-08-16,DHL,DHL-33044864,DELIVERED_ON_TIME,REQ-0165,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000839-01,PO-2026-000839,1,2026-08-28,UPS,UPS-60139243,DELIVERED_ON_TIME,REQ-0234,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000840-01,PO-2026-000840,1,2026-08-19,FEDEX,FED-33593606,DELIVERED_ON_TIME,REQ-0121,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000841-01,PO-2026-000841,1,2026-09-01,DHL,DHL-17744455,DELIVERED_ON_TIME,REQ-0030,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000842-01,PO-2026-000842,1,2026-08-23,FREIGHT_DIRECT,FRE-55054709,DELIVERED_LATE,REQ-0011,PASSED,26,False,Carrier transit delay (3 days overdue). Accepted upon arrival.
+DEL-PO-2026-000843-01,PO-2026-000843,1,2026-09-09,FREIGHT_DIRECT,FRE-74421155,DELIVERED_LATE,REQ-0130,PASSED,22,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000844-01,PO-2026-000844,1,2026-08-19,DHL,DHL-32280580,DELIVERED_ON_TIME,REQ-0293,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000845-01,PO-2026-000845,1,2026-08-28,FREIGHT_DIRECT,FRE-42425010,DELIVERED_LATE,REQ-0108,PASSED,2,False,Carrier transit delay (5 days overdue). Accepted upon arrival.
+DEL-PO-2026-000846-01,PO-2026-000846,1,2026-08-20,MAERSK,MAE-24438326,IN_TRANSIT,REQ-0085,PASSED,7,True,First partial batch received (7/12 items).
+DEL-PO-2026-000846-02,PO-2026-000846,2,2026-08-26,DHL,DHL-98300133,DELIVERED_LATE,REQ-0066,PASSED,5,False,Final remainder batch received (5 items). Order complete.
+DEL-PO-2026-000847-01,PO-2026-000847,1,2026-08-20,FREIGHT_DIRECT,FRE-49366835,DELIVERED_ON_TIME,REQ-0185,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000848-01,PO-2026-000848,1,2026-08-17,UPS,UPS-76007285,DELIVERED_ON_TIME,REQ-0202,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000849-01,PO-2026-000849,1,2026-08-31,MAERSK,MAE-65606428,DELIVERED_ON_TIME,REQ-0060,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000850-01,PO-2026-000850,1,2026-08-25,FEDEX,FED-49152885,DELIVERED_ON_TIME,REQ-0044,PASSED,9,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000851-01,PO-2026-000851,1,2026-09-08,FEDEX,FED-91521024,DELIVERED_LATE,REQ-0283,PASSED,3,False,Carrier transit delay (7 days overdue). Accepted upon arrival.
+DEL-PO-2026-000852-01,PO-2026-000852,1,2026-08-27,FEDEX,FED-54572022,DELIVERED_ON_TIME,REQ-0261,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000853-01,PO-2026-000853,1,2026-08-19,FREIGHT_DIRECT,FRE-58831730,DELIVERED_ON_TIME,REQ-0086,PASSED,20,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000854-01,PO-2026-000854,1,2026-09-02,FEDEX,FED-39961772,DELIVERED_LATE,REQ-0101,PASSED,7,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000855-01,PO-2026-000855,1,2026-08-25,MAERSK,MAE-43806710,DAMAGED,REQ-0196,ACCEPTED_WITH_CONCESSION,6,False,Packaging dented; goods tested functional and accepted with 5% discount concession.
+DEL-PO-2026-000856-01,PO-2026-000856,1,2026-08-16,FEDEX,FED-13497034,IN_TRANSIT,REQ-0252,PASSED,15,True,First partial batch received (15/26 items).
+DEL-PO-2026-000856-02,PO-2026-000856,2,2026-08-27,FEDEX,FED-27763103,DELIVERED_ON_TIME,REQ-0170,PASSED,11,False,Final remainder batch received (11 items). Order complete.
+DEL-PO-2026-000857-01,PO-2026-000857,1,2026-08-19,UPS,UPS-72990157,DELIVERED_ON_TIME,REQ-0119,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000858-01,PO-2026-000858,1,2026-08-19,UPS,UPS-83593486,DELIVERED_ON_TIME,REQ-0107,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000859-01,PO-2026-000859,1,2026-08-31,UPS,UPS-81271802,DELIVERED_ON_TIME,REQ-0030,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000860-01,PO-2026-000860,1,2026-08-28,MAERSK,MAE-91316473,DELIVERED_ON_TIME,REQ-0163,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000861-01,PO-2026-000861,1,2026-08-17,UPS,UPS-79412320,DELIVERED_ON_TIME,REQ-0063,PASSED,25,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000862-01,PO-2026-000862,1,2026-08-24,UPS,UPS-53502119,DELIVERED_ON_TIME,REQ-0009,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000863-01,PO-2026-000863,1,2026-08-19,MAERSK,MAE-86818284,DELIVERED_ON_TIME,REQ-0181,PASSED,10,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000864-01,PO-2026-000864,1,2026-08-18,MAERSK,MAE-63272364,DELIVERED_ON_TIME,REQ-0214,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000865-01,PO-2026-000865,1,2026-08-19,FREIGHT_DIRECT,FRE-76473277,DELIVERED_ON_TIME,REQ-0099,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000866-01,PO-2026-000866,1,2026-09-20,FEDEX,FED-54434015,DELIVERED_LATE,REQ-0109,PASSED,3,False,Carrier transit delay (12 days overdue). Accepted upon arrival.
+DEL-PO-2026-000867-01,PO-2026-000867,1,2026-09-04,FEDEX,FED-95239715,DELIVERED_LATE,REQ-0082,PASSED,1,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000868-01,PO-2026-000868,1,2026-08-28,FREIGHT_DIRECT,FRE-83685174,DELIVERED_ON_TIME,REQ-0251,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000869-01,PO-2026-000869,1,2026-08-22,MAERSK,MAE-56724130,DELIVERED_ON_TIME,REQ-0251,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000870-01,PO-2026-000870,1,2026-08-22,DHL,DHL-74891276,DELIVERED_ON_TIME,REQ-0185,PASSED,1,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000871-01,PO-2026-000871,1,2026-09-02,DHL,DHL-62787859,DELIVERED_ON_TIME,REQ-0221,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000872-01,PO-2026-000872,1,2026-08-31,UPS,UPS-68706391,DELIVERED_ON_TIME,REQ-0245,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000873-01,PO-2026-000873,1,2026-08-21,FREIGHT_DIRECT,FRE-47138246,DELIVERED_ON_TIME,REQ-0173,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000874-01,PO-2026-000874,1,2026-09-06,DHL,DHL-46607959,DELIVERED_LATE,REQ-0021,PASSED,6,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000875-01,PO-2026-000875,1,2026-09-14,DHL,DHL-77193794,DELIVERED_LATE,REQ-0165,PASSED,4,False,Carrier transit delay (4 days overdue). Accepted upon arrival.
+DEL-PO-2026-000876-01,PO-2026-000876,1,2026-08-26,FEDEX,FED-53102067,DELIVERED_ON_TIME,REQ-0218,PASSED,3,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000877-01,PO-2026-000877,1,2026-08-23,FREIGHT_DIRECT,FRE-98842374,DELIVERED_ON_TIME,REQ-0214,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000878-01,PO-2026-000878,1,2026-08-25,FREIGHT_DIRECT,FRE-66342305,DELIVERED_ON_TIME,REQ-0080,PASSED,4,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000879-01,PO-2026-000879,1,2026-08-27,FEDEX,FED-86967119,DELIVERED_ON_TIME,REQ-0206,PASSED,50,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000880-01,PO-2026-000880,1,2026-08-23,DHL,DHL-25483816,DELIVERED_ON_TIME,REQ-0232,PASSED,51,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000881-01,PO-2026-000881,1,2026-09-02,DHL,DHL-19475033,DELIVERED_ON_TIME,REQ-0201,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000882-01,PO-2026-000882,1,2026-08-22,MAERSK,MAE-45710420,DELIVERED_ON_TIME,REQ-0068,PASSED,13,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000883-01,PO-2026-000883,1,2026-09-17,MAERSK,MAE-64758361,DELIVERED_LATE,REQ-0256,PASSED,6,False,Carrier transit delay (11 days overdue). Accepted upon arrival.
+DEL-PO-2026-000884-01,PO-2026-000884,1,2026-08-23,FREIGHT_DIRECT,FRE-82296799,DELIVERED_ON_TIME,REQ-0014,PASSED,7,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000885-01,PO-2026-000885,1,2026-08-31,DHL,DHL-75427760,DELIVERED_ON_TIME,REQ-0109,PASSED,26,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000886-01,PO-2026-000886,1,2026-08-21,FEDEX,FED-56794120,DELIVERED_ON_TIME,REQ-0202,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000887-01,PO-2026-000887,1,2026-09-04,FEDEX,FED-48973770,DELIVERED_ON_TIME,REQ-0124,PASSED,8,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000888-01,PO-2026-000888,1,2026-09-09,DHL,DHL-21401856,DELIVERED_LATE,REQ-0016,PASSED,1,False,Carrier transit delay (8 days overdue). Accepted upon arrival.
+DEL-PO-2026-000889-01,PO-2026-000889,1,2026-08-23,DHL,DHL-41011481,DELIVERED_ON_TIME,REQ-0072,PASSED,12,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000890-01,PO-2026-000890,1,2026-09-05,UPS,UPS-54703602,DELIVERED_ON_TIME,REQ-0194,PASSED,22,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000891-01,PO-2026-000891,1,2026-08-30,DHL,DHL-42666254,DELIVERED_ON_TIME,REQ-0270,PASSED,11,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000892-01,PO-2026-000892,1,2026-09-12,FEDEX,FED-73965492,DELIVERED_LATE,REQ-0281,PASSED,1,False,Carrier transit delay (9 days overdue). Accepted upon arrival.
+DEL-PO-2026-000893-01,PO-2026-000893,1,2026-09-01,DHL,DHL-32249259,DELIVERED_ON_TIME,REQ-0257,PASSED,16,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000894-01,PO-2026-000894,1,2026-08-26,DHL,DHL-25440983,DELIVERED_ON_TIME,REQ-0184,PASSED,5,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000895-01,PO-2026-000895,1,2026-08-23,FREIGHT_DIRECT,FRE-52921225,DELIVERED_ON_TIME,REQ-0163,PASSED,6,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000896-01,PO-2026-000896,1,2026-09-01,UPS,UPS-61133243,DELIVERED_ON_TIME,REQ-0125,PASSED,2,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000897-01,PO-2026-000897,1,2026-08-30,FREIGHT_DIRECT,FRE-91452364,IN_TRANSIT,REQ-0225,PASSED,13,True,First partial batch received (13/22 items).
+DEL-PO-2026-000897-02,PO-2026-000897,2,2026-09-09,FEDEX,FED-73823108,DELIVERED_ON_TIME,REQ-0093,PASSED,9,False,Final remainder batch received (9 items). Order complete.
+DEL-PO-2026-000898-01,PO-2026-000898,1,2026-09-01,DHL,DHL-80600197,IN_TRANSIT,REQ-0242,PASSED,6,True,First partial batch received (6/10 items).
+DEL-PO-2026-000898-02,PO-2026-000898,2,2026-09-08,FREIGHT_DIRECT,FRE-70554054,DELIVERED_LATE,REQ-0012,PASSED,4,False,Final remainder batch received (4 items). Order complete.
+DEL-PO-2026-000899-01,PO-2026-000899,1,2026-08-31,FEDEX,FED-59345787,DELIVERED_ON_TIME,REQ-0200,PASSED,14,False,"Delivered in full, all line items inspected and verified."
+DEL-PO-2026-000900-01,PO-2026-000900,1,2026-09-03,FREIGHT_DIRECT,FRE-53618993,DAMAGED,REQ-0239,ACCEPTED_WITH_CONCESSION,10,False,Packaging dented; goods tested functional and accepted with 5% discount concession.

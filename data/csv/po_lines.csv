@@ -1,0 +1,1685 @@
+po_line_id,po_id,line_number,item_description,quantity_ordered,unit_price,line_amount,quantity_received
+PO-2026-000001-L01,PO-2026-000001,1,Ergonomic Anti-Fatigue Desk Floor Mat,2,91.9,183.8,2
+PO-2026-000001-L02,PO-2026-000001,2,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),1,42.71,42.71,1
+PO-2026-000002-L01,PO-2026-000002,1,Temperature-Controlled Secure Transport,1,3873.37,3873.37,1
+PO-2026-000002-L02,PO-2026-000002,2,Bonded Warehouse Storage Pallet Space,1,657.96,657.96,1
+PO-2026-000003-L01,PO-2026-000003,1,DevOps Migration and Kubernetes Optimization,2,299.89,599.78,2
+PO-2026-000003-L02,PO-2026-000003,2,Supply Chain Resiliency Strategy Consulting,10,300.06,3000.6,10
+PO-2026-000004-L01,PO-2026-000004,1,Bonded Warehouse Storage Pallet Space,5,569.77,2848.85,5
+PO-2026-000005-L01,PO-2026-000005,1,International Express Freight Delivery 500kg,2,2269.18,4538.36,2
+PO-2026-000005-L02,PO-2026-000005,2,Expedited Regional Courier Fleet Delivery,1,469.75,469.75,1
+PO-2026-000006-L01,PO-2026-000006,1,Supply Chain Resiliency Strategy Consulting,2,307.47,614.94,2
+PO-2026-000006-L02,PO-2026-000006,2,Financial Data Pipeline Modernization Consulting,5,267.56,1337.8,5
+PO-2026-000007-L01,PO-2026-000007,1,Annual Cloud Architecture Security Review,10,6580.68,65806.8,10
+PO-2026-000008-L01,PO-2026-000008,1,Meeting Room Video Conferencing System 4K,1,3240.57,3240.57,1
+PO-2026-000009-L01,PO-2026-000009,1,High-Yield Laser Toner Cartridge Multipack,1,309.16,309.16,1
+PO-2026-000009-L02,PO-2026-000009,2,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),1,53.02,53.02,1
+PO-2026-000010-L01,PO-2026-000010,1,Bonded Warehouse Storage Pallet Space,1,615.37,615.37,1
+PO-2026-000011-L01,PO-2026-000011,1,Supply Chain Resiliency Strategy Consulting,20,330.29,6605.8,20
+PO-2026-000011-L02,PO-2026-000011,2,Enterprise Architecture Strategic Advisory,2,330.49,660.98,2
+PO-2026-000012-L01,PO-2026-000012,1,International Express Freight Delivery 500kg,10,2144.41,21444.1,10
+PO-2026-000013-L01,PO-2026-000013,1,Identity Access Management (IAM) SSO License,1,4022.57,4022.57,1
+PO-2026-000014-L01,PO-2026-000014,1,Acoustic Phone Booth Modular Unit,1,5840.52,5840.52,1
+PO-2026-000015-L01,PO-2026-000015,1,Aeron Ergonomic Lumbar Support Chair,5,1177.82,5889.1,5
+PO-2026-000016-L01,PO-2026-000016,1,LED Low-Glare Architectural Office Lighting Panel,10,412.76,4127.6,10
+PO-2026-000016-L02,PO-2026-000016,2,HEPA Air Filtration Commercial Tower,2,743.33,1486.66,2
+PO-2026-000017-L01,PO-2026-000017,1,Cafeteria Heavy Duty Commercial Coffee Maker,1,2714.77,2714.77,1
+PO-2026-000018-L01,PO-2026-000018,1,Enterprise CI/CD Build Pipeline 50 Runners,1,7627.52,7627.52,1
+PO-2026-000019-L01,PO-2026-000019,1,AI Inference Accelerator Card PCIe,2,9576.11,19152.22,2
+PO-2026-000019-L02,PO-2026-000019,2,High-Performance Server Rack 42U,2,9344.43,18688.86,2
+PO-2026-000019-L03,PO-2026-000019,3,Thunderbolt 4 Docking Station Dual Display,5,274.14,1370.7,5
+PO-2026-000020-L01,PO-2026-000020,1,Aeron Ergonomic Lumbar Support Chair,5,1278.11,6390.55,5
+PO-2026-000021-L01,PO-2026-000021,1,Enterprise Core Switch 48-Port 10GbE,2,4805.65,9611.3,2
+PO-2026-000021-L02,PO-2026-000021,2,Ergonomic Keyboard and Precision Mouse Combo,5,167.29,836.45,5
+PO-2026-000021-L03,PO-2026-000021,3,High-Performance Server Rack 42U,5,8918.1,44590.5,5
+PO-2026-000021-L04,PO-2026-000021,4,Wireless Access Point Wi-Fi 7,5,437.79,2188.95,5
+PO-2026-000022-L01,PO-2026-000022,1,Ultra-Wide 34-Inch Curved Monitor,2,604.61,1209.22,2
+PO-2026-000022-L02,PO-2026-000022,2,Developer Workstation Dual GPU 64GB,2,3190.18,6380.36,2
+PO-2026-000023-L01,PO-2026-000023,1,International Express Freight Delivery 500kg,20,2356.19,47123.8,20
+PO-2026-000024-L01,PO-2026-000024,1,Automated Compliance Monitoring Suite,1,9592.2,9592.2,1
+PO-2026-000024-L02,PO-2026-000024,2,Cloud Infrastructure Tier-1 Annual Subscription,1,23919.24,23919.24,1
+PO-2026-000024-L03,PO-2026-000024,3,Cybersecurity Endpoint Detection & Response (EDR),5,6036.43,30182.15,5
+PO-2026-000024-L04,PO-2026-000024,4,Developer IDE Team Suite Subscription,10,501.23,5012.3,10
+PO-2026-000025-L01,PO-2026-000025,1,Uninterruptible Power Supply (UPS) 3000VA,2,1805.16,3610.32,2
+PO-2026-000026-L01,PO-2026-000026,1,Disaster Recovery Site Warm Standby Service,1,3906.25,3906.25,1
+PO-2026-000026-L02,PO-2026-000026,2,Compliance ISO 27001 Surveillance Audit,1,13196.93,13196.93,1
+PO-2026-000026-L03,PO-2026-000026,3,24/7 Managed NOC Level-2 Support Service,10,7775.63,77756.3,10
+PO-2026-000027-L01,PO-2026-000027,1,Code Quality and SAST Security Scanner,2,3720.75,7441.5,2
+PO-2026-000027-L02,PO-2026-000027,2,Automated Compliance Monitoring Suite,1,9530.08,9530.08,1
+PO-2026-000028-L01,PO-2026-000028,1,Temperature-Controlled Secure Transport,5,3927.22,19636.1,5
+PO-2026-000028-L02,PO-2026-000028,2,Expedited Regional Courier Fleet Delivery,1,494.51,494.51,1
+PO-2026-000028-L03,PO-2026-000028,3,International Express Freight Delivery 500kg,2,2661.28,5322.56,2
+PO-2026-000029-L01,PO-2026-000029,1,24/7 Managed NOC Level-2 Support Service,1,7315.94,7315.94,1
+PO-2026-000030-L01,PO-2026-000030,1,HEPA Air Filtration Commercial Tower,2,827.93,1655.86,2
+PO-2026-000030-L02,PO-2026-000030,2,Meeting Room Video Conferencing System 4K,1,3547.11,3547.11,1
+PO-2026-000031-L01,PO-2026-000031,1,Acoustic Phone Booth Modular Unit,1,6155.32,6155.32,1
+PO-2026-000031-L02,PO-2026-000031,2,Commercial Smart Keyless Access Door Controller,1,1366.21,1366.21,1
+PO-2026-000032-L01,PO-2026-000032,1,NVMe Enterprise Storage Array 50TB,5,12286.48,61432.4,5
+PO-2026-000032-L02,PO-2026-000032,2,Wireless Access Point Wi-Fi 7,1,418.28,418.28,1
+PO-2026-000033-L01,PO-2026-000033,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,10,232.41,2324.1,10
+PO-2026-000033-L02,PO-2026-000033,2,USB-C Braided Cable Multi-Length Pack,2,86.25,172.5,2
+PO-2026-000034-L01,PO-2026-000034,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,1,233.73,233.73,1
+PO-2026-000034-L02,PO-2026-000034,2,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),10,46.86,468.6,10
+PO-2026-000034-L03,PO-2026-000034,3,Executive Stationery & Meeting Pad Bundle,5,62.09,310.45,5
+PO-2026-000034-L04,PO-2026-000034,4,Ergonomic Anti-Fatigue Desk Floor Mat,2,94.5,189.0,2
+PO-2026-000035-L01,PO-2026-000035,1,External Penetration Testing & Red Teaming,1,20026.63,20026.63,1
+PO-2026-000036-L01,PO-2026-000036,1,Expedited Regional Courier Fleet Delivery,2,475.57,951.14,2
+PO-2026-000036-L02,PO-2026-000036,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,5,1689.52,8447.6,5
+PO-2026-000037-L01,PO-2026-000037,1,Financial Data Pipeline Modernization Consulting,1,234.61,234.61,1
+PO-2026-000038-L01,PO-2026-000038,1,DevOps Migration and Kubernetes Optimization,1,258.77,258.77,1
+PO-2026-000038-L02,PO-2026-000038,2,Financial Data Pipeline Modernization Consulting,5,288.84,1444.2,5
+PO-2026-000038-L03,PO-2026-000038,3,Enterprise Architecture Strategic Advisory,2,371.19,742.38,2
+PO-2026-000038-L04,PO-2026-000038,4,Supply Chain Resiliency Strategy Consulting,2,333.93,667.86,2
+PO-2026-000039-L01,PO-2026-000039,1,SLA Incident Management & SRE Escalation,20,5298.16,105963.2,20
+PO-2026-000039-L02,PO-2026-000039,2,Hardware Lifecycle Replacement Program Support,10,8031.33,80313.3,10
+PO-2026-000040-L01,PO-2026-000040,1,Acoustic Phone Booth Modular Unit,5,6051.3,30256.5,5
+PO-2026-000041-L01,PO-2026-000041,1,Expedited Regional Courier Fleet Delivery,5,456.9,2284.5,5
+PO-2026-000041-L02,PO-2026-000041,2,International Express Freight Delivery 500kg,1,2661.97,2661.97,1
+PO-2026-000041-L03,PO-2026-000041,3,Dedicated White-Glove On-Site Unpacking & Rack Mount,2,1714.11,3428.22,2
+PO-2026-000041-L04,PO-2026-000041,4,Bonded Warehouse Storage Pallet Space,5,618.84,3094.2,5
+PO-2026-000042-L01,PO-2026-000042,1,High-Yield Laser Toner Cartridge Multipack,1,309.3,309.3,1
+PO-2026-000042-L02,PO-2026-000042,2,Ergonomic Anti-Fatigue Desk Floor Mat,1,104.36,104.36,1
+PO-2026-000043-L01,PO-2026-000043,1,Customer Data Platform (CDP) Annual Tier,2,16357.31,32714.62,2
+PO-2026-000043-L02,PO-2026-000043,2,Enterprise CI/CD Build Pipeline 50 Runners,20,6990.2,139804.0,20
+PO-2026-000044-L01,PO-2026-000044,1,Supply Chain Resiliency Strategy Consulting,1,333.44,333.44,1
+PO-2026-000044-L02,PO-2026-000044,2,DevOps Migration and Kubernetes Optimization,2,298.21,596.42,2
+PO-2026-000045-L01,PO-2026-000045,1,Commercial Smart Keyless Access Door Controller,10,1597.2,15972.0,10
+PO-2026-000045-L02,PO-2026-000045,2,LED Low-Glare Architectural Office Lighting Panel,20,447.69,8953.8,20
+PO-2026-000046-L01,PO-2026-000046,1,24/7 Managed NOC Level-2 Support Service,10,7703.48,77034.8,10
+PO-2026-000046-L02,PO-2026-000046,2,Datacenter Preventive Maintenance Contract,1,3255.82,3255.82,1
+PO-2026-000046-L03,PO-2026-000046,3,External Penetration Testing & Red Teaming,1,20306.26,20306.26,1
+PO-2026-000047-L01,PO-2026-000047,1,Ultra-Wide 34-Inch Curved Monitor,2,596.13,1192.26,2
+PO-2026-000048-L01,PO-2026-000048,1,Cloud Infrastructure Tier-1 Annual Subscription,2,24003.49,48006.98,2
+PO-2026-000048-L02,PO-2026-000048,2,Data Analytics and Visualization Platform Seat,1,1035.08,1035.08,1
+PO-2026-000049-L01,PO-2026-000049,1,Regulatory GDPR / CPRA Data Privacy Review,1,275.06,275.06,1
+PO-2026-000049-L02,PO-2026-000049,2,AI Model Governance & Ethics Framework Advisory,1,415.97,415.97,1
+PO-2026-000050-L01,PO-2026-000050,1,Security Shredder Cross-Cut Heavy Duty,5,561.62,2808.1,5
+PO-2026-000051-L01,PO-2026-000051,1,Expedited Regional Courier Fleet Delivery,5,446.43,2232.15,5
+PO-2026-000051-L02,PO-2026-000051,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,2,1444.95,2889.9,2
+PO-2026-000051-L03,PO-2026-000051,3,Bonded Warehouse Storage Pallet Space,2,646.18,1292.36,2
+PO-2026-000051-L04,PO-2026-000051,4,Temperature-Controlled Secure Transport,20,3704.64,74092.8,20
+PO-2026-000052-L01,PO-2026-000052,1,Security Shredder Cross-Cut Heavy Duty,5,565.15,2825.75,5
+PO-2026-000053-L01,PO-2026-000053,1,Aeron Ergonomic Lumbar Support Chair,1,1260.83,1260.83,1
+PO-2026-000053-L02,PO-2026-000053,2,Executive Motorized Standing Desk,1,1004.0,1004.0,1
+PO-2026-000054-L01,PO-2026-000054,1,Security Shredder Cross-Cut Heavy Duty,50,581.08,29054.0,50
+PO-2026-000055-L01,PO-2026-000055,1,Disaster Recovery Site Warm Standby Service,2,3656.6,7313.2,2
+PO-2026-000056-L01,PO-2026-000056,1,Aeron Ergonomic Lumbar Support Chair,20,1124.56,22491.2,20
+PO-2026-000056-L02,PO-2026-000056,2,Acoustic Phone Booth Modular Unit,1,6105.96,6105.96,1
+PO-2026-000056-L03,PO-2026-000056,3,Commercial Smart Keyless Access Door Controller,1,1387.62,1387.62,1
+PO-2026-000057-L01,PO-2026-000057,1,Database Management Enterprise Cluster License,50,16870.79,843539.5,50
+PO-2026-000057-L02,PO-2026-000057,2,Data Analytics and Visualization Platform Seat,50,1259.06,62953.0,50
+PO-2026-000057-L03,PO-2026-000057,3,Customer Data Platform (CDP) Annual Tier,2,15280.14,30560.28,2
+PO-2026-000058-L01,PO-2026-000058,1,International Express Freight Delivery 500kg,1,2634.11,2634.11,1
+PO-2026-000059-L01,PO-2026-000059,1,Commercial Smart Keyless Access Door Controller,1,1781.55,1781.55,1
+PO-2026-000059-L02,PO-2026-000059,2,Executive Motorized Standing Desk,5,1079.62,5398.1,5
+PO-2026-000059-L03,PO-2026-000059,3,HEPA Air Filtration Commercial Tower,1,812.03,812.03,1
+PO-2026-000059-L04,PO-2026-000059,4,Aeron Ergonomic Lumbar Support Chair,2,1082.65,2165.3,2
+PO-2026-000060-L01,PO-2026-000060,1,International Express Freight Delivery 500kg,2,2432.97,4865.94,2
+PO-2026-000060-L02,PO-2026-000060,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,1,1331.37,1331.37,1
+PO-2026-000060-L03,PO-2026-000060,3,Temperature-Controlled Secure Transport,2,3782.41,7564.82,2
+PO-2026-000061-L01,PO-2026-000061,1,Dedicated White-Glove On-Site Unpacking & Rack Mount,2,1382.55,2765.1,2
+PO-2026-000062-L01,PO-2026-000062,1,DevOps Migration and Kubernetes Optimization,20,276.58,5531.6,20
+PO-2026-000062-L02,PO-2026-000062,2,AI Model Governance & Ethics Framework Advisory,2,399.83,799.66,2
+PO-2026-000062-L03,PO-2026-000062,3,Enterprise Architecture Strategic Advisory,5,323.18,1615.9,5
+PO-2026-000063-L01,PO-2026-000063,1,Cloud Infrastructure Tier-1 Annual Subscription,2,24664.49,49328.98,2
+PO-2026-000063-L02,PO-2026-000063,2,Cybersecurity Endpoint Detection & Response (EDR),1,5710.35,5710.35,1
+PO-2026-000064-L01,PO-2026-000064,1,Enterprise CI/CD Build Pipeline 50 Runners,5,7554.51,37772.55,5
+PO-2026-000065-L01,PO-2026-000065,1,Uninterruptible Power Supply (UPS) 3000VA,2,1834.05,3668.1,2
+PO-2026-000066-L01,PO-2026-000066,1,Supply Chain Resiliency Strategy Consulting,20,347.74,6954.8,20
+PO-2026-000067-L01,PO-2026-000067,1,Developer IDE Team Suite Subscription,2,453.57,907.14,2
+PO-2026-000067-L02,PO-2026-000067,2,Cybersecurity Endpoint Detection & Response (EDR),1,5864.66,5864.66,1
+PO-2026-000068-L01,PO-2026-000068,1,Regulatory GDPR / CPRA Data Privacy Review,5,319.4,1597.0,5
+PO-2026-000068-L02,PO-2026-000068,2,Enterprise Architecture Strategic Advisory,5,336.0,1680.0,5
+PO-2026-000068-L03,PO-2026-000068,3,Financial Data Pipeline Modernization Consulting,5,258.63,1293.15,5
+PO-2026-000069-L01,PO-2026-000069,1,Regulatory GDPR / CPRA Data Privacy Review,2,319.05,638.1,2
+PO-2026-000069-L02,PO-2026-000069,2,AI Model Governance & Ethics Framework Advisory,1,407.54,407.54,1
+PO-2026-000070-L01,PO-2026-000070,1,Cafeteria Heavy Duty Commercial Coffee Maker,1,3068.74,3068.74,1
+PO-2026-000070-L02,PO-2026-000070,2,Aeron Ergonomic Lumbar Support Chair,1,1044.41,1044.41,1
+PO-2026-000071-L01,PO-2026-000071,1,Data Analytics and Visualization Platform Seat,5,1371.15,6855.75,5
+PO-2026-000071-L02,PO-2026-000071,2,Cloud Infrastructure Tier-1 Annual Subscription,1,24859.55,24859.55,1
+PO-2026-000071-L03,PO-2026-000071,3,Code Quality and SAST Security Scanner,1,3872.03,3872.03,1
+PO-2026-000071-L04,PO-2026-000071,4,Customer Data Platform (CDP) Annual Tier,1,17422.96,17422.96,1
+PO-2026-000072-L01,PO-2026-000072,1,Annual Cloud Architecture Security Review,20,7391.94,147838.8,20
+PO-2026-000072-L02,PO-2026-000072,2,Hardware Lifecycle Replacement Program Support,1,8779.98,8779.98,1
+PO-2026-000073-L01,PO-2026-000073,1,International Express Freight Delivery 500kg,10,2683.22,26832.2,10
+PO-2026-000073-L02,PO-2026-000073,2,Expedited Regional Courier Fleet Delivery,20,469.89,9397.8,20
+PO-2026-000074-L01,PO-2026-000074,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,192.74,385.48,2
+PO-2026-000074-L02,PO-2026-000074,2,Executive Stationery & Meeting Pad Bundle,10,70.57,705.7,10
+PO-2026-000074-L03,PO-2026-000074,3,Security Shredder Cross-Cut Heavy Duty,10,545.77,5457.7,10
+PO-2026-000075-L01,PO-2026-000075,1,External Penetration Testing & Red Teaming,2,18280.3,36560.6,2
+PO-2026-000075-L02,PO-2026-000075,2,Disaster Recovery Site Warm Standby Service,20,3986.66,79733.2,20
+PO-2026-000075-L03,PO-2026-000075,3,SLA Incident Management & SRE Escalation,20,5552.42,111048.4,20
+PO-2026-000075-L04,PO-2026-000075,4,Hardware Lifecycle Replacement Program Support,1,6661.38,6661.38,1
+PO-2026-000076-L01,PO-2026-000076,1,Cafeteria Heavy Duty Commercial Coffee Maker,5,2948.42,14742.1,5
+PO-2026-000077-L01,PO-2026-000077,1,Developer IDE Team Suite Subscription,5,432.63,2163.15,5
+PO-2026-000078-L01,PO-2026-000078,1,DevOps Migration and Kubernetes Optimization,20,244.68,4893.6,20
+PO-2026-000079-L01,PO-2026-000079,1,LED Low-Glare Architectural Office Lighting Panel,1,490.77,490.77,1
+PO-2026-000079-L02,PO-2026-000079,2,Meeting Room Video Conferencing System 4K,5,3420.74,17103.7,5
+PO-2026-000080-L01,PO-2026-000080,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,44.96,89.92,2
+PO-2026-000080-L02,PO-2026-000080,2,Security Shredder Cross-Cut Heavy Duty,10,648.76,6487.6,10
+PO-2026-000080-L03,PO-2026-000080,3,Executive Stationery & Meeting Pad Bundle,2,60.37,120.74,2
+PO-2026-000081-L01,PO-2026-000081,1,Acoustic Phone Booth Modular Unit,20,6492.04,129840.8,20
+PO-2026-000081-L02,PO-2026-000081,2,LED Low-Glare Architectural Office Lighting Panel,1,479.59,479.59,1
+PO-2026-000082-L01,PO-2026-000082,1,Ultra-Wide 34-Inch Curved Monitor,10,676.29,6762.9,10
+PO-2026-000082-L02,PO-2026-000082,2,Developer Workstation Dual GPU 64GB,5,3097.68,15488.4,5
+PO-2026-000083-L01,PO-2026-000083,1,Ergonomic Keyboard and Precision Mouse Combo,1,211.67,211.67,1
+PO-2026-000084-L01,PO-2026-000084,1,Customer Data Platform (CDP) Annual Tier,5,16252.96,81264.8,5
+PO-2026-000085-L01,PO-2026-000085,1,USB-C Braided Cable Multi-Length Pack,20,82.78,1655.6,20
+PO-2026-000086-L01,PO-2026-000086,1,USB-C Braided Cable Multi-Length Pack,1,88.51,88.51,1
+PO-2026-000087-L01,PO-2026-000087,1,Developer IDE Team Suite Subscription,2,486.56,973.12,2
+PO-2026-000087-L02,PO-2026-000087,2,Cloud Infrastructure Tier-1 Annual Subscription,10,27517.51,275175.1,10
+PO-2026-000088-L01,PO-2026-000088,1,Acoustic Phone Booth Modular Unit,1,7221.34,7221.34,1
+PO-2026-000089-L01,PO-2026-000089,1,Ergonomic Keyboard and Precision Mouse Combo,2,185.48,370.96,2
+PO-2026-000089-L02,PO-2026-000089,2,Enterprise Core Switch 48-Port 10GbE,1,4563.04,4563.04,1
+PO-2026-000089-L03,PO-2026-000089,3,Developer Workstation Dual GPU 64GB,1,3254.99,3254.99,1
+PO-2026-000090-L01,PO-2026-000090,1,Commercial Smart Keyless Access Door Controller,2,1345.47,2690.94,2
+PO-2026-000091-L01,PO-2026-000091,1,DevOps Migration and Kubernetes Optimization,10,289.42,2894.2,10
+PO-2026-000091-L02,PO-2026-000091,2,Financial Data Pipeline Modernization Consulting,50,267.24,13362.0,50
+PO-2026-000091-L03,PO-2026-000091,3,Enterprise Architecture Strategic Advisory,1,328.75,328.75,1
+PO-2026-000091-L04,PO-2026-000091,4,AI Model Governance & Ethics Framework Advisory,10,443.71,4437.1,10
+PO-2026-000092-L01,PO-2026-000092,1,Enterprise Core Switch 48-Port 10GbE,5,4192.54,20962.7,5
+PO-2026-000092-L02,PO-2026-000092,2,AI Inference Accelerator Card PCIe,1,9224.16,9224.16,1
+PO-2026-000092-L03,PO-2026-000092,3,Ultra-Wide 34-Inch Curved Monitor,10,605.83,6058.3,10
+PO-2026-000093-L01,PO-2026-000093,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,50.02,100.04,2
+PO-2026-000093-L02,PO-2026-000093,2,Executive Stationery & Meeting Pad Bundle,2,71.78,143.56,2
+PO-2026-000093-L03,PO-2026-000093,3,High-Yield Laser Toner Cartridge Multipack,2,270.73,541.46,2
+PO-2026-000094-L01,PO-2026-000094,1,Meeting Room Video Conferencing System 4K,1,3610.7,3610.7,1
+PO-2026-000095-L01,PO-2026-000095,1,Enterprise Core Switch 48-Port 10GbE,2,5068.94,10137.88,2
+PO-2026-000095-L02,PO-2026-000095,2,AI Inference Accelerator Card PCIe,1,9177.32,9177.32,1
+PO-2026-000096-L01,PO-2026-000096,1,Security Shredder Cross-Cut Heavy Duty,50,560.31,28015.5,50
+PO-2026-000096-L02,PO-2026-000096,2,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,45.93,91.86,2
+PO-2026-000097-L01,PO-2026-000097,1,AI Inference Accelerator Card PCIe,10,8808.8,88088.0,10
+PO-2026-000097-L02,PO-2026-000097,2,High-Performance Server Rack 42U,2,9588.38,19176.76,2
+PO-2026-000097-L03,PO-2026-000097,3,Wireless Access Point Wi-Fi 7,1,422.84,422.84,1
+PO-2026-000098-L01,PO-2026-000098,1,High-Yield Laser Toner Cartridge Multipack,1,267.32,267.32,1
+PO-2026-000098-L02,PO-2026-000098,2,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),1,41.79,41.79,1
+PO-2026-000099-L01,PO-2026-000099,1,Temperature-Controlled Secure Transport,10,3688.71,36887.1,10
+PO-2026-000100-L01,PO-2026-000100,1,USB-C Braided Cable Multi-Length Pack,5,83.67,418.35,5
+PO-2026-000100-L02,PO-2026-000100,2,Executive Stationery & Meeting Pad Bundle,20,65.73,1314.6,20
+PO-2026-000100-L03,PO-2026-000100,3,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,46.9,93.8,2
+PO-2026-000100-L04,PO-2026-000100,4,High-Yield Laser Toner Cartridge Multipack,5,300.15,1500.75,5
+PO-2026-000101-L01,PO-2026-000101,1,Commercial Smart Keyless Access Door Controller,5,1658.12,8290.6,5
+PO-2026-000101-L02,PO-2026-000101,2,Acoustic Phone Booth Modular Unit,1,5476.77,5476.77,1
+PO-2026-000101-L03,PO-2026-000101,3,Cafeteria Heavy Duty Commercial Coffee Maker,5,2583.29,12916.45,5
+PO-2026-000102-L01,PO-2026-000102,1,Regulatory GDPR / CPRA Data Privacy Review,5,324.15,1620.75,5
+PO-2026-000102-L02,PO-2026-000102,2,Supply Chain Resiliency Strategy Consulting,5,337.87,1689.35,5
+PO-2026-000103-L01,PO-2026-000103,1,Regulatory GDPR / CPRA Data Privacy Review,2,293.23,586.46,2
+PO-2026-000103-L02,PO-2026-000103,2,Supply Chain Resiliency Strategy Consulting,2,313.05,626.1,2
+PO-2026-000104-L01,PO-2026-000104,1,Cloud Infrastructure Tier-1 Annual Subscription,1,24790.75,24790.75,1
+PO-2026-000105-L01,PO-2026-000105,1,Identity Access Management (IAM) SSO License,10,4718.02,47180.2,10
+PO-2026-000105-L02,PO-2026-000105,2,Cloud Infrastructure Tier-1 Annual Subscription,1,22210.23,22210.23,1
+PO-2026-000106-L01,PO-2026-000106,1,Aeron Ergonomic Lumbar Support Chair,20,1097.26,21945.2,20
+PO-2026-000106-L02,PO-2026-000106,2,Cafeteria Heavy Duty Commercial Coffee Maker,2,2882.42,5764.84,2
+PO-2026-000106-L03,PO-2026-000106,3,Acoustic Phone Booth Modular Unit,1,5718.02,5718.02,1
+PO-2026-000107-L01,PO-2026-000107,1,Developer Workstation Dual GPU 64GB,2,3052.05,6104.1,2
+PO-2026-000107-L02,PO-2026-000107,2,NVMe Enterprise Storage Array 50TB,1,13850.46,13850.46,1
+PO-2026-000107-L03,PO-2026-000107,3,Uninterruptible Power Supply (UPS) 3000VA,50,1514.46,75723.0,50
+PO-2026-000107-L04,PO-2026-000107,4,Enterprise Core Switch 48-Port 10GbE,5,4723.69,23618.45,5
+PO-2026-000108-L01,PO-2026-000108,1,Enterprise Architecture Strategic Advisory,10,306.46,3064.6,10
+PO-2026-000108-L02,PO-2026-000108,2,DevOps Migration and Kubernetes Optimization,1,258.88,258.88,1
+PO-2026-000109-L01,PO-2026-000109,1,Ultra-Wide 34-Inch Curved Monitor,50,676.46,33823.0,50
+PO-2026-000109-L02,PO-2026-000109,2,Developer Workstation Dual GPU 64GB,5,3163.55,15817.75,5
+PO-2026-000109-L03,PO-2026-000109,3,Wireless Access Point Wi-Fi 7,1,457.34,457.34,1
+PO-2026-000110-L01,PO-2026-000110,1,Ergonomic Anti-Fatigue Desk Floor Mat,2,100.52,201.04,2
+PO-2026-000110-L02,PO-2026-000110,2,Dry-Erase Magnetic Whiteboard 72x48 with Markers,50,224.64,11232.0,50
+PO-2026-000110-L03,PO-2026-000110,3,USB-C Braided Cable Multi-Length Pack,5,87.58,437.9,5
+PO-2026-000111-L01,PO-2026-000111,1,Executive Motorized Standing Desk,1,1042.49,1042.49,1
+PO-2026-000111-L02,PO-2026-000111,2,Aeron Ergonomic Lumbar Support Chair,1,1094.94,1094.94,1
+PO-2026-000111-L03,PO-2026-000111,3,Commercial Smart Keyless Access Door Controller,50,1439.31,71965.5,50
+PO-2026-000112-L01,PO-2026-000112,1,Financial Data Pipeline Modernization Consulting,20,232.06,4641.2,20
+PO-2026-000113-L01,PO-2026-000113,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,203.81,407.62,2
+PO-2026-000113-L02,PO-2026-000113,2,Ergonomic Anti-Fatigue Desk Floor Mat,2,99.58,199.16,2
+PO-2026-000114-L01,PO-2026-000114,1,Cafeteria Heavy Duty Commercial Coffee Maker,10,2556.61,25566.1,10
+PO-2026-000114-L02,PO-2026-000114,2,LED Low-Glare Architectural Office Lighting Panel,5,454.79,2273.95,5
+PO-2026-000115-L01,PO-2026-000115,1,Financial Data Pipeline Modernization Consulting,1,292.83,292.83,1
+PO-2026-000115-L02,PO-2026-000115,2,Enterprise Architecture Strategic Advisory,20,318.78,6375.6,20
+PO-2026-000116-L01,PO-2026-000116,1,Enterprise Core Switch 48-Port 10GbE,2,5068.51,10137.02,2
+PO-2026-000116-L02,PO-2026-000116,2,Ergonomic Keyboard and Precision Mouse Combo,1,195.99,195.99,1
+PO-2026-000116-L03,PO-2026-000116,3,Developer Workstation Dual GPU 64GB,2,3118.72,6237.44,2
+PO-2026-000116-L04,PO-2026-000116,4,Ultra-Wide 34-Inch Curved Monitor,1,652.44,652.44,1
+PO-2026-000117-L01,PO-2026-000117,1,Enterprise Architecture Strategic Advisory,1,366.67,366.67,1
+PO-2026-000118-L01,PO-2026-000118,1,Cafeteria Heavy Duty Commercial Coffee Maker,20,2692.44,53848.8,20
+PO-2026-000118-L02,PO-2026-000118,2,HEPA Air Filtration Commercial Tower,20,864.75,17295.0,20
+PO-2026-000118-L03,PO-2026-000118,3,Meeting Room Video Conferencing System 4K,2,3148.37,6296.74,2
+PO-2026-000119-L01,PO-2026-000119,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),10,48.83,488.3,10
+PO-2026-000119-L02,PO-2026-000119,2,Security Shredder Cross-Cut Heavy Duty,20,558.9,11178.0,20
+PO-2026-000120-L01,PO-2026-000120,1,Ergonomic Anti-Fatigue Desk Floor Mat,2,90.55,181.1,2
+PO-2026-000120-L02,PO-2026-000120,2,USB-C Braided Cable Multi-Length Pack,1,95.24,95.24,1
+PO-2026-000121-L01,PO-2026-000121,1,Ultra-Wide 34-Inch Curved Monitor,10,686.04,6860.4,10
+PO-2026-000121-L02,PO-2026-000121,2,Wireless Access Point Wi-Fi 7,2,450.78,901.56,2
+PO-2026-000121-L03,PO-2026-000121,3,NVMe Enterprise Storage Array 50TB,5,13489.24,67446.2,5
+PO-2026-000122-L01,PO-2026-000122,1,Security Shredder Cross-Cut Heavy Duty,50,634.08,31704.0,50
+PO-2026-000122-L02,PO-2026-000122,2,Dry-Erase Magnetic Whiteboard 72x48 with Markers,1,234.12,234.12,1
+PO-2026-000122-L03,PO-2026-000122,3,Executive Stationery & Meeting Pad Bundle,20,66.53,1330.6,20
+PO-2026-000123-L01,PO-2026-000123,1,Automated Compliance Monitoring Suite,1,8604.8,8604.8,1
+PO-2026-000124-L01,PO-2026-000124,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,41.34,82.68,2
+PO-2026-000125-L01,PO-2026-000125,1,High-Yield Laser Toner Cartridge Multipack,20,293.84,5876.8,20
+PO-2026-000126-L01,PO-2026-000126,1,Acoustic Phone Booth Modular Unit,20,5518.52,110370.4,20
+PO-2026-000127-L01,PO-2026-000127,1,Bonded Warehouse Storage Pallet Space,20,655.89,13117.8,20
+PO-2026-000128-L01,PO-2026-000128,1,Developer IDE Team Suite Subscription,1,490.18,490.18,1
+PO-2026-000129-L01,PO-2026-000129,1,Expedited Regional Courier Fleet Delivery,10,484.14,4841.4,10
+PO-2026-000130-L01,PO-2026-000130,1,Executive Stationery & Meeting Pad Bundle,10,59.4,594.0,10
+PO-2026-000131-L01,PO-2026-000131,1,Enterprise Architecture Strategic Advisory,5,382.37,1911.85,5
+PO-2026-000131-L02,PO-2026-000131,2,Financial Data Pipeline Modernization Consulting,2,225.22,450.44,2
+PO-2026-000131-L03,PO-2026-000131,3,Regulatory GDPR / CPRA Data Privacy Review,1,277.01,277.01,1
+PO-2026-000132-L01,PO-2026-000132,1,Expedited Regional Courier Fleet Delivery,50,440.76,22038.0,50
+PO-2026-000132-L02,PO-2026-000132,2,Bonded Warehouse Storage Pallet Space,1,750.81,750.81,1
+PO-2026-000133-L01,PO-2026-000133,1,Enterprise Architecture Strategic Advisory,5,336.08,1680.4,5
+PO-2026-000133-L02,PO-2026-000133,2,Supply Chain Resiliency Strategy Consulting,1,310.98,310.98,1
+PO-2026-000133-L03,PO-2026-000133,3,Regulatory GDPR / CPRA Data Privacy Review,2,290.62,581.24,2
+PO-2026-000134-L01,PO-2026-000134,1,Database Management Enterprise Cluster License,1,17141.55,17141.55,1
+PO-2026-000134-L02,PO-2026-000134,2,Cybersecurity Endpoint Detection & Response (EDR),1,5980.31,5980.31,1
+PO-2026-000135-L01,PO-2026-000135,1,Data Analytics and Visualization Platform Seat,20,1313.88,26277.6,20
+PO-2026-000135-L02,PO-2026-000135,2,Automated Compliance Monitoring Suite,2,9811.95,19623.9,2
+PO-2026-000136-L01,PO-2026-000136,1,Compliance ISO 27001 Surveillance Audit,1,12785.66,12785.66,1
+PO-2026-000137-L01,PO-2026-000137,1,Enterprise Core Switch 48-Port 10GbE,20,4258.9,85178.0,20
+PO-2026-000138-L01,PO-2026-000138,1,International Express Freight Delivery 500kg,20,2394.95,47899.0,20
+PO-2026-000139-L01,PO-2026-000139,1,Cafeteria Heavy Duty Commercial Coffee Maker,2,2883.28,5766.56,2
+PO-2026-000140-L01,PO-2026-000140,1,LED Low-Glare Architectural Office Lighting Panel,2,447.19,894.38,2
+PO-2026-000141-L01,PO-2026-000141,1,Supply Chain Resiliency Strategy Consulting,5,331.12,1655.6,5
+PO-2026-000141-L02,PO-2026-000141,2,Financial Data Pipeline Modernization Consulting,20,230.94,4618.8,20
+PO-2026-000142-L01,PO-2026-000142,1,Commercial Smart Keyless Access Door Controller,5,1622.77,8113.85,5
+PO-2026-000142-L02,PO-2026-000142,2,LED Low-Glare Architectural Office Lighting Panel,5,470.42,2352.1,5
+PO-2026-000142-L03,PO-2026-000142,3,HEPA Air Filtration Commercial Tower,2,814.79,1629.58,2
+PO-2026-000142-L04,PO-2026-000142,4,Aeron Ergonomic Lumbar Support Chair,1,1171.03,1171.03,1
+PO-2026-000143-L01,PO-2026-000143,1,Uninterruptible Power Supply (UPS) 3000VA,1,1647.24,1647.24,1
+PO-2026-000144-L01,PO-2026-000144,1,Executive Motorized Standing Desk,1,885.08,885.08,1
+PO-2026-000144-L02,PO-2026-000144,2,Acoustic Phone Booth Modular Unit,10,6686.47,66864.7,10
+PO-2026-000145-L01,PO-2026-000145,1,Cafeteria Heavy Duty Commercial Coffee Maker,2,2574.41,5148.82,2
+PO-2026-000146-L01,PO-2026-000146,1,Datacenter Preventive Maintenance Contract,1,3440.13,3440.13,1
+PO-2026-000147-L01,PO-2026-000147,1,Hardware Lifecycle Replacement Program Support,1,8138.04,8138.04,1
+PO-2026-000147-L02,PO-2026-000147,2,24/7 Managed NOC Level-2 Support Service,5,8161.08,40805.4,5
+PO-2026-000147-L03,PO-2026-000147,3,Disaster Recovery Site Warm Standby Service,2,4436.99,8873.98,2
+PO-2026-000147-L04,PO-2026-000147,4,SLA Incident Management & SRE Escalation,5,5455.08,27275.4,5
+PO-2026-000148-L01,PO-2026-000148,1,Financial Data Pipeline Modernization Consulting,1,228.67,228.67,1
+PO-2026-000148-L02,PO-2026-000148,2,Regulatory GDPR / CPRA Data Privacy Review,2,326.03,652.06,2
+PO-2026-000149-L01,PO-2026-000149,1,AI Model Governance & Ethics Framework Advisory,1,364.08,364.08,1
+PO-2026-000149-L02,PO-2026-000149,2,Enterprise Architecture Strategic Advisory,2,366.81,733.62,2
+PO-2026-000149-L03,PO-2026-000149,3,Financial Data Pipeline Modernization Consulting,1,226.75,226.75,1
+PO-2026-000150-L01,PO-2026-000150,1,Bonded Warehouse Storage Pallet Space,1,679.63,679.63,1
+PO-2026-000151-L01,PO-2026-000151,1,Data Analytics and Visualization Platform Seat,1,1187.46,1187.46,1
+PO-2026-000152-L01,PO-2026-000152,1,Dedicated White-Glove On-Site Unpacking & Rack Mount,2,1453.26,2906.52,2
+PO-2026-000152-L02,PO-2026-000152,2,Expedited Regional Courier Fleet Delivery,1,442.75,442.75,1
+PO-2026-000152-L03,PO-2026-000152,3,International Express Freight Delivery 500kg,1,2665.15,2665.15,1
+PO-2026-000153-L01,PO-2026-000153,1,High-Yield Laser Toner Cartridge Multipack,1,269.5,269.5,1
+PO-2026-000153-L02,PO-2026-000153,2,Executive Stationery & Meeting Pad Bundle,2,65.97,131.94,2
+PO-2026-000153-L03,PO-2026-000153,3,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,253.21,506.42,2
+PO-2026-000154-L01,PO-2026-000154,1,High-Yield Laser Toner Cartridge Multipack,1,320.92,320.92,1
+PO-2026-000154-L02,PO-2026-000154,2,Executive Stationery & Meeting Pad Bundle,2,76.68,153.36,2
+PO-2026-000155-L01,PO-2026-000155,1,Automated Compliance Monitoring Suite,1,9261.95,9261.95,1
+PO-2026-000156-L01,PO-2026-000156,1,Automated Compliance Monitoring Suite,20,8398.98,167979.6,20
+PO-2026-000157-L01,PO-2026-000157,1,Uninterruptible Power Supply (UPS) 3000VA,1,1657.91,1657.91,1
+PO-2026-000157-L02,PO-2026-000157,2,Developer Workstation Dual GPU 64GB,1,2951.82,2951.82,1
+PO-2026-000158-L01,PO-2026-000158,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,216.79,433.58,2
+PO-2026-000159-L01,PO-2026-000159,1,Enterprise Core Switch 48-Port 10GbE,1,4950.18,4950.18,1
+PO-2026-000159-L02,PO-2026-000159,2,NVMe Enterprise Storage Array 50TB,1,12067.4,12067.4,1
+PO-2026-000160-L01,PO-2026-000160,1,USB-C Braided Cable Multi-Length Pack,20,83.72,1674.4,20
+PO-2026-000160-L02,PO-2026-000160,2,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),10,44.58,445.8,10
+PO-2026-000161-L01,PO-2026-000161,1,Cafeteria Heavy Duty Commercial Coffee Maker,20,3197.16,63943.2,20
+PO-2026-000162-L01,PO-2026-000162,1,DevOps Migration and Kubernetes Optimization,2,272.97,545.94,2
+PO-2026-000162-L02,PO-2026-000162,2,Supply Chain Resiliency Strategy Consulting,1,321.6,321.6,1
+PO-2026-000163-L01,PO-2026-000163,1,Cloud Infrastructure Tier-1 Annual Subscription,1,22274.4,22274.4,1
+PO-2026-000164-L01,PO-2026-000164,1,Code Quality and SAST Security Scanner,5,4248.17,21240.85,5
+PO-2026-000164-L02,PO-2026-000164,2,Customer Data Platform (CDP) Annual Tier,1,14537.55,14537.55,1
+PO-2026-000165-L01,PO-2026-000165,1,Financial Data Pipeline Modernization Consulting,1,273.22,273.22,1
+PO-2026-000165-L02,PO-2026-000165,2,Supply Chain Resiliency Strategy Consulting,5,317.12,1585.6,5
+PO-2026-000166-L01,PO-2026-000166,1,Ergonomic Keyboard and Precision Mouse Combo,1,189.19,189.19,1
+PO-2026-000166-L02,PO-2026-000166,2,Uninterruptible Power Supply (UPS) 3000VA,2,1442.01,2884.02,2
+PO-2026-000166-L03,PO-2026-000166,3,Enterprise Core Switch 48-Port 10GbE,1,4979.93,4979.93,1
+PO-2026-000166-L04,PO-2026-000166,4,Ultra-Wide 34-Inch Curved Monitor,1,604.77,604.77,1
+PO-2026-000167-L01,PO-2026-000167,1,Cloud Infrastructure Tier-1 Annual Subscription,5,24270.04,121350.2,5
+PO-2026-000167-L02,PO-2026-000167,2,Identity Access Management (IAM) SSO License,2,3998.75,7997.5,2
+PO-2026-000168-L01,PO-2026-000168,1,Cybersecurity Endpoint Detection & Response (EDR),5,5793.74,28968.7,5
+PO-2026-000168-L02,PO-2026-000168,2,Identity Access Management (IAM) SSO License,1,4763.89,4763.89,1
+PO-2026-000169-L01,PO-2026-000169,1,Wireless Access Point Wi-Fi 7,1,398.6,398.6,1
+PO-2026-000170-L01,PO-2026-000170,1,Meeting Room Video Conferencing System 4K,1,3584.83,3584.83,1
+PO-2026-000171-L01,PO-2026-000171,1,Data Analytics and Visualization Platform Seat,2,1075.94,2151.88,2
+PO-2026-000171-L02,PO-2026-000171,2,Cloud Infrastructure Tier-1 Annual Subscription,1,22283.06,22283.06,1
+PO-2026-000171-L03,PO-2026-000171,3,Identity Access Management (IAM) SSO License,2,4451.81,8903.62,2
+PO-2026-000171-L04,PO-2026-000171,4,Automated Compliance Monitoring Suite,1,7879.68,7879.68,1
+PO-2026-000172-L01,PO-2026-000172,1,Financial Data Pipeline Modernization Consulting,10,246.46,2464.6,10
+PO-2026-000173-L01,PO-2026-000173,1,International Express Freight Delivery 500kg,1,2168.04,2168.04,1
+PO-2026-000174-L01,PO-2026-000174,1,Cybersecurity Endpoint Detection & Response (EDR),1,4866.15,4866.15,1
+PO-2026-000174-L02,PO-2026-000174,2,Database Management Enterprise Cluster License,20,17897.79,357955.8,20
+PO-2026-000175-L01,PO-2026-000175,1,Aeron Ergonomic Lumbar Support Chair,2,1033.41,2066.82,2
+PO-2026-000175-L02,PO-2026-000175,2,Executive Motorized Standing Desk,2,918.58,1837.16,2
+PO-2026-000176-L01,PO-2026-000176,1,Thunderbolt 4 Docking Station Dual Display,2,249.6,499.2,2
+PO-2026-000176-L02,PO-2026-000176,2,Wireless Access Point Wi-Fi 7,2,465.51,931.02,2
+PO-2026-000177-L01,PO-2026-000177,1,Customer Data Platform (CDP) Annual Tier,1,19465.53,19465.53,1
+PO-2026-000177-L02,PO-2026-000177,2,Developer IDE Team Suite Subscription,20,434.97,8699.4,20
+PO-2026-000177-L03,PO-2026-000177,3,Database Management Enterprise Cluster License,2,16531.06,33062.12,2
+PO-2026-000177-L04,PO-2026-000177,4,Cloud Infrastructure Tier-1 Annual Subscription,5,23425.12,117125.6,5
+PO-2026-000178-L01,PO-2026-000178,1,Cafeteria Heavy Duty Commercial Coffee Maker,5,2517.53,12587.65,5
+PO-2026-000179-L01,PO-2026-000179,1,Meeting Room Video Conferencing System 4K,1,3125.17,3125.17,1
+PO-2026-000179-L02,PO-2026-000179,2,Aeron Ergonomic Lumbar Support Chair,1,1183.13,1183.13,1
+PO-2026-000180-L01,PO-2026-000180,1,LED Low-Glare Architectural Office Lighting Panel,5,471.22,2356.1,5
+PO-2026-000180-L02,PO-2026-000180,2,Acoustic Phone Booth Modular Unit,5,6722.37,33611.85,5
+PO-2026-000180-L03,PO-2026-000180,3,Cafeteria Heavy Duty Commercial Coffee Maker,1,2899.79,2899.79,1
+PO-2026-000180-L04,PO-2026-000180,4,Executive Motorized Standing Desk,5,889.51,4447.55,5
+PO-2026-000181-L01,PO-2026-000181,1,DevOps Migration and Kubernetes Optimization,20,283.19,5663.8,20
+PO-2026-000181-L02,PO-2026-000181,2,Enterprise Architecture Strategic Advisory,1,335.13,335.13,1
+PO-2026-000182-L01,PO-2026-000182,1,Uninterruptible Power Supply (UPS) 3000VA,1,1709.04,1709.04,1
+PO-2026-000182-L02,PO-2026-000182,2,High-Performance Server Rack 42U,50,8780.38,439019.0,50
+PO-2026-000183-L01,PO-2026-000183,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,10,222.73,2227.3,10
+PO-2026-000184-L01,PO-2026-000184,1,International Express Freight Delivery 500kg,50,2199.55,109977.5,50
+PO-2026-000184-L02,PO-2026-000184,2,Temperature-Controlled Secure Transport,5,4163.57,20817.85,5
+PO-2026-000184-L03,PO-2026-000184,3,Bonded Warehouse Storage Pallet Space,1,621.98,621.98,1
+PO-2026-000184-L04,PO-2026-000184,4,Dedicated White-Glove On-Site Unpacking & Rack Mount,20,1393.24,27864.8,20
+PO-2026-000185-L01,PO-2026-000185,1,Datacenter Preventive Maintenance Contract,20,2983.05,59661.0,20
+PO-2026-000186-L01,PO-2026-000186,1,Cafeteria Heavy Duty Commercial Coffee Maker,2,3179.04,6358.08,2
+PO-2026-000186-L02,PO-2026-000186,2,HEPA Air Filtration Commercial Tower,2,838.78,1677.56,2
+PO-2026-000186-L03,PO-2026-000186,3,Executive Motorized Standing Desk,5,1007.52,5037.6,5
+PO-2026-000186-L04,PO-2026-000186,4,Commercial Smart Keyless Access Door Controller,2,1755.51,3511.02,2
+PO-2026-000187-L01,PO-2026-000187,1,International Express Freight Delivery 500kg,10,2266.5,22665.0,10
+PO-2026-000187-L02,PO-2026-000187,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,2,1544.22,3088.44,2
+PO-2026-000187-L03,PO-2026-000187,3,Bonded Warehouse Storage Pallet Space,2,608.12,1216.24,2
+PO-2026-000188-L01,PO-2026-000188,1,Regulatory GDPR / CPRA Data Privacy Review,1,282.15,282.15,1
+PO-2026-000189-L01,PO-2026-000189,1,Financial Data Pipeline Modernization Consulting,10,240.81,2408.1,10
+PO-2026-000189-L02,PO-2026-000189,2,Regulatory GDPR / CPRA Data Privacy Review,5,346.54,1732.7,5
+PO-2026-000190-L01,PO-2026-000190,1,Financial Data Pipeline Modernization Consulting,5,278.61,1393.05,5
+PO-2026-000190-L02,PO-2026-000190,2,Regulatory GDPR / CPRA Data Privacy Review,10,283.15,2831.5,10
+PO-2026-000190-L03,PO-2026-000190,3,DevOps Migration and Kubernetes Optimization,10,287.32,2873.2,10
+PO-2026-000190-L04,PO-2026-000190,4,Enterprise Architecture Strategic Advisory,1,395.78,395.78,1
+PO-2026-000191-L01,PO-2026-000191,1,Code Quality and SAST Security Scanner,20,4515.27,90305.4,20
+PO-2026-000191-L02,PO-2026-000191,2,Data Analytics and Visualization Platform Seat,2,1150.21,2300.42,2
+PO-2026-000192-L01,PO-2026-000192,1,AI Model Governance & Ethics Framework Advisory,2,399.1,798.2,2
+PO-2026-000192-L02,PO-2026-000192,2,DevOps Migration and Kubernetes Optimization,2,289.7,579.4,2
+PO-2026-000193-L01,PO-2026-000193,1,Customer Data Platform (CDP) Annual Tier,1,16451.35,16451.35,1
+PO-2026-000194-L01,PO-2026-000194,1,Cafeteria Heavy Duty Commercial Coffee Maker,2,2634.32,5268.64,2
+PO-2026-000194-L02,PO-2026-000194,2,HEPA Air Filtration Commercial Tower,1,869.89,869.89,1
+PO-2026-000194-L03,PO-2026-000194,3,Acoustic Phone Booth Modular Unit,2,6687.98,13375.96,2
+PO-2026-000195-L01,PO-2026-000195,1,Financial Data Pipeline Modernization Consulting,2,247.77,495.54,2
+PO-2026-000196-L01,PO-2026-000196,1,International Express Freight Delivery 500kg,2,2330.02,4660.04,2
+PO-2026-000196-L02,PO-2026-000196,2,Bonded Warehouse Storage Pallet Space,5,671.65,3358.25,5
+PO-2026-000197-L01,PO-2026-000197,1,Executive Motorized Standing Desk,20,1000.34,20006.8,20
+PO-2026-000197-L02,PO-2026-000197,2,Acoustic Phone Booth Modular Unit,20,6121.71,122434.2,20
+PO-2026-000198-L01,PO-2026-000198,1,Wireless Access Point Wi-Fi 7,20,388.38,7767.6,20
+PO-2026-000198-L02,PO-2026-000198,2,Developer Workstation Dual GPU 64GB,2,3494.66,6989.32,2
+PO-2026-000198-L03,PO-2026-000198,3,Enterprise Core Switch 48-Port 10GbE,1,4768.74,4768.74,1
+PO-2026-000198-L04,PO-2026-000198,4,Ultra-Wide 34-Inch Curved Monitor,5,654.68,3273.4,5
+PO-2026-000199-L01,PO-2026-000199,1,Financial Data Pipeline Modernization Consulting,10,270.76,2707.6,10
+PO-2026-000199-L02,PO-2026-000199,2,DevOps Migration and Kubernetes Optimization,5,250.57,1252.85,5
+PO-2026-000199-L03,PO-2026-000199,3,Enterprise Architecture Strategic Advisory,5,377.9,1889.5,5
+PO-2026-000199-L04,PO-2026-000199,4,Regulatory GDPR / CPRA Data Privacy Review,5,273.19,1365.95,5
+PO-2026-000200-L01,PO-2026-000200,1,Ergonomic Keyboard and Precision Mouse Combo,50,179.96,8998.0,50
+PO-2026-000201-L01,PO-2026-000201,1,SLA Incident Management & SRE Escalation,1,5407.87,5407.87,1
+PO-2026-000202-L01,PO-2026-000202,1,NVMe Enterprise Storage Array 50TB,2,12624.36,25248.72,2
+PO-2026-000202-L02,PO-2026-000202,2,AI Inference Accelerator Card PCIe,2,8770.18,17540.36,2
+PO-2026-000202-L03,PO-2026-000202,3,High-Performance Server Rack 42U,2,9404.97,18809.94,2
+PO-2026-000203-L01,PO-2026-000203,1,Ergonomic Keyboard and Precision Mouse Combo,20,191.25,3825.0,20
+PO-2026-000203-L02,PO-2026-000203,2,Uninterruptible Power Supply (UPS) 3000VA,1,1644.98,1644.98,1
+PO-2026-000204-L01,PO-2026-000204,1,Cybersecurity Endpoint Detection & Response (EDR),2,6041.85,12083.7,2
+PO-2026-000204-L02,PO-2026-000204,2,Identity Access Management (IAM) SSO License,1,4248.66,4248.66,1
+PO-2026-000204-L03,PO-2026-000204,3,Developer IDE Team Suite Subscription,50,482.08,24104.0,50
+PO-2026-000205-L01,PO-2026-000205,1,Developer IDE Team Suite Subscription,1,475.8,475.8,1
+PO-2026-000205-L02,PO-2026-000205,2,Cloud Infrastructure Tier-1 Annual Subscription,20,24672.28,493445.6,20
+PO-2026-000205-L03,PO-2026-000205,3,Automated Compliance Monitoring Suite,10,9163.56,91635.6,10
+PO-2026-000206-L01,PO-2026-000206,1,Meeting Room Video Conferencing System 4K,20,3550.2,71004.0,20
+PO-2026-000207-L01,PO-2026-000207,1,Developer Workstation Dual GPU 64GB,1,3176.9,3176.9,1
+PO-2026-000207-L02,PO-2026-000207,2,Wireless Access Point Wi-Fi 7,2,471.16,942.32,2
+PO-2026-000208-L01,PO-2026-000208,1,Bonded Warehouse Storage Pallet Space,50,603.26,30163.0,50
+PO-2026-000208-L02,PO-2026-000208,2,Temperature-Controlled Secure Transport,2,3884.15,7768.3,2
+PO-2026-000209-L01,PO-2026-000209,1,Supply Chain Resiliency Strategy Consulting,5,312.87,1564.35,5
+PO-2026-000209-L02,PO-2026-000209,2,AI Model Governance & Ethics Framework Advisory,1,394.74,394.74,1
+PO-2026-000210-L01,PO-2026-000210,1,Cafeteria Heavy Duty Commercial Coffee Maker,1,2638.43,2638.43,1
+PO-2026-000210-L02,PO-2026-000210,2,Commercial Smart Keyless Access Door Controller,1,1642.68,1642.68,1
+PO-2026-000211-L01,PO-2026-000211,1,Enterprise Architecture Strategic Advisory,2,366.3,732.6,2
+PO-2026-000211-L02,PO-2026-000211,2,Financial Data Pipeline Modernization Consulting,20,233.04,4660.8,20
+PO-2026-000212-L01,PO-2026-000212,1,Annual Cloud Architecture Security Review,1,6663.4,6663.4,1
+PO-2026-000213-L01,PO-2026-000213,1,Wireless Access Point Wi-Fi 7,5,427.43,2137.15,5
+PO-2026-000213-L02,PO-2026-000213,2,Uninterruptible Power Supply (UPS) 3000VA,1,1594.78,1594.78,1
+PO-2026-000213-L03,PO-2026-000213,3,Ergonomic Keyboard and Precision Mouse Combo,10,167.08,1670.8,10
+PO-2026-000213-L04,PO-2026-000213,4,Thunderbolt 4 Docking Station Dual Display,10,221.08,2210.8,10
+PO-2026-000214-L01,PO-2026-000214,1,Meeting Room Video Conferencing System 4K,2,3099.66,6199.32,2
+PO-2026-000214-L02,PO-2026-000214,2,Executive Motorized Standing Desk,2,984.59,1969.18,2
+PO-2026-000215-L01,PO-2026-000215,1,Data Analytics and Visualization Platform Seat,20,1145.78,22915.6,20
+PO-2026-000216-L01,PO-2026-000216,1,AI Model Governance & Ethics Framework Advisory,10,389.54,3895.4,10
+PO-2026-000217-L01,PO-2026-000217,1,Data Analytics and Visualization Platform Seat,10,1071.42,10714.2,10
+PO-2026-000218-L01,PO-2026-000218,1,Acoustic Phone Booth Modular Unit,1,6448.47,6448.47,1
+PO-2026-000219-L01,PO-2026-000219,1,HEPA Air Filtration Commercial Tower,2,796.3,1592.6,2
+PO-2026-000219-L02,PO-2026-000219,2,Aeron Ergonomic Lumbar Support Chair,5,1070.11,5350.55,5
+PO-2026-000220-L01,PO-2026-000220,1,Meeting Room Video Conferencing System 4K,20,3408.9,68178.0,20
+PO-2026-000221-L01,PO-2026-000221,1,LED Low-Glare Architectural Office Lighting Panel,2,432.59,865.18,2
+PO-2026-000222-L01,PO-2026-000222,1,Financial Data Pipeline Modernization Consulting,20,238.28,4765.6,20
+PO-2026-000222-L02,PO-2026-000222,2,DevOps Migration and Kubernetes Optimization,2,306.7,613.4,2
+PO-2026-000223-L01,PO-2026-000223,1,Annual Cloud Architecture Security Review,1,6110.22,6110.22,1
+PO-2026-000223-L02,PO-2026-000223,2,Datacenter Preventive Maintenance Contract,5,3032.66,15163.3,5
+PO-2026-000223-L03,PO-2026-000223,3,24/7 Managed NOC Level-2 Support Service,1,9044.03,9044.03,1
+PO-2026-000224-L01,PO-2026-000224,1,Compliance ISO 27001 Surveillance Audit,10,12894.59,128945.9,10
+PO-2026-000225-L01,PO-2026-000225,1,Compliance ISO 27001 Surveillance Audit,2,13770.72,27541.44,2
+PO-2026-000226-L01,PO-2026-000226,1,Financial Data Pipeline Modernization Consulting,1,261.47,261.47,1
+PO-2026-000226-L02,PO-2026-000226,2,AI Model Governance & Ethics Framework Advisory,2,381.16,762.32,2
+PO-2026-000226-L03,PO-2026-000226,3,Supply Chain Resiliency Strategy Consulting,2,349.79,699.58,2
+PO-2026-000227-L01,PO-2026-000227,1,AI Model Governance & Ethics Framework Advisory,2,413.12,826.24,2
+PO-2026-000227-L02,PO-2026-000227,2,DevOps Migration and Kubernetes Optimization,5,270.44,1352.2,5
+PO-2026-000228-L01,PO-2026-000228,1,Temperature-Controlled Secure Transport,2,3704.32,7408.64,2
+PO-2026-000228-L02,PO-2026-000228,2,Expedited Regional Courier Fleet Delivery,2,514.39,1028.78,2
+PO-2026-000228-L03,PO-2026-000228,3,Dedicated White-Glove On-Site Unpacking & Rack Mount,1,1414.6,1414.6,1
+PO-2026-000229-L01,PO-2026-000229,1,High-Performance Server Rack 42U,1,8573.57,8573.57,1
+PO-2026-000229-L02,PO-2026-000229,2,Ergonomic Keyboard and Precision Mouse Combo,1,213.22,213.22,1
+PO-2026-000229-L03,PO-2026-000229,3,Enterprise Core Switch 48-Port 10GbE,2,4868.65,9737.3,2
+PO-2026-000229-L04,PO-2026-000229,4,Thunderbolt 4 Docking Station Dual Display,2,256.42,512.84,2
+PO-2026-000230-L01,PO-2026-000230,1,Regulatory GDPR / CPRA Data Privacy Review,2,304.74,609.48,2
+PO-2026-000231-L01,PO-2026-000231,1,Temperature-Controlled Secure Transport,1,3507.35,3507.35,1
+PO-2026-000232-L01,PO-2026-000232,1,Security Shredder Cross-Cut Heavy Duty,10,618.68,6186.8,10
+PO-2026-000232-L02,PO-2026-000232,2,USB-C Braided Cable Multi-Length Pack,1,79.98,79.98,1
+PO-2026-000232-L03,PO-2026-000232,3,Ergonomic Anti-Fatigue Desk Floor Mat,2,92.89,185.78,2
+PO-2026-000233-L01,PO-2026-000233,1,Temperature-Controlled Secure Transport,5,4032.86,20164.3,5
+PO-2026-000233-L02,PO-2026-000233,2,International Express Freight Delivery 500kg,1,2323.99,2323.99,1
+PO-2026-000234-L01,PO-2026-000234,1,Database Management Enterprise Cluster License,1,18960.98,18960.98,1
+PO-2026-000235-L01,PO-2026-000235,1,Commercial Smart Keyless Access Door Controller,5,1631.99,8159.95,5
+PO-2026-000235-L02,PO-2026-000235,2,HEPA Air Filtration Commercial Tower,10,796.39,7963.9,10
+PO-2026-000235-L03,PO-2026-000235,3,Executive Motorized Standing Desk,5,856.97,4284.85,5
+PO-2026-000236-L01,PO-2026-000236,1,High-Yield Laser Toner Cartridge Multipack,2,249.38,498.76,2
+PO-2026-000237-L01,PO-2026-000237,1,Commercial Smart Keyless Access Door Controller,1,1345.32,1345.32,1
+PO-2026-000238-L01,PO-2026-000238,1,High-Performance Server Rack 42U,5,7648.0,38240.0,5
+PO-2026-000239-L01,PO-2026-000239,1,High-Performance Server Rack 42U,5,8392.88,41964.4,5
+PO-2026-000239-L02,PO-2026-000239,2,Uninterruptible Power Supply (UPS) 3000VA,5,1518.03,7590.15,5
+PO-2026-000240-L01,PO-2026-000240,1,High-Performance Server Rack 42U,10,8162.54,81625.4,10
+PO-2026-000241-L01,PO-2026-000241,1,Ergonomic Anti-Fatigue Desk Floor Mat,1,101.85,101.85,1
+PO-2026-000241-L02,PO-2026-000241,2,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),10,39.88,398.8,10
+PO-2026-000241-L03,PO-2026-000241,3,Security Shredder Cross-Cut Heavy Duty,5,567.18,2835.9,5
+PO-2026-000242-L01,PO-2026-000242,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),5,48.83,244.15,5
+PO-2026-000242-L02,PO-2026-000242,2,Ergonomic Anti-Fatigue Desk Floor Mat,20,97.48,1949.6,20
+PO-2026-000243-L01,PO-2026-000243,1,Commercial Smart Keyless Access Door Controller,1,1500.85,1500.85,1
+PO-2026-000244-L01,PO-2026-000244,1,High-Performance Server Rack 42U,1,8042.29,8042.29,1
+PO-2026-000245-L01,PO-2026-000245,1,Code Quality and SAST Security Scanner,1,3898.18,3898.18,1
+PO-2026-000246-L01,PO-2026-000246,1,Security Shredder Cross-Cut Heavy Duty,2,586.28,1172.56,2
+PO-2026-000247-L01,PO-2026-000247,1,Security Shredder Cross-Cut Heavy Duty,2,521.69,1043.38,2
+PO-2026-000247-L02,PO-2026-000247,2,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),1,47.9,47.9,1
+PO-2026-000248-L01,PO-2026-000248,1,Cybersecurity Endpoint Detection & Response (EDR),1,5272.15,5272.15,1
+PO-2026-000249-L01,PO-2026-000249,1,Aeron Ergonomic Lumbar Support Chair,20,1008.95,20179.0,20
+PO-2026-000250-L01,PO-2026-000250,1,Aeron Ergonomic Lumbar Support Chair,2,1154.74,2309.48,2
+PO-2026-000250-L02,PO-2026-000250,2,LED Low-Glare Architectural Office Lighting Panel,1,468.96,468.96,1
+PO-2026-000251-L01,PO-2026-000251,1,Financial Data Pipeline Modernization Consulting,10,245.67,2456.7,10
+PO-2026-000251-L02,PO-2026-000251,2,Enterprise Architecture Strategic Advisory,2,358.53,717.06,2
+PO-2026-000252-L01,PO-2026-000252,1,Cafeteria Heavy Duty Commercial Coffee Maker,5,2807.08,14035.4,5
+PO-2026-000253-L01,PO-2026-000253,1,SLA Incident Management & SRE Escalation,5,4555.82,22779.1,5
+PO-2026-000254-L01,PO-2026-000254,1,High-Performance Server Rack 42U,20,8701.35,174027.0,20
+PO-2026-000254-L02,PO-2026-000254,2,Ergonomic Keyboard and Precision Mouse Combo,20,169.74,3394.8,20
+PO-2026-000254-L03,PO-2026-000254,3,Uninterruptible Power Supply (UPS) 3000VA,2,1504.28,3008.56,2
+PO-2026-000255-L01,PO-2026-000255,1,Temperature-Controlled Secure Transport,2,3702.58,7405.16,2
+PO-2026-000256-L01,PO-2026-000256,1,Compliance ISO 27001 Surveillance Audit,1,16231.89,16231.89,1
+PO-2026-000256-L02,PO-2026-000256,2,Datacenter Preventive Maintenance Contract,20,2970.97,59419.4,20
+PO-2026-000257-L01,PO-2026-000257,1,Enterprise Architecture Strategic Advisory,1,325.11,325.11,1
+PO-2026-000258-L01,PO-2026-000258,1,Enterprise Core Switch 48-Port 10GbE,10,4585.98,45859.8,10
+PO-2026-000258-L02,PO-2026-000258,2,Thunderbolt 4 Docking Station Dual Display,5,225.89,1129.45,5
+PO-2026-000258-L03,PO-2026-000258,3,Wireless Access Point Wi-Fi 7,5,449.31,2246.55,5
+PO-2026-000259-L01,PO-2026-000259,1,Uninterruptible Power Supply (UPS) 3000VA,5,1635.78,8178.9,5
+PO-2026-000259-L02,PO-2026-000259,2,Wireless Access Point Wi-Fi 7,1,436.94,436.94,1
+PO-2026-000260-L01,PO-2026-000260,1,USB-C Braided Cable Multi-Length Pack,2,87.02,174.04,2
+PO-2026-000260-L02,PO-2026-000260,2,High-Yield Laser Toner Cartridge Multipack,5,302.8,1514.0,5
+PO-2026-000260-L03,PO-2026-000260,3,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),20,46.31,926.2,20
+PO-2026-000261-L01,PO-2026-000261,1,International Express Freight Delivery 500kg,5,2612.88,13064.4,5
+PO-2026-000261-L02,PO-2026-000261,2,Bonded Warehouse Storage Pallet Space,50,674.76,33738.0,50
+PO-2026-000262-L01,PO-2026-000262,1,USB-C Braided Cable Multi-Length Pack,1,79.39,79.39,1
+PO-2026-000262-L02,PO-2026-000262,2,Dry-Erase Magnetic Whiteboard 72x48 with Markers,50,216.93,10846.5,50
+PO-2026-000263-L01,PO-2026-000263,1,High-Performance Server Rack 42U,2,7537.51,15075.02,2
+PO-2026-000264-L01,PO-2026-000264,1,Developer IDE Team Suite Subscription,5,460.63,2303.15,5
+PO-2026-000264-L02,PO-2026-000264,2,Automated Compliance Monitoring Suite,1,10411.78,10411.78,1
+PO-2026-000264-L03,PO-2026-000264,3,Enterprise CI/CD Build Pipeline 50 Runners,1,6717.24,6717.24,1
+PO-2026-000265-L01,PO-2026-000265,1,External Penetration Testing & Red Teaming,1,17489.74,17489.74,1
+PO-2026-000266-L01,PO-2026-000266,1,High-Yield Laser Toner Cartridge Multipack,5,300.16,1500.8,5
+PO-2026-000266-L02,PO-2026-000266,2,Ergonomic Anti-Fatigue Desk Floor Mat,5,104.6,523.0,5
+PO-2026-000266-L03,PO-2026-000266,3,Dry-Erase Magnetic Whiteboard 72x48 with Markers,20,189.76,3795.2,20
+PO-2026-000267-L01,PO-2026-000267,1,Identity Access Management (IAM) SSO License,2,4847.52,9695.04,2
+PO-2026-000267-L02,PO-2026-000267,2,Cybersecurity Endpoint Detection & Response (EDR),5,6390.44,31952.2,5
+PO-2026-000267-L03,PO-2026-000267,3,Database Management Enterprise Cluster License,2,18751.32,37502.64,2
+PO-2026-000268-L01,PO-2026-000268,1,Developer IDE Team Suite Subscription,1,556.74,556.74,1
+PO-2026-000268-L02,PO-2026-000268,2,Automated Compliance Monitoring Suite,2,9267.82,18535.64,2
+PO-2026-000268-L03,PO-2026-000268,3,Enterprise CI/CD Build Pipeline 50 Runners,5,7819.96,39099.8,5
+PO-2026-000269-L01,PO-2026-000269,1,Enterprise Architecture Strategic Advisory,10,370.93,3709.3,10
+PO-2026-000269-L02,PO-2026-000269,2,AI Model Governance & Ethics Framework Advisory,5,446.95,2234.75,5
+PO-2026-000270-L01,PO-2026-000270,1,Aeron Ergonomic Lumbar Support Chair,2,1223.07,2446.14,2
+PO-2026-000270-L02,PO-2026-000270,2,LED Low-Glare Architectural Office Lighting Panel,5,458.68,2293.4,5
+PO-2026-000270-L03,PO-2026-000270,3,Executive Motorized Standing Desk,50,934.76,46738.0,50
+PO-2026-000271-L01,PO-2026-000271,1,Commercial Smart Keyless Access Door Controller,20,1400.6,28012.0,20
+PO-2026-000271-L02,PO-2026-000271,2,Meeting Room Video Conferencing System 4K,1,3414.43,3414.43,1
+PO-2026-000271-L03,PO-2026-000271,3,Acoustic Phone Booth Modular Unit,1,5445.64,5445.64,1
+PO-2026-000272-L01,PO-2026-000272,1,Aeron Ergonomic Lumbar Support Chair,5,1272.28,6361.4,5
+PO-2026-000272-L02,PO-2026-000272,2,HEPA Air Filtration Commercial Tower,1,836.37,836.37,1
+PO-2026-000272-L03,PO-2026-000272,3,Meeting Room Video Conferencing System 4K,10,3026.62,30266.2,10
+PO-2026-000273-L01,PO-2026-000273,1,Cafeteria Heavy Duty Commercial Coffee Maker,1,2725.28,2725.28,1
+PO-2026-000274-L01,PO-2026-000274,1,Security Shredder Cross-Cut Heavy Duty,10,527.73,5277.3,10
+PO-2026-000274-L02,PO-2026-000274,2,High-Yield Laser Toner Cartridge Multipack,1,286.69,286.69,1
+PO-2026-000275-L01,PO-2026-000275,1,Temperature-Controlled Secure Transport,5,3590.84,17954.2,5
+PO-2026-000275-L02,PO-2026-000275,2,Bonded Warehouse Storage Pallet Space,2,703.23,1406.46,2
+PO-2026-000275-L03,PO-2026-000275,3,International Express Freight Delivery 500kg,2,2658.07,5316.14,2
+PO-2026-000276-L01,PO-2026-000276,1,Meeting Room Video Conferencing System 4K,50,3515.29,175764.5,50
+PO-2026-000276-L02,PO-2026-000276,2,Commercial Smart Keyless Access Door Controller,2,1707.93,3415.86,2
+PO-2026-000277-L01,PO-2026-000277,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,42.15,84.3,2
+PO-2026-000277-L02,PO-2026-000277,2,Ergonomic Anti-Fatigue Desk Floor Mat,2,104.46,208.92,2
+PO-2026-000277-L03,PO-2026-000277,3,Security Shredder Cross-Cut Heavy Duty,2,542.01,1084.02,2
+PO-2026-000278-L01,PO-2026-000278,1,Data Analytics and Visualization Platform Seat,1,1159.21,1159.21,1
+PO-2026-000278-L02,PO-2026-000278,2,Cybersecurity Endpoint Detection & Response (EDR),2,4794.21,9588.42,2
+PO-2026-000278-L03,PO-2026-000278,3,Enterprise CI/CD Build Pipeline 50 Runners,1,6746.32,6746.32,1
+PO-2026-000279-L01,PO-2026-000279,1,Expedited Regional Courier Fleet Delivery,1,451.01,451.01,1
+PO-2026-000280-L01,PO-2026-000280,1,High-Yield Laser Toner Cartridge Multipack,2,269.11,538.22,2
+PO-2026-000280-L02,PO-2026-000280,2,USB-C Braided Cable Multi-Length Pack,1,83.26,83.26,1
+PO-2026-000281-L01,PO-2026-000281,1,Temperature-Controlled Secure Transport,2,3588.12,7176.24,2
+PO-2026-000281-L02,PO-2026-000281,2,International Express Freight Delivery 500kg,1,2348.0,2348.0,1
+PO-2026-000281-L03,PO-2026-000281,3,Dedicated White-Glove On-Site Unpacking & Rack Mount,1,1620.46,1620.46,1
+PO-2026-000282-L01,PO-2026-000282,1,Enterprise Core Switch 48-Port 10GbE,1,5310.55,5310.55,1
+PO-2026-000283-L01,PO-2026-000283,1,Customer Data Platform (CDP) Annual Tier,1,17346.8,17346.8,1
+PO-2026-000283-L02,PO-2026-000283,2,Cloud Infrastructure Tier-1 Annual Subscription,5,28800.64,144003.2,5
+PO-2026-000284-L01,PO-2026-000284,1,Dedicated White-Glove On-Site Unpacking & Rack Mount,1,1367.27,1367.27,1
+PO-2026-000285-L01,PO-2026-000285,1,Security Shredder Cross-Cut Heavy Duty,1,558.91,558.91,1
+PO-2026-000285-L02,PO-2026-000285,2,High-Yield Laser Toner Cartridge Multipack,1,292.17,292.17,1
+PO-2026-000286-L01,PO-2026-000286,1,SLA Incident Management & SRE Escalation,5,5520.36,27601.8,5
+PO-2026-000287-L01,PO-2026-000287,1,Meeting Room Video Conferencing System 4K,5,3277.63,16388.15,5
+PO-2026-000288-L01,PO-2026-000288,1,Annual Cloud Architecture Security Review,50,6954.73,347736.5,50
+PO-2026-000289-L01,PO-2026-000289,1,Ultra-Wide 34-Inch Curved Monitor,50,642.55,32127.5,50
+PO-2026-000290-L01,PO-2026-000290,1,Datacenter Preventive Maintenance Contract,1,3813.57,3813.57,1
+PO-2026-000290-L02,PO-2026-000290,2,24/7 Managed NOC Level-2 Support Service,1,9581.1,9581.1,1
+PO-2026-000290-L03,PO-2026-000290,3,Disaster Recovery Site Warm Standby Service,5,3968.3,19841.5,5
+PO-2026-000291-L01,PO-2026-000291,1,Financial Data Pipeline Modernization Consulting,1,230.91,230.91,1
+PO-2026-000291-L02,PO-2026-000291,2,Regulatory GDPR / CPRA Data Privacy Review,1,311.1,311.1,1
+PO-2026-000292-L01,PO-2026-000292,1,External Penetration Testing & Red Teaming,2,18062.61,36125.22,2
+PO-2026-000292-L02,PO-2026-000292,2,24/7 Managed NOC Level-2 Support Service,1,8824.48,8824.48,1
+PO-2026-000293-L01,PO-2026-000293,1,Enterprise Core Switch 48-Port 10GbE,1,5107.45,5107.45,1
+PO-2026-000293-L02,PO-2026-000293,2,NVMe Enterprise Storage Array 50TB,1,11294.17,11294.17,1
+PO-2026-000293-L03,PO-2026-000293,3,Thunderbolt 4 Docking Station Dual Display,1,209.44,209.44,1
+PO-2026-000294-L01,PO-2026-000294,1,Supply Chain Resiliency Strategy Consulting,10,306.58,3065.8,10
+PO-2026-000295-L01,PO-2026-000295,1,Supply Chain Resiliency Strategy Consulting,1,300.54,300.54,1
+PO-2026-000296-L01,PO-2026-000296,1,Enterprise Architecture Strategic Advisory,2,352.13,704.26,2
+PO-2026-000297-L01,PO-2026-000297,1,Cybersecurity Endpoint Detection & Response (EDR),5,5218.15,26090.75,5
+PO-2026-000298-L01,PO-2026-000298,1,Thunderbolt 4 Docking Station Dual Display,1,256.91,256.91,1
+PO-2026-000298-L02,PO-2026-000298,2,High-Performance Server Rack 42U,1,8248.89,8248.89,1
+PO-2026-000299-L01,PO-2026-000299,1,Data Analytics and Visualization Platform Seat,2,1297.11,2594.22,2
+PO-2026-000299-L02,PO-2026-000299,2,Cybersecurity Endpoint Detection & Response (EDR),1,4955.72,4955.72,1
+PO-2026-000300-L01,PO-2026-000300,1,Aeron Ergonomic Lumbar Support Chair,1,1053.22,1053.22,1
+PO-2026-000301-L01,PO-2026-000301,1,NVMe Enterprise Storage Array 50TB,50,11709.74,585487.0,50
+PO-2026-000301-L02,PO-2026-000301,2,Enterprise Core Switch 48-Port 10GbE,2,5013.67,10027.34,2
+PO-2026-000301-L03,PO-2026-000301,3,Wireless Access Point Wi-Fi 7,10,430.63,4306.3,10
+PO-2026-000302-L01,PO-2026-000302,1,Cafeteria Heavy Duty Commercial Coffee Maker,5,3173.03,15865.15,5
+PO-2026-000303-L01,PO-2026-000303,1,Cybersecurity Endpoint Detection & Response (EDR),1,4913.06,4913.06,1
+PO-2026-000304-L01,PO-2026-000304,1,AI Model Governance & Ethics Framework Advisory,1,347.62,347.62,1
+PO-2026-000305-L01,PO-2026-000305,1,Meeting Room Video Conferencing System 4K,5,3794.0,18970.0,5
+PO-2026-000305-L02,PO-2026-000305,2,Cafeteria Heavy Duty Commercial Coffee Maker,20,2781.9,55638.0,20
+PO-2026-000305-L03,PO-2026-000305,3,HEPA Air Filtration Commercial Tower,2,766.22,1532.44,2
+PO-2026-000306-L01,PO-2026-000306,1,Ergonomic Keyboard and Precision Mouse Combo,1,186.38,186.38,1
+PO-2026-000306-L02,PO-2026-000306,2,Ultra-Wide 34-Inch Curved Monitor,1,671.07,671.07,1
+PO-2026-000306-L03,PO-2026-000306,3,High-Performance Server Rack 42U,10,8088.21,80882.1,10
+PO-2026-000307-L01,PO-2026-000307,1,USB-C Braided Cable Multi-Length Pack,1,80.7,80.7,1
+PO-2026-000308-L01,PO-2026-000308,1,Cafeteria Heavy Duty Commercial Coffee Maker,10,2769.1,27691.0,10
+PO-2026-000308-L02,PO-2026-000308,2,Aeron Ergonomic Lumbar Support Chair,2,1248.59,2497.18,2
+PO-2026-000309-L01,PO-2026-000309,1,Cloud Infrastructure Tier-1 Annual Subscription,20,25156.85,503137.0,20
+PO-2026-000309-L02,PO-2026-000309,2,Enterprise CI/CD Build Pipeline 50 Runners,5,7900.12,39500.6,5
+PO-2026-000309-L03,PO-2026-000309,3,Cybersecurity Endpoint Detection & Response (EDR),5,5602.82,28014.1,5
+PO-2026-000310-L01,PO-2026-000310,1,International Express Freight Delivery 500kg,5,2382.8,11914.0,5
+PO-2026-000310-L02,PO-2026-000310,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,2,1422.85,2845.7,2
+PO-2026-000311-L01,PO-2026-000311,1,Acoustic Phone Booth Modular Unit,10,5822.12,58221.2,10
+PO-2026-000312-L01,PO-2026-000312,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),10,40.56,405.6,10
+PO-2026-000313-L01,PO-2026-000313,1,Supply Chain Resiliency Strategy Consulting,2,311.65,623.3,2
+PO-2026-000313-L02,PO-2026-000313,2,DevOps Migration and Kubernetes Optimization,5,263.92,1319.6,5
+PO-2026-000314-L01,PO-2026-000314,1,Wireless Access Point Wi-Fi 7,50,437.24,21862.0,50
+PO-2026-000314-L02,PO-2026-000314,2,Thunderbolt 4 Docking Station Dual Display,1,281.64,281.64,1
+PO-2026-000314-L03,PO-2026-000314,3,NVMe Enterprise Storage Array 50TB,1,12550.65,12550.65,1
+PO-2026-000314-L04,PO-2026-000314,4,AI Inference Accelerator Card PCIe,1,10018.35,10018.35,1
+PO-2026-000315-L01,PO-2026-000315,1,HEPA Air Filtration Commercial Tower,2,785.49,1570.98,2
+PO-2026-000315-L02,PO-2026-000315,2,Acoustic Phone Booth Modular Unit,2,6323.6,12647.2,2
+PO-2026-000316-L01,PO-2026-000316,1,Enterprise CI/CD Build Pipeline 50 Runners,5,7708.7,38543.5,5
+PO-2026-000316-L02,PO-2026-000316,2,Data Analytics and Visualization Platform Seat,5,1204.67,6023.35,5
+PO-2026-000317-L01,PO-2026-000317,1,USB-C Braided Cable Multi-Length Pack,1,87.88,87.88,1
+PO-2026-000317-L02,PO-2026-000317,2,Executive Stationery & Meeting Pad Bundle,2,63.53,127.06,2
+PO-2026-000317-L03,PO-2026-000317,3,Security Shredder Cross-Cut Heavy Duty,50,537.8,26890.0,50
+PO-2026-000318-L01,PO-2026-000318,1,Aeron Ergonomic Lumbar Support Chair,1,1214.79,1214.79,1
+PO-2026-000318-L02,PO-2026-000318,2,Cafeteria Heavy Duty Commercial Coffee Maker,2,2628.93,5257.86,2
+PO-2026-000319-L01,PO-2026-000319,1,Executive Stationery & Meeting Pad Bundle,2,67.62,135.24,2
+PO-2026-000319-L02,PO-2026-000319,2,High-Yield Laser Toner Cartridge Multipack,5,276.2,1381.0,5
+PO-2026-000320-L01,PO-2026-000320,1,Disaster Recovery Site Warm Standby Service,1,3979.43,3979.43,1
+PO-2026-000321-L01,PO-2026-000321,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,221.94,443.88,2
+PO-2026-000321-L02,PO-2026-000321,2,Executive Stationery & Meeting Pad Bundle,5,71.6,358.0,5
+PO-2026-000322-L01,PO-2026-000322,1,Annual Cloud Architecture Security Review,5,6577.39,32886.95,5
+PO-2026-000322-L02,PO-2026-000322,2,Disaster Recovery Site Warm Standby Service,5,3998.29,19991.45,5
+PO-2026-000322-L03,PO-2026-000322,3,Hardware Lifecycle Replacement Program Support,50,8545.66,427283.0,50
+PO-2026-000323-L01,PO-2026-000323,1,NVMe Enterprise Storage Array 50TB,5,12064.0,60320.0,5
+PO-2026-000323-L02,PO-2026-000323,2,Thunderbolt 4 Docking Station Dual Display,2,248.04,496.08,2
+PO-2026-000323-L03,PO-2026-000323,3,Enterprise Core Switch 48-Port 10GbE,1,4505.25,4505.25,1
+PO-2026-000323-L04,PO-2026-000323,4,AI Inference Accelerator Card PCIe,1,10839.35,10839.35,1
+PO-2026-000324-L01,PO-2026-000324,1,Acoustic Phone Booth Modular Unit,5,5896.24,29481.2,5
+PO-2026-000324-L02,PO-2026-000324,2,Cafeteria Heavy Duty Commercial Coffee Maker,5,2693.5,13467.5,5
+PO-2026-000325-L01,PO-2026-000325,1,Database Management Enterprise Cluster License,1,17157.42,17157.42,1
+PO-2026-000326-L01,PO-2026-000326,1,NVMe Enterprise Storage Array 50TB,20,13968.33,279366.6,20
+PO-2026-000326-L02,PO-2026-000326,2,Wireless Access Point Wi-Fi 7,1,441.19,441.19,1
+PO-2026-000327-L01,PO-2026-000327,1,Enterprise Architecture Strategic Advisory,10,326.61,3266.1,10
+PO-2026-000328-L01,PO-2026-000328,1,Financial Data Pipeline Modernization Consulting,50,262.75,13137.5,50
+PO-2026-000329-L01,PO-2026-000329,1,Enterprise Architecture Strategic Advisory,5,354.83,1774.15,5
+PO-2026-000329-L02,PO-2026-000329,2,Regulatory GDPR / CPRA Data Privacy Review,2,291.94,583.88,2
+PO-2026-000329-L03,PO-2026-000329,3,DevOps Migration and Kubernetes Optimization,2,261.47,522.94,2
+PO-2026-000329-L04,PO-2026-000329,4,AI Model Governance & Ethics Framework Advisory,2,411.8,823.6,2
+PO-2026-000330-L01,PO-2026-000330,1,Executive Motorized Standing Desk,2,1088.15,2176.3,2
+PO-2026-000330-L02,PO-2026-000330,2,Aeron Ergonomic Lumbar Support Chair,2,1098.7,2197.4,2
+PO-2026-000330-L03,PO-2026-000330,3,Acoustic Phone Booth Modular Unit,1,6906.82,6906.82,1
+PO-2026-000331-L01,PO-2026-000331,1,Cafeteria Heavy Duty Commercial Coffee Maker,20,2487.46,49749.2,20
+PO-2026-000331-L02,PO-2026-000331,2,Aeron Ergonomic Lumbar Support Chair,1,1111.61,1111.61,1
+PO-2026-000331-L03,PO-2026-000331,3,Commercial Smart Keyless Access Door Controller,5,1472.78,7363.9,5
+PO-2026-000331-L04,PO-2026-000331,4,HEPA Air Filtration Commercial Tower,1,793.47,793.47,1
+PO-2026-000332-L01,PO-2026-000332,1,Code Quality and SAST Security Scanner,1,3515.47,3515.47,1
+PO-2026-000333-L01,PO-2026-000333,1,Ergonomic Keyboard and Precision Mouse Combo,5,190.68,953.4,5
+PO-2026-000333-L02,PO-2026-000333,2,High-Performance Server Rack 42U,1,8897.8,8897.8,1
+PO-2026-000334-L01,PO-2026-000334,1,Expedited Regional Courier Fleet Delivery,5,460.81,2304.05,5
+PO-2026-000334-L02,PO-2026-000334,2,Bonded Warehouse Storage Pallet Space,10,616.6,6166.0,10
+PO-2026-000335-L01,PO-2026-000335,1,Cloud Infrastructure Tier-1 Annual Subscription,5,23997.38,119986.9,5
+PO-2026-000336-L01,PO-2026-000336,1,International Express Freight Delivery 500kg,2,2487.56,4975.12,2
+PO-2026-000336-L02,PO-2026-000336,2,Expedited Regional Courier Fleet Delivery,20,414.03,8280.6,20
+PO-2026-000336-L03,PO-2026-000336,3,Bonded Warehouse Storage Pallet Space,2,698.1,1396.2,2
+PO-2026-000337-L01,PO-2026-000337,1,Automated Compliance Monitoring Suite,5,8215.68,41078.4,5
+PO-2026-000338-L01,PO-2026-000338,1,Security Shredder Cross-Cut Heavy Duty,10,542.24,5422.4,10
+PO-2026-000338-L02,PO-2026-000338,2,Executive Stationery & Meeting Pad Bundle,10,72.34,723.4,10
+PO-2026-000339-L01,PO-2026-000339,1,Ultra-Wide 34-Inch Curved Monitor,5,701.77,3508.85,5
+PO-2026-000339-L02,PO-2026-000339,2,AI Inference Accelerator Card PCIe,1,9338.6,9338.6,1
+PO-2026-000340-L01,PO-2026-000340,1,Aeron Ergonomic Lumbar Support Chair,1,1159.95,1159.95,1
+PO-2026-000340-L02,PO-2026-000340,2,HEPA Air Filtration Commercial Tower,1,853.83,853.83,1
+PO-2026-000340-L03,PO-2026-000340,3,Meeting Room Video Conferencing System 4K,1,3245.45,3245.45,1
+PO-2026-000341-L01,PO-2026-000341,1,Enterprise Core Switch 48-Port 10GbE,1,5184.73,5184.73,1
+PO-2026-000341-L02,PO-2026-000341,2,NVMe Enterprise Storage Array 50TB,5,13696.03,68480.15,5
+PO-2026-000342-L01,PO-2026-000342,1,HEPA Air Filtration Commercial Tower,5,766.87,3834.35,5
+PO-2026-000343-L01,PO-2026-000343,1,Enterprise Architecture Strategic Advisory,1,314.92,314.92,1
+PO-2026-000344-L01,PO-2026-000344,1,24/7 Managed NOC Level-2 Support Service,1,8952.29,8952.29,1
+PO-2026-000344-L02,PO-2026-000344,2,SLA Incident Management & SRE Escalation,2,5788.48,11576.96,2
+PO-2026-000344-L03,PO-2026-000344,3,Hardware Lifecycle Replacement Program Support,1,7410.99,7410.99,1
+PO-2026-000344-L04,PO-2026-000344,4,Compliance ISO 27001 Surveillance Audit,10,13423.54,134235.4,10
+PO-2026-000345-L01,PO-2026-000345,1,Ergonomic Anti-Fatigue Desk Floor Mat,2,99.25,198.5,2
+PO-2026-000345-L02,PO-2026-000345,2,Executive Stationery & Meeting Pad Bundle,2,72.2,144.4,2
+PO-2026-000345-L03,PO-2026-000345,3,High-Yield Laser Toner Cartridge Multipack,5,275.81,1379.05,5
+PO-2026-000345-L04,PO-2026-000345,4,USB-C Braided Cable Multi-Length Pack,1,88.51,88.51,1
+PO-2026-000346-L01,PO-2026-000346,1,Data Analytics and Visualization Platform Seat,5,1167.94,5839.7,5
+PO-2026-000346-L02,PO-2026-000346,2,Database Management Enterprise Cluster License,50,19201.36,960068.0,50
+PO-2026-000347-L01,PO-2026-000347,1,Data Analytics and Visualization Platform Seat,5,1254.53,6272.65,5
+PO-2026-000348-L01,PO-2026-000348,1,USB-C Braided Cable Multi-Length Pack,2,96.19,192.38,2
+PO-2026-000348-L02,PO-2026-000348,2,Ergonomic Anti-Fatigue Desk Floor Mat,1,91.92,91.92,1
+PO-2026-000348-L03,PO-2026-000348,3,Security Shredder Cross-Cut Heavy Duty,2,543.71,1087.42,2
+PO-2026-000349-L01,PO-2026-000349,1,Developer Workstation Dual GPU 64GB,1,2901.99,2901.99,1
+PO-2026-000349-L02,PO-2026-000349,2,AI Inference Accelerator Card PCIe,50,10184.21,509210.5,50
+PO-2026-000350-L01,PO-2026-000350,1,Acoustic Phone Booth Modular Unit,1,6435.87,6435.87,1
+PO-2026-000350-L02,PO-2026-000350,2,Cafeteria Heavy Duty Commercial Coffee Maker,2,2837.7,5675.4,2
+PO-2026-000351-L01,PO-2026-000351,1,Meeting Room Video Conferencing System 4K,20,3823.03,76460.6,20
+PO-2026-000352-L01,PO-2026-000352,1,AI Model Governance & Ethics Framework Advisory,5,380.13,1900.65,5
+PO-2026-000353-L01,PO-2026-000353,1,Automated Compliance Monitoring Suite,2,8884.64,17769.28,2
+PO-2026-000353-L02,PO-2026-000353,2,Enterprise CI/CD Build Pipeline 50 Runners,1,8488.32,8488.32,1
+PO-2026-000354-L01,PO-2026-000354,1,Security Shredder Cross-Cut Heavy Duty,5,645.68,3228.4,5
+PO-2026-000354-L02,PO-2026-000354,2,Executive Stationery & Meeting Pad Bundle,5,69.16,345.8,5
+PO-2026-000355-L01,PO-2026-000355,1,Datacenter Preventive Maintenance Contract,1,2961.02,2961.02,1
+PO-2026-000355-L02,PO-2026-000355,2,24/7 Managed NOC Level-2 Support Service,1,8075.97,8075.97,1
+PO-2026-000356-L01,PO-2026-000356,1,Enterprise CI/CD Build Pipeline 50 Runners,2,7150.27,14300.54,2
+PO-2026-000356-L02,PO-2026-000356,2,Data Analytics and Visualization Platform Seat,2,1174.6,2349.2,2
+PO-2026-000356-L03,PO-2026-000356,3,Identity Access Management (IAM) SSO License,5,4563.65,22818.25,5
+PO-2026-000357-L01,PO-2026-000357,1,Bonded Warehouse Storage Pallet Space,2,682.96,1365.92,2
+PO-2026-000357-L02,PO-2026-000357,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,2,1626.46,3252.92,2
+PO-2026-000358-L01,PO-2026-000358,1,Enterprise Architecture Strategic Advisory,5,397.53,1987.65,5
+PO-2026-000358-L02,PO-2026-000358,2,DevOps Migration and Kubernetes Optimization,10,238.99,2389.9,10
+PO-2026-000359-L01,PO-2026-000359,1,Annual Cloud Architecture Security Review,2,6576.23,13152.46,2
+PO-2026-000360-L01,PO-2026-000360,1,Regulatory GDPR / CPRA Data Privacy Review,5,276.4,1382.0,5
+PO-2026-000361-L01,PO-2026-000361,1,Automated Compliance Monitoring Suite,20,9306.83,186136.6,20
+PO-2026-000362-L01,PO-2026-000362,1,Customer Data Platform (CDP) Annual Tier,50,18458.65,922932.5,50
+PO-2026-000362-L02,PO-2026-000362,2,Developer IDE Team Suite Subscription,2,520.35,1040.7,2
+PO-2026-000363-L01,PO-2026-000363,1,Temperature-Controlled Secure Transport,2,3663.42,7326.84,2
+PO-2026-000364-L01,PO-2026-000364,1,Aeron Ergonomic Lumbar Support Chair,2,1328.8,2657.6,2
+PO-2026-000364-L02,PO-2026-000364,2,Commercial Smart Keyless Access Door Controller,1,1418.93,1418.93,1
+PO-2026-000364-L03,PO-2026-000364,3,HEPA Air Filtration Commercial Tower,1,785.89,785.89,1
+PO-2026-000365-L01,PO-2026-000365,1,Supply Chain Resiliency Strategy Consulting,1,330.78,330.78,1
+PO-2026-000366-L01,PO-2026-000366,1,Enterprise Architecture Strategic Advisory,5,353.64,1768.2,5
+PO-2026-000366-L02,PO-2026-000366,2,DevOps Migration and Kubernetes Optimization,5,255.61,1278.05,5
+PO-2026-000367-L01,PO-2026-000367,1,DevOps Migration and Kubernetes Optimization,2,273.84,547.68,2
+PO-2026-000367-L02,PO-2026-000367,2,Enterprise Architecture Strategic Advisory,1,387.35,387.35,1
+PO-2026-000368-L01,PO-2026-000368,1,AI Inference Accelerator Card PCIe,1,9150.47,9150.47,1
+PO-2026-000368-L02,PO-2026-000368,2,NVMe Enterprise Storage Array 50TB,1,13123.35,13123.35,1
+PO-2026-000369-L01,PO-2026-000369,1,USB-C Braided Cable Multi-Length Pack,1,94.58,94.58,1
+PO-2026-000370-L01,PO-2026-000370,1,Developer Workstation Dual GPU 64GB,5,2955.89,14779.45,5
+PO-2026-000371-L01,PO-2026-000371,1,Uninterruptible Power Supply (UPS) 3000VA,10,1584.81,15848.1,10
+PO-2026-000371-L02,PO-2026-000371,2,NVMe Enterprise Storage Array 50TB,1,12853.59,12853.59,1
+PO-2026-000372-L01,PO-2026-000372,1,Expedited Regional Courier Fleet Delivery,5,422.22,2111.1,5
+PO-2026-000372-L02,PO-2026-000372,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,5,1545.64,7728.2,5
+PO-2026-000373-L01,PO-2026-000373,1,Commercial Smart Keyless Access Door Controller,10,1603.27,16032.7,10
+PO-2026-000374-L01,PO-2026-000374,1,Datacenter Preventive Maintenance Contract,1,3420.47,3420.47,1
+PO-2026-000374-L02,PO-2026-000374,2,Disaster Recovery Site Warm Standby Service,1,4436.77,4436.77,1
+PO-2026-000375-L01,PO-2026-000375,1,Database Management Enterprise Cluster License,1,18639.85,18639.85,1
+PO-2026-000375-L02,PO-2026-000375,2,Customer Data Platform (CDP) Annual Tier,2,15753.53,31507.06,2
+PO-2026-000375-L03,PO-2026-000375,3,Cloud Infrastructure Tier-1 Annual Subscription,1,22555.36,22555.36,1
+PO-2026-000375-L04,PO-2026-000375,4,Identity Access Management (IAM) SSO License,5,4458.64,22293.2,5
+PO-2026-000376-L01,PO-2026-000376,1,Cloud Infrastructure Tier-1 Annual Subscription,1,23042.6,23042.6,1
+PO-2026-000376-L02,PO-2026-000376,2,Data Analytics and Visualization Platform Seat,1,1328.84,1328.84,1
+PO-2026-000376-L03,PO-2026-000376,3,Identity Access Management (IAM) SSO License,5,5107.91,25539.55,5
+PO-2026-000376-L04,PO-2026-000376,4,Developer IDE Team Suite Subscription,1,485.07,485.07,1
+PO-2026-000377-L01,PO-2026-000377,1,Regulatory GDPR / CPRA Data Privacy Review,2,290.49,580.98,2
+PO-2026-000378-L01,PO-2026-000378,1,Expedited Regional Courier Fleet Delivery,1,513.84,513.84,1
+PO-2026-000379-L01,PO-2026-000379,1,AI Model Governance & Ethics Framework Advisory,1,369.56,369.56,1
+PO-2026-000380-L01,PO-2026-000380,1,Enterprise Architecture Strategic Advisory,1,329.49,329.49,1
+PO-2026-000380-L02,PO-2026-000380,2,Financial Data Pipeline Modernization Consulting,10,228.12,2281.2,10
+PO-2026-000381-L01,PO-2026-000381,1,Temperature-Controlled Secure Transport,1,4564.32,4564.32,1
+PO-2026-000381-L02,PO-2026-000381,2,Expedited Regional Courier Fleet Delivery,20,492.47,9849.4,20
+PO-2026-000381-L03,PO-2026-000381,3,International Express Freight Delivery 500kg,5,2354.4,11772.0,5
+PO-2026-000381-L04,PO-2026-000381,4,Dedicated White-Glove On-Site Unpacking & Rack Mount,10,1545.9,15459.0,10
+PO-2026-000382-L01,PO-2026-000382,1,Wireless Access Point Wi-Fi 7,20,430.79,8615.8,20
+PO-2026-000383-L01,PO-2026-000383,1,Executive Stationery & Meeting Pad Bundle,20,59.87,1197.4,20
+PO-2026-000383-L02,PO-2026-000383,2,Dry-Erase Magnetic Whiteboard 72x48 with Markers,10,209.84,2098.4,10
+PO-2026-000384-L01,PO-2026-000384,1,HEPA Air Filtration Commercial Tower,1,712.66,712.66,1
+PO-2026-000385-L01,PO-2026-000385,1,Automated Compliance Monitoring Suite,2,8430.78,16861.56,2
+PO-2026-000386-L01,PO-2026-000386,1,Hardware Lifecycle Replacement Program Support,1,8912.99,8912.99,1
+PO-2026-000387-L01,PO-2026-000387,1,Regulatory GDPR / CPRA Data Privacy Review,20,300.33,6006.6,20
+PO-2026-000388-L01,PO-2026-000388,1,Enterprise Architecture Strategic Advisory,1,351.3,351.3,1
+PO-2026-000388-L02,PO-2026-000388,2,AI Model Governance & Ethics Framework Advisory,5,461.58,2307.9,5
+PO-2026-000388-L03,PO-2026-000388,3,Regulatory GDPR / CPRA Data Privacy Review,20,274.86,5497.2,20
+PO-2026-000389-L01,PO-2026-000389,1,Dedicated White-Glove On-Site Unpacking & Rack Mount,5,1422.6,7113.0,5
+PO-2026-000389-L02,PO-2026-000389,2,Bonded Warehouse Storage Pallet Space,2,649.92,1299.84,2
+PO-2026-000390-L01,PO-2026-000390,1,Supply Chain Resiliency Strategy Consulting,1,307.11,307.11,1
+PO-2026-000390-L02,PO-2026-000390,2,DevOps Migration and Kubernetes Optimization,1,238.16,238.16,1
+PO-2026-000391-L01,PO-2026-000391,1,Executive Motorized Standing Desk,1,953.14,953.14,1
+PO-2026-000391-L02,PO-2026-000391,2,Meeting Room Video Conferencing System 4K,50,3189.18,159459.0,50
+PO-2026-000391-L03,PO-2026-000391,3,Cafeteria Heavy Duty Commercial Coffee Maker,1,2915.97,2915.97,1
+PO-2026-000391-L04,PO-2026-000391,4,Acoustic Phone Booth Modular Unit,5,6633.08,33165.4,5
+PO-2026-000392-L01,PO-2026-000392,1,Commercial Smart Keyless Access Door Controller,1,1455.28,1455.28,1
+PO-2026-000392-L02,PO-2026-000392,2,Meeting Room Video Conferencing System 4K,50,2936.25,146812.5,50
+PO-2026-000392-L03,PO-2026-000392,3,Cafeteria Heavy Duty Commercial Coffee Maker,5,3044.88,15224.4,5
+PO-2026-000393-L01,PO-2026-000393,1,External Penetration Testing & Red Teaming,2,18370.9,36741.8,2
+PO-2026-000394-L01,PO-2026-000394,1,SLA Incident Management & SRE Escalation,5,5524.61,27623.05,5
+PO-2026-000394-L02,PO-2026-000394,2,Datacenter Preventive Maintenance Contract,5,3070.02,15350.1,5
+PO-2026-000395-L01,PO-2026-000395,1,USB-C Braided Cable Multi-Length Pack,20,77.66,1553.2,20
+PO-2026-000396-L01,PO-2026-000396,1,Expedited Regional Courier Fleet Delivery,1,469.23,469.23,1
+PO-2026-000397-L01,PO-2026-000397,1,Supply Chain Resiliency Strategy Consulting,10,282.3,2823.0,10
+PO-2026-000398-L01,PO-2026-000398,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,245.74,491.48,2
+PO-2026-000398-L02,PO-2026-000398,2,High-Yield Laser Toner Cartridge Multipack,10,267.16,2671.6,10
+PO-2026-000399-L01,PO-2026-000399,1,Enterprise Architecture Strategic Advisory,1,322.31,322.31,1
+PO-2026-000399-L02,PO-2026-000399,2,Regulatory GDPR / CPRA Data Privacy Review,2,316.22,632.44,2
+PO-2026-000400-L01,PO-2026-000400,1,DevOps Migration and Kubernetes Optimization,10,269.9,2699.0,10
+PO-2026-000401-L01,PO-2026-000401,1,Security Shredder Cross-Cut Heavy Duty,1,549.61,549.61,1
+PO-2026-000401-L02,PO-2026-000401,2,Ergonomic Anti-Fatigue Desk Floor Mat,20,93.34,1866.8,20
+PO-2026-000402-L01,PO-2026-000402,1,Meeting Room Video Conferencing System 4K,50,3504.23,175211.5,50
+PO-2026-000402-L02,PO-2026-000402,2,Commercial Smart Keyless Access Door Controller,2,1530.6,3061.2,2
+PO-2026-000403-L01,PO-2026-000403,1,DevOps Migration and Kubernetes Optimization,2,263.73,527.46,2
+PO-2026-000404-L01,PO-2026-000404,1,NVMe Enterprise Storage Array 50TB,2,11572.46,23144.92,2
+PO-2026-000404-L02,PO-2026-000404,2,Developer Workstation Dual GPU 64GB,5,3092.67,15463.35,5
+PO-2026-000405-L01,PO-2026-000405,1,Data Analytics and Visualization Platform Seat,1,1033.78,1033.78,1
+PO-2026-000405-L02,PO-2026-000405,2,Developer IDE Team Suite Subscription,10,454.72,4547.2,10
+PO-2026-000406-L01,PO-2026-000406,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),20,43.19,863.8,20
+PO-2026-000406-L02,PO-2026-000406,2,High-Yield Laser Toner Cartridge Multipack,5,279.45,1397.25,5
+PO-2026-000406-L03,PO-2026-000406,3,Security Shredder Cross-Cut Heavy Duty,5,573.53,2867.65,5
+PO-2026-000406-L04,PO-2026-000406,4,Dry-Erase Magnetic Whiteboard 72x48 with Markers,5,242.2,1211.0,5
+PO-2026-000407-L01,PO-2026-000407,1,Ergonomic Anti-Fatigue Desk Floor Mat,20,89.84,1796.8,20
+PO-2026-000407-L02,PO-2026-000407,2,Dry-Erase Magnetic Whiteboard 72x48 with Markers,5,204.53,1022.65,5
+PO-2026-000408-L01,PO-2026-000408,1,SLA Incident Management & SRE Escalation,5,4659.43,23297.15,5
+PO-2026-000409-L01,PO-2026-000409,1,SLA Incident Management & SRE Escalation,20,4864.66,97293.2,20
+PO-2026-000410-L01,PO-2026-000410,1,Identity Access Management (IAM) SSO License,2,4958.31,9916.62,2
+PO-2026-000410-L02,PO-2026-000410,2,Automated Compliance Monitoring Suite,2,9621.07,19242.14,2
+PO-2026-000411-L01,PO-2026-000411,1,Cybersecurity Endpoint Detection & Response (EDR),1,6012.49,6012.49,1
+PO-2026-000412-L01,PO-2026-000412,1,Bonded Warehouse Storage Pallet Space,2,681.78,1363.56,2
+PO-2026-000412-L02,PO-2026-000412,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,1,1643.46,1643.46,1
+PO-2026-000412-L03,PO-2026-000412,3,Expedited Regional Courier Fleet Delivery,1,439.64,439.64,1
+PO-2026-000412-L04,PO-2026-000412,4,International Express Freight Delivery 500kg,1,2528.42,2528.42,1
+PO-2026-000413-L01,PO-2026-000413,1,AI Model Governance & Ethics Framework Advisory,5,388.85,1944.25,5
+PO-2026-000414-L01,PO-2026-000414,1,USB-C Braided Cable Multi-Length Pack,5,84.65,423.25,5
+PO-2026-000415-L01,PO-2026-000415,1,Enterprise Architecture Strategic Advisory,1,303.27,303.27,1
+PO-2026-000415-L02,PO-2026-000415,2,DevOps Migration and Kubernetes Optimization,1,264.77,264.77,1
+PO-2026-000416-L01,PO-2026-000416,1,Cybersecurity Endpoint Detection & Response (EDR),1,5081.13,5081.13,1
+PO-2026-000417-L01,PO-2026-000417,1,SLA Incident Management & SRE Escalation,2,4819.34,9638.68,2
+PO-2026-000418-L01,PO-2026-000418,1,Commercial Smart Keyless Access Door Controller,2,1417.42,2834.84,2
+PO-2026-000418-L02,PO-2026-000418,2,HEPA Air Filtration Commercial Tower,5,739.71,3698.55,5
+PO-2026-000418-L03,PO-2026-000418,3,LED Low-Glare Architectural Office Lighting Panel,1,445.53,445.53,1
+PO-2026-000418-L04,PO-2026-000418,4,Aeron Ergonomic Lumbar Support Chair,5,1171.88,5859.4,5
+PO-2026-000419-L01,PO-2026-000419,1,Identity Access Management (IAM) SSO License,2,5233.17,10466.34,2
+PO-2026-000420-L01,PO-2026-000420,1,External Penetration Testing & Red Teaming,10,19834.34,198343.4,10
+PO-2026-000421-L01,PO-2026-000421,1,Executive Motorized Standing Desk,1,916.78,916.78,1
+PO-2026-000421-L02,PO-2026-000421,2,Commercial Smart Keyless Access Door Controller,1,1421.17,1421.17,1
+PO-2026-000422-L01,PO-2026-000422,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,50.84,101.68,2
+PO-2026-000422-L02,PO-2026-000422,2,High-Yield Laser Toner Cartridge Multipack,1,248.25,248.25,1
+PO-2026-000423-L01,PO-2026-000423,1,International Express Freight Delivery 500kg,1,2500.93,2500.93,1
+PO-2026-000423-L02,PO-2026-000423,2,Expedited Regional Courier Fleet Delivery,2,468.21,936.42,2
+PO-2026-000424-L01,PO-2026-000424,1,Disaster Recovery Site Warm Standby Service,1,4324.2,4324.2,1
+PO-2026-000425-L01,PO-2026-000425,1,Developer IDE Team Suite Subscription,10,507.42,5074.2,10
+PO-2026-000425-L02,PO-2026-000425,2,Cybersecurity Endpoint Detection & Response (EDR),1,5359.04,5359.04,1
+PO-2026-000425-L03,PO-2026-000425,3,Identity Access Management (IAM) SSO License,1,4491.28,4491.28,1
+PO-2026-000426-L01,PO-2026-000426,1,High-Performance Server Rack 42U,1,7777.19,7777.19,1
+PO-2026-000427-L01,PO-2026-000427,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,5,254.18,1270.9,5
+PO-2026-000427-L02,PO-2026-000427,2,High-Yield Laser Toner Cartridge Multipack,10,288.49,2884.9,10
+PO-2026-000428-L01,PO-2026-000428,1,Compliance ISO 27001 Surveillance Audit,1,15963.17,15963.17,1
+PO-2026-000429-L01,PO-2026-000429,1,Executive Motorized Standing Desk,1,865.58,865.58,1
+PO-2026-000430-L01,PO-2026-000430,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,1,248.72,248.72,1
+PO-2026-000430-L02,PO-2026-000430,2,High-Yield Laser Toner Cartridge Multipack,20,265.15,5303.0,20
+PO-2026-000430-L03,PO-2026-000430,3,USB-C Braided Cable Multi-Length Pack,2,83.69,167.38,2
+PO-2026-000430-L04,PO-2026-000430,4,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),5,46.61,233.05,5
+PO-2026-000431-L01,PO-2026-000431,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,255.25,510.5,2
+PO-2026-000432-L01,PO-2026-000432,1,HEPA Air Filtration Commercial Tower,1,774.86,774.86,1
+PO-2026-000432-L02,PO-2026-000432,2,LED Low-Glare Architectural Office Lighting Panel,1,490.63,490.63,1
+PO-2026-000432-L03,PO-2026-000432,3,Commercial Smart Keyless Access Door Controller,1,1344.28,1344.28,1
+PO-2026-000433-L01,PO-2026-000433,1,Financial Data Pipeline Modernization Consulting,5,272.5,1362.5,5
+PO-2026-000433-L02,PO-2026-000433,2,Regulatory GDPR / CPRA Data Privacy Review,1,274.65,274.65,1
+PO-2026-000433-L03,PO-2026-000433,3,Supply Chain Resiliency Strategy Consulting,2,352.56,705.12,2
+PO-2026-000433-L04,PO-2026-000433,4,AI Model Governance & Ethics Framework Advisory,5,384.54,1922.7,5
+PO-2026-000434-L01,PO-2026-000434,1,Regulatory GDPR / CPRA Data Privacy Review,10,320.47,3204.7,10
+PO-2026-000434-L02,PO-2026-000434,2,Supply Chain Resiliency Strategy Consulting,20,346.84,6936.8,20
+PO-2026-000434-L03,PO-2026-000434,3,DevOps Migration and Kubernetes Optimization,1,274.86,274.86,1
+PO-2026-000435-L01,PO-2026-000435,1,Supply Chain Resiliency Strategy Consulting,1,349.11,349.11,1
+PO-2026-000436-L01,PO-2026-000436,1,Expedited Regional Courier Fleet Delivery,1,422.47,422.47,1
+PO-2026-000436-L02,PO-2026-000436,2,International Express Freight Delivery 500kg,20,2216.06,44321.2,20
+PO-2026-000436-L03,PO-2026-000436,3,Bonded Warehouse Storage Pallet Space,50,714.59,35729.5,50
+PO-2026-000436-L04,PO-2026-000436,4,Temperature-Controlled Secure Transport,2,4163.39,8326.78,2
+PO-2026-000437-L01,PO-2026-000437,1,Compliance ISO 27001 Surveillance Audit,10,12935.33,129353.3,10
+PO-2026-000438-L01,PO-2026-000438,1,External Penetration Testing & Red Teaming,10,20206.83,202068.3,10
+PO-2026-000438-L02,PO-2026-000438,2,24/7 Managed NOC Level-2 Support Service,2,8827.93,17655.86,2
+PO-2026-000438-L03,PO-2026-000438,3,Hardware Lifecycle Replacement Program Support,1,6771.06,6771.06,1
+PO-2026-000438-L04,PO-2026-000438,4,Compliance ISO 27001 Surveillance Audit,2,15329.91,30659.82,2
+PO-2026-000439-L01,PO-2026-000439,1,Cafeteria Heavy Duty Commercial Coffee Maker,2,2656.03,5312.06,2
+PO-2026-000439-L02,PO-2026-000439,2,Acoustic Phone Booth Modular Unit,10,5710.63,57106.3,10
+PO-2026-000440-L01,PO-2026-000440,1,Executive Motorized Standing Desk,1,962.49,962.49,1
+PO-2026-000440-L02,PO-2026-000440,2,Aeron Ergonomic Lumbar Support Chair,1,1083.35,1083.35,1
+PO-2026-000440-L03,PO-2026-000440,3,Cafeteria Heavy Duty Commercial Coffee Maker,1,2920.33,2920.33,1
+PO-2026-000440-L04,PO-2026-000440,4,HEPA Air Filtration Commercial Tower,10,942.77,9427.7,10
+PO-2026-000441-L01,PO-2026-000441,1,Hardware Lifecycle Replacement Program Support,20,7254.33,145086.6,20
+PO-2026-000441-L02,PO-2026-000441,2,Compliance ISO 27001 Surveillance Audit,5,14906.12,74530.6,5
+PO-2026-000442-L01,PO-2026-000442,1,Regulatory GDPR / CPRA Data Privacy Review,1,322.87,322.87,1
+PO-2026-000442-L02,PO-2026-000442,2,Supply Chain Resiliency Strategy Consulting,1,369.23,369.23,1
+PO-2026-000442-L03,PO-2026-000442,3,Financial Data Pipeline Modernization Consulting,2,246.07,492.14,2
+PO-2026-000442-L04,PO-2026-000442,4,AI Model Governance & Ethics Framework Advisory,2,383.14,766.28,2
+PO-2026-000443-L01,PO-2026-000443,1,Hardware Lifecycle Replacement Program Support,1,6678.15,6678.15,1
+PO-2026-000444-L01,PO-2026-000444,1,Ultra-Wide 34-Inch Curved Monitor,2,678.21,1356.42,2
+PO-2026-000444-L02,PO-2026-000444,2,Uninterruptible Power Supply (UPS) 3000VA,50,1455.54,72777.0,50
+PO-2026-000444-L03,PO-2026-000444,3,Ergonomic Keyboard and Precision Mouse Combo,20,203.9,4078.0,20
+PO-2026-000445-L01,PO-2026-000445,1,Meeting Room Video Conferencing System 4K,1,3640.74,3640.74,1
+PO-2026-000445-L02,PO-2026-000445,2,Cafeteria Heavy Duty Commercial Coffee Maker,2,2659.77,5319.54,2
+PO-2026-000446-L01,PO-2026-000446,1,Developer Workstation Dual GPU 64GB,2,3036.88,6073.76,2
+PO-2026-000446-L02,PO-2026-000446,2,Wireless Access Point Wi-Fi 7,2,397.58,795.16,2
+PO-2026-000447-L01,PO-2026-000447,1,Database Management Enterprise Cluster License,1,17155.97,17155.97,1
+PO-2026-000447-L02,PO-2026-000447,2,Code Quality and SAST Security Scanner,20,3764.08,75281.6,20
+PO-2026-000448-L01,PO-2026-000448,1,NVMe Enterprise Storage Array 50TB,2,11843.41,23686.82,2
+PO-2026-000448-L02,PO-2026-000448,2,Ultra-Wide 34-Inch Curved Monitor,2,762.73,1525.46,2
+PO-2026-000449-L01,PO-2026-000449,1,HEPA Air Filtration Commercial Tower,20,805.54,16110.8,20
+PO-2026-000450-L01,PO-2026-000450,1,Customer Data Platform (CDP) Annual Tier,5,15826.79,79133.95,5
+PO-2026-000450-L02,PO-2026-000450,2,Code Quality and SAST Security Scanner,5,4030.66,20153.3,5
+PO-2026-000450-L03,PO-2026-000450,3,Enterprise CI/CD Build Pipeline 50 Runners,1,6817.91,6817.91,1
+PO-2026-000450-L04,PO-2026-000450,4,Database Management Enterprise Cluster License,1,16968.59,16968.59,1
+PO-2026-000451-L01,PO-2026-000451,1,Developer IDE Team Suite Subscription,2,517.29,1034.58,2
+PO-2026-000452-L01,PO-2026-000452,1,High-Performance Server Rack 42U,10,9553.11,95531.1,10
+PO-2026-000453-L01,PO-2026-000453,1,Ultra-Wide 34-Inch Curved Monitor,1,621.53,621.53,1
+PO-2026-000453-L02,PO-2026-000453,2,Wireless Access Point Wi-Fi 7,10,384.19,3841.9,10
+PO-2026-000453-L03,PO-2026-000453,3,NVMe Enterprise Storage Array 50TB,2,11661.13,23322.26,2
+PO-2026-000454-L01,PO-2026-000454,1,Aeron Ergonomic Lumbar Support Chair,10,1209.8,12098.0,10
+PO-2026-000455-L01,PO-2026-000455,1,Acoustic Phone Booth Modular Unit,20,7231.94,144638.8,20
+PO-2026-000455-L02,PO-2026-000455,2,LED Low-Glare Architectural Office Lighting Panel,20,419.45,8389.0,20
+PO-2026-000456-L01,PO-2026-000456,1,Financial Data Pipeline Modernization Consulting,1,233.87,233.87,1
+PO-2026-000456-L02,PO-2026-000456,2,DevOps Migration and Kubernetes Optimization,2,303.56,607.12,2
+PO-2026-000456-L03,PO-2026-000456,3,Supply Chain Resiliency Strategy Consulting,1,300.13,300.13,1
+PO-2026-000456-L04,PO-2026-000456,4,Enterprise Architecture Strategic Advisory,1,405.38,405.38,1
+PO-2026-000457-L01,PO-2026-000457,1,Executive Motorized Standing Desk,20,872.22,17444.4,20
+PO-2026-000457-L02,PO-2026-000457,2,Acoustic Phone Booth Modular Unit,1,6689.8,6689.8,1
+PO-2026-000457-L03,PO-2026-000457,3,Commercial Smart Keyless Access Door Controller,10,1451.43,14514.3,10
+PO-2026-000458-L01,PO-2026-000458,1,Enterprise Architecture Strategic Advisory,20,402.58,8051.6,20
+PO-2026-000458-L02,PO-2026-000458,2,Supply Chain Resiliency Strategy Consulting,2,302.31,604.62,2
+PO-2026-000458-L03,PO-2026-000458,3,Regulatory GDPR / CPRA Data Privacy Review,10,315.83,3158.3,10
+PO-2026-000459-L01,PO-2026-000459,1,Uninterruptible Power Supply (UPS) 3000VA,2,1505.91,3011.82,2
+PO-2026-000460-L01,PO-2026-000460,1,Datacenter Preventive Maintenance Contract,5,2875.86,14379.3,5
+PO-2026-000461-L01,PO-2026-000461,1,Hardware Lifecycle Replacement Program Support,50,7294.57,364728.5,50
+PO-2026-000462-L01,PO-2026-000462,1,Cafeteria Heavy Duty Commercial Coffee Maker,20,2512.6,50252.0,20
+PO-2026-000463-L01,PO-2026-000463,1,AI Model Governance & Ethics Framework Advisory,2,422.74,845.48,2
+PO-2026-000463-L02,PO-2026-000463,2,DevOps Migration and Kubernetes Optimization,2,261.5,523.0,2
+PO-2026-000464-L01,PO-2026-000464,1,Commercial Smart Keyless Access Door Controller,5,1606.9,8034.5,5
+PO-2026-000465-L01,PO-2026-000465,1,Database Management Enterprise Cluster License,1,16740.39,16740.39,1
+PO-2026-000465-L02,PO-2026-000465,2,Developer IDE Team Suite Subscription,5,480.21,2401.05,5
+PO-2026-000466-L01,PO-2026-000466,1,Dedicated White-Glove On-Site Unpacking & Rack Mount,5,1442.75,7213.75,5
+PO-2026-000466-L02,PO-2026-000466,2,International Express Freight Delivery 500kg,2,2285.7,4571.4,2
+PO-2026-000467-L01,PO-2026-000467,1,Database Management Enterprise Cluster License,50,17088.44,854422.0,50
+PO-2026-000467-L02,PO-2026-000467,2,Code Quality and SAST Security Scanner,10,3779.14,37791.4,10
+PO-2026-000468-L01,PO-2026-000468,1,Executive Stationery & Meeting Pad Bundle,1,64.63,64.63,1
+PO-2026-000469-L01,PO-2026-000469,1,Meeting Room Video Conferencing System 4K,5,3215.19,16075.95,5
+PO-2026-000469-L02,PO-2026-000469,2,HEPA Air Filtration Commercial Tower,1,835.64,835.64,1
+PO-2026-000469-L03,PO-2026-000469,3,Acoustic Phone Booth Modular Unit,5,5762.87,28814.35,5
+PO-2026-000470-L01,PO-2026-000470,1,Ultra-Wide 34-Inch Curved Monitor,20,679.05,13581.0,20
+PO-2026-000470-L02,PO-2026-000470,2,Ergonomic Keyboard and Precision Mouse Combo,1,172.53,172.53,1
+PO-2026-000470-L03,PO-2026-000470,3,High-Performance Server Rack 42U,5,8240.51,41202.55,5
+PO-2026-000471-L01,PO-2026-000471,1,External Penetration Testing & Red Teaming,1,16293.28,16293.28,1
+PO-2026-000472-L01,PO-2026-000472,1,Database Management Enterprise Cluster License,1,18431.78,18431.78,1
+PO-2026-000473-L01,PO-2026-000473,1,High-Performance Server Rack 42U,10,8077.83,80778.3,10
+PO-2026-000473-L02,PO-2026-000473,2,Ergonomic Keyboard and Precision Mouse Combo,1,184.53,184.53,1
+PO-2026-000473-L03,PO-2026-000473,3,Wireless Access Point Wi-Fi 7,1,415.48,415.48,1
+PO-2026-000473-L04,PO-2026-000473,4,NVMe Enterprise Storage Array 50TB,1,12555.07,12555.07,1
+PO-2026-000474-L01,PO-2026-000474,1,Expedited Regional Courier Fleet Delivery,1,499.13,499.13,1
+PO-2026-000474-L02,PO-2026-000474,2,Temperature-Controlled Secure Transport,1,3655.22,3655.22,1
+PO-2026-000475-L01,PO-2026-000475,1,Bonded Warehouse Storage Pallet Space,2,701.91,1403.82,2
+PO-2026-000475-L02,PO-2026-000475,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,5,1573.62,7868.1,5
+PO-2026-000476-L01,PO-2026-000476,1,DevOps Migration and Kubernetes Optimization,10,267.35,2673.5,10
+PO-2026-000476-L02,PO-2026-000476,2,Financial Data Pipeline Modernization Consulting,20,273.77,5475.4,20
+PO-2026-000476-L03,PO-2026-000476,3,AI Model Governance & Ethics Framework Advisory,5,393.91,1969.55,5
+PO-2026-000476-L04,PO-2026-000476,4,Enterprise Architecture Strategic Advisory,1,398.06,398.06,1
+PO-2026-000477-L01,PO-2026-000477,1,24/7 Managed NOC Level-2 Support Service,20,7899.63,157992.6,20
+PO-2026-000478-L01,PO-2026-000478,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,20,220.56,4411.2,20
+PO-2026-000479-L01,PO-2026-000479,1,Disaster Recovery Site Warm Standby Service,2,3945.67,7891.34,2
+PO-2026-000480-L01,PO-2026-000480,1,Dedicated White-Glove On-Site Unpacking & Rack Mount,5,1519.94,7599.7,5
+PO-2026-000480-L02,PO-2026-000480,2,Bonded Warehouse Storage Pallet Space,2,630.87,1261.74,2
+PO-2026-000480-L03,PO-2026-000480,3,Expedited Regional Courier Fleet Delivery,20,462.68,9253.6,20
+PO-2026-000481-L01,PO-2026-000481,1,DevOps Migration and Kubernetes Optimization,5,257.96,1289.8,5
+PO-2026-000481-L02,PO-2026-000481,2,Regulatory GDPR / CPRA Data Privacy Review,2,299.34,598.68,2
+PO-2026-000481-L03,PO-2026-000481,3,Enterprise Architecture Strategic Advisory,2,365.45,730.9,2
+PO-2026-000482-L01,PO-2026-000482,1,Bonded Warehouse Storage Pallet Space,5,747.35,3736.75,5
+PO-2026-000482-L02,PO-2026-000482,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,5,1393.3,6966.5,5
+PO-2026-000483-L01,PO-2026-000483,1,Regulatory GDPR / CPRA Data Privacy Review,10,294.03,2940.3,10
+PO-2026-000483-L02,PO-2026-000483,2,Financial Data Pipeline Modernization Consulting,2,231.63,463.26,2
+PO-2026-000484-L01,PO-2026-000484,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,1,217.51,217.51,1
+PO-2026-000484-L02,PO-2026-000484,2,High-Yield Laser Toner Cartridge Multipack,1,284.88,284.88,1
+PO-2026-000485-L01,PO-2026-000485,1,Executive Stationery & Meeting Pad Bundle,1,57.98,57.98,1
+PO-2026-000485-L02,PO-2026-000485,2,Ergonomic Anti-Fatigue Desk Floor Mat,10,95.14,951.4,10
+PO-2026-000486-L01,PO-2026-000486,1,Cafeteria Heavy Duty Commercial Coffee Maker,1,2815.19,2815.19,1
+PO-2026-000487-L01,PO-2026-000487,1,Automated Compliance Monitoring Suite,1,8265.36,8265.36,1
+PO-2026-000488-L01,PO-2026-000488,1,Bonded Warehouse Storage Pallet Space,20,701.77,14035.4,20
+PO-2026-000489-L01,PO-2026-000489,1,High-Yield Laser Toner Cartridge Multipack,10,319.01,3190.1,10
+PO-2026-000489-L02,PO-2026-000489,2,USB-C Braided Cable Multi-Length Pack,2,81.94,163.88,2
+PO-2026-000490-L01,PO-2026-000490,1,Expedited Regional Courier Fleet Delivery,5,458.87,2294.35,5
+PO-2026-000490-L02,PO-2026-000490,2,International Express Freight Delivery 500kg,50,2711.6,135580.0,50
+PO-2026-000491-L01,PO-2026-000491,1,Enterprise Core Switch 48-Port 10GbE,2,4900.97,9801.94,2
+PO-2026-000492-L01,PO-2026-000492,1,AI Inference Accelerator Card PCIe,1,10540.04,10540.04,1
+PO-2026-000492-L02,PO-2026-000492,2,Developer Workstation Dual GPU 64GB,2,3163.6,6327.2,2
+PO-2026-000492-L03,PO-2026-000492,3,Thunderbolt 4 Docking Station Dual Display,2,228.53,457.06,2
+PO-2026-000492-L04,PO-2026-000492,4,High-Performance Server Rack 42U,1,8245.92,8245.92,1
+PO-2026-000493-L01,PO-2026-000493,1,SLA Incident Management & SRE Escalation,2,4869.01,9738.02,2
+PO-2026-000494-L01,PO-2026-000494,1,HEPA Air Filtration Commercial Tower,20,723.77,14475.4,20
+PO-2026-000494-L02,PO-2026-000494,2,Aeron Ergonomic Lumbar Support Chair,1,1101.48,1101.48,1
+PO-2026-000495-L01,PO-2026-000495,1,External Penetration Testing & Red Teaming,1,20004.24,20004.24,1
+PO-2026-000496-L01,PO-2026-000496,1,AI Inference Accelerator Card PCIe,5,9634.65,48173.25,5
+PO-2026-000496-L02,PO-2026-000496,2,Ergonomic Keyboard and Precision Mouse Combo,2,173.38,346.76,2
+PO-2026-000497-L01,PO-2026-000497,1,Uninterruptible Power Supply (UPS) 3000VA,1,1500.32,1500.32,1
+PO-2026-000498-L01,PO-2026-000498,1,Financial Data Pipeline Modernization Consulting,10,222.78,2227.8,10
+PO-2026-000499-L01,PO-2026-000499,1,Regulatory GDPR / CPRA Data Privacy Review,50,301.92,15096.0,50
+PO-2026-000500-L01,PO-2026-000500,1,Thunderbolt 4 Docking Station Dual Display,20,238.76,4775.2,20
+PO-2026-000500-L02,PO-2026-000500,2,Developer Workstation Dual GPU 64GB,5,2868.51,14342.55,5
+PO-2026-000501-L01,PO-2026-000501,1,Ergonomic Keyboard and Precision Mouse Combo,1,188.08,188.08,1
+PO-2026-000502-L01,PO-2026-000502,1,AI Model Governance & Ethics Framework Advisory,1,389.95,389.95,1
+PO-2026-000502-L02,PO-2026-000502,2,Regulatory GDPR / CPRA Data Privacy Review,2,289.62,579.24,2
+PO-2026-000503-L01,PO-2026-000503,1,Wireless Access Point Wi-Fi 7,1,408.6,408.6,1
+PO-2026-000504-L01,PO-2026-000504,1,Data Analytics and Visualization Platform Seat,1,1220.93,1220.93,1
+PO-2026-000505-L01,PO-2026-000505,1,Regulatory GDPR / CPRA Data Privacy Review,1,286.97,286.97,1
+PO-2026-000505-L02,PO-2026-000505,2,Financial Data Pipeline Modernization Consulting,1,252.02,252.02,1
+PO-2026-000505-L03,PO-2026-000505,3,DevOps Migration and Kubernetes Optimization,2,276.52,553.04,2
+PO-2026-000506-L01,PO-2026-000506,1,AI Model Governance & Ethics Framework Advisory,1,413.24,413.24,1
+PO-2026-000506-L02,PO-2026-000506,2,Regulatory GDPR / CPRA Data Privacy Review,2,311.76,623.52,2
+PO-2026-000507-L01,PO-2026-000507,1,Executive Stationery & Meeting Pad Bundle,1,63.69,63.69,1
+PO-2026-000508-L01,PO-2026-000508,1,AI Model Governance & Ethics Framework Advisory,1,393.42,393.42,1
+PO-2026-000509-L01,PO-2026-000509,1,Enterprise Architecture Strategic Advisory,1,342.94,342.94,1
+PO-2026-000510-L01,PO-2026-000510,1,Security Shredder Cross-Cut Heavy Duty,1,576.65,576.65,1
+PO-2026-000511-L01,PO-2026-000511,1,SLA Incident Management & SRE Escalation,20,5195.41,103908.2,20
+PO-2026-000512-L01,PO-2026-000512,1,Financial Data Pipeline Modernization Consulting,2,247.14,494.28,2
+PO-2026-000512-L02,PO-2026-000512,2,Regulatory GDPR / CPRA Data Privacy Review,5,309.0,1545.0,5
+PO-2026-000513-L01,PO-2026-000513,1,Developer IDE Team Suite Subscription,2,462.56,925.12,2
+PO-2026-000514-L01,PO-2026-000514,1,Meeting Room Video Conferencing System 4K,1,3510.33,3510.33,1
+PO-2026-000514-L02,PO-2026-000514,2,HEPA Air Filtration Commercial Tower,2,778.05,1556.1,2
+PO-2026-000515-L01,PO-2026-000515,1,Bonded Warehouse Storage Pallet Space,50,624.09,31204.5,50
+PO-2026-000516-L01,PO-2026-000516,1,Data Analytics and Visualization Platform Seat,2,1217.63,2435.26,2
+PO-2026-000517-L01,PO-2026-000517,1,Expedited Regional Courier Fleet Delivery,2,453.24,906.48,2
+PO-2026-000517-L02,PO-2026-000517,2,Temperature-Controlled Secure Transport,1,3856.43,3856.43,1
+PO-2026-000518-L01,PO-2026-000518,1,Supply Chain Resiliency Strategy Consulting,1,329.47,329.47,1
+PO-2026-000518-L02,PO-2026-000518,2,Enterprise Architecture Strategic Advisory,2,336.9,673.8,2
+PO-2026-000518-L03,PO-2026-000518,3,DevOps Migration and Kubernetes Optimization,1,286.6,286.6,1
+PO-2026-000519-L01,PO-2026-000519,1,DevOps Migration and Kubernetes Optimization,1,271.96,271.96,1
+PO-2026-000519-L02,PO-2026-000519,2,Regulatory GDPR / CPRA Data Privacy Review,2,298.21,596.42,2
+PO-2026-000519-L03,PO-2026-000519,3,Supply Chain Resiliency Strategy Consulting,10,305.23,3052.3,10
+PO-2026-000520-L01,PO-2026-000520,1,SLA Incident Management & SRE Escalation,1,4986.72,4986.72,1
+PO-2026-000520-L02,PO-2026-000520,2,Annual Cloud Architecture Security Review,1,6212.7,6212.7,1
+PO-2026-000521-L01,PO-2026-000521,1,Supply Chain Resiliency Strategy Consulting,1,307.04,307.04,1
+PO-2026-000522-L01,PO-2026-000522,1,Financial Data Pipeline Modernization Consulting,1,252.1,252.1,1
+PO-2026-000522-L02,PO-2026-000522,2,Regulatory GDPR / CPRA Data Privacy Review,5,310.27,1551.35,5
+PO-2026-000523-L01,PO-2026-000523,1,Expedited Regional Courier Fleet Delivery,5,462.91,2314.55,5
+PO-2026-000524-L01,PO-2026-000524,1,Regulatory GDPR / CPRA Data Privacy Review,5,303.22,1516.1,5
+PO-2026-000525-L01,PO-2026-000525,1,Cybersecurity Endpoint Detection & Response (EDR),1,5437.38,5437.38,1
+PO-2026-000525-L02,PO-2026-000525,2,Cloud Infrastructure Tier-1 Annual Subscription,10,23377.12,233771.2,10
+PO-2026-000526-L01,PO-2026-000526,1,Thunderbolt 4 Docking Station Dual Display,5,236.68,1183.4,5
+PO-2026-000526-L02,PO-2026-000526,2,Ergonomic Keyboard and Precision Mouse Combo,20,172.52,3450.4,20
+PO-2026-000527-L01,PO-2026-000527,1,Expedited Regional Courier Fleet Delivery,2,468.66,937.32,2
+PO-2026-000528-L01,PO-2026-000528,1,DevOps Migration and Kubernetes Optimization,1,265.7,265.7,1
+PO-2026-000529-L01,PO-2026-000529,1,HEPA Air Filtration Commercial Tower,50,838.69,41934.5,50
+PO-2026-000529-L02,PO-2026-000529,2,Cafeteria Heavy Duty Commercial Coffee Maker,2,2723.36,5446.72,2
+PO-2026-000529-L03,PO-2026-000529,3,LED Low-Glare Architectural Office Lighting Panel,10,451.61,4516.1,10
+PO-2026-000529-L04,PO-2026-000529,4,Executive Motorized Standing Desk,2,930.98,1861.96,2
+PO-2026-000530-L01,PO-2026-000530,1,Ergonomic Keyboard and Precision Mouse Combo,2,176.46,352.92,2
+PO-2026-000531-L01,PO-2026-000531,1,Enterprise CI/CD Build Pipeline 50 Runners,5,7060.08,35300.4,5
+PO-2026-000532-L01,PO-2026-000532,1,External Penetration Testing & Red Teaming,1,18720.96,18720.96,1
+PO-2026-000532-L02,PO-2026-000532,2,24/7 Managed NOC Level-2 Support Service,1,8475.85,8475.85,1
+PO-2026-000533-L01,PO-2026-000533,1,USB-C Braided Cable Multi-Length Pack,5,84.62,423.1,5
+PO-2026-000534-L01,PO-2026-000534,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),1,45.73,45.73,1
+PO-2026-000535-L01,PO-2026-000535,1,Executive Stationery & Meeting Pad Bundle,2,62.69,125.38,2
+PO-2026-000536-L01,PO-2026-000536,1,International Express Freight Delivery 500kg,5,2318.1,11590.5,5
+PO-2026-000536-L02,PO-2026-000536,2,Temperature-Controlled Secure Transport,2,3682.48,7364.96,2
+PO-2026-000537-L01,PO-2026-000537,1,Supply Chain Resiliency Strategy Consulting,5,316.12,1580.6,5
+PO-2026-000538-L01,PO-2026-000538,1,Expedited Regional Courier Fleet Delivery,10,432.51,4325.1,10
+PO-2026-000538-L02,PO-2026-000538,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,20,1561.99,31239.8,20
+PO-2026-000539-L01,PO-2026-000539,1,Regulatory GDPR / CPRA Data Privacy Review,1,310.54,310.54,1
+PO-2026-000539-L02,PO-2026-000539,2,AI Model Governance & Ethics Framework Advisory,2,405.25,810.5,2
+PO-2026-000539-L03,PO-2026-000539,3,Enterprise Architecture Strategic Advisory,1,345.85,345.85,1
+PO-2026-000539-L04,PO-2026-000539,4,DevOps Migration and Kubernetes Optimization,2,272.26,544.52,2
+PO-2026-000540-L01,PO-2026-000540,1,DevOps Migration and Kubernetes Optimization,1,271.32,271.32,1
+PO-2026-000541-L01,PO-2026-000541,1,USB-C Braided Cable Multi-Length Pack,2,82.75,165.5,2
+PO-2026-000541-L02,PO-2026-000541,2,High-Yield Laser Toner Cartridge Multipack,5,280.81,1404.05,5
+PO-2026-000542-L01,PO-2026-000542,1,Disaster Recovery Site Warm Standby Service,2,4315.5,8631.0,2
+PO-2026-000543-L01,PO-2026-000543,1,Automated Compliance Monitoring Suite,2,9325.48,18650.96,2
+PO-2026-000543-L02,PO-2026-000543,2,Cybersecurity Endpoint Detection & Response (EDR),5,5144.56,25722.8,5
+PO-2026-000543-L03,PO-2026-000543,3,Database Management Enterprise Cluster License,1,18874.32,18874.32,1
+PO-2026-000543-L04,PO-2026-000543,4,Cloud Infrastructure Tier-1 Annual Subscription,5,23282.86,116414.3,5
+PO-2026-000544-L01,PO-2026-000544,1,Ergonomic Anti-Fatigue Desk Floor Mat,2,99.1,198.2,2
+PO-2026-000544-L02,PO-2026-000544,2,High-Yield Laser Toner Cartridge Multipack,2,276.02,552.04,2
+PO-2026-000544-L03,PO-2026-000544,3,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,43.41,86.82,2
+PO-2026-000545-L01,PO-2026-000545,1,Acoustic Phone Booth Modular Unit,2,5972.8,11945.6,2
+PO-2026-000546-L01,PO-2026-000546,1,Executive Motorized Standing Desk,1,988.69,988.69,1
+PO-2026-000547-L01,PO-2026-000547,1,Commercial Smart Keyless Access Door Controller,1,1500.77,1500.77,1
+PO-2026-000548-L01,PO-2026-000548,1,Annual Cloud Architecture Security Review,1,6804.39,6804.39,1
+PO-2026-000549-L01,PO-2026-000549,1,Ultra-Wide 34-Inch Curved Monitor,5,655.41,3277.05,5
+PO-2026-000550-L01,PO-2026-000550,1,AI Model Governance & Ethics Framework Advisory,1,400.37,400.37,1
+PO-2026-000551-L01,PO-2026-000551,1,Automated Compliance Monitoring Suite,5,8585.63,42928.15,5
+PO-2026-000551-L02,PO-2026-000551,2,Identity Access Management (IAM) SSO License,5,4474.5,22372.5,5
+PO-2026-000552-L01,PO-2026-000552,1,Uninterruptible Power Supply (UPS) 3000VA,1,1522.34,1522.34,1
+PO-2026-000552-L02,PO-2026-000552,2,AI Inference Accelerator Card PCIe,2,10198.45,20396.9,2
+PO-2026-000553-L01,PO-2026-000553,1,Enterprise Architecture Strategic Advisory,1,354.25,354.25,1
+PO-2026-000554-L01,PO-2026-000554,1,Aeron Ergonomic Lumbar Support Chair,1,1168.84,1168.84,1
+PO-2026-000555-L01,PO-2026-000555,1,External Penetration Testing & Red Teaming,5,18483.56,92417.8,5
+PO-2026-000555-L02,PO-2026-000555,2,Annual Cloud Architecture Security Review,2,6178.48,12356.96,2
+PO-2026-000556-L01,PO-2026-000556,1,Security Shredder Cross-Cut Heavy Duty,2,567.42,1134.84,2
+PO-2026-000557-L01,PO-2026-000557,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,42.89,85.78,2
+PO-2026-000558-L01,PO-2026-000558,1,Expedited Regional Courier Fleet Delivery,1,433.67,433.67,1
+PO-2026-000559-L01,PO-2026-000559,1,AI Model Governance & Ethics Framework Advisory,2,417.68,835.36,2
+PO-2026-000560-L01,PO-2026-000560,1,High-Yield Laser Toner Cartridge Multipack,10,269.33,2693.3,10
+PO-2026-000561-L01,PO-2026-000561,1,Wireless Access Point Wi-Fi 7,2,400.18,800.36,2
+PO-2026-000562-L01,PO-2026-000562,1,DevOps Migration and Kubernetes Optimization,20,275.6,5512.0,20
+PO-2026-000562-L02,PO-2026-000562,2,Enterprise Architecture Strategic Advisory,1,342.9,342.9,1
+PO-2026-000562-L03,PO-2026-000562,3,Supply Chain Resiliency Strategy Consulting,2,319.14,638.28,2
+PO-2026-000563-L01,PO-2026-000563,1,Ergonomic Anti-Fatigue Desk Floor Mat,5,98.22,491.1,5
+PO-2026-000564-L01,PO-2026-000564,1,Enterprise Architecture Strategic Advisory,1,340.02,340.02,1
+PO-2026-000564-L02,PO-2026-000564,2,DevOps Migration and Kubernetes Optimization,1,287.67,287.67,1
+PO-2026-000565-L01,PO-2026-000565,1,HEPA Air Filtration Commercial Tower,1,790.41,790.41,1
+PO-2026-000565-L02,PO-2026-000565,2,Executive Motorized Standing Desk,1,989.11,989.11,1
+PO-2026-000566-L01,PO-2026-000566,1,Enterprise Architecture Strategic Advisory,2,352.06,704.12,2
+PO-2026-000567-L01,PO-2026-000567,1,Security Shredder Cross-Cut Heavy Duty,20,559.04,11180.8,20
+PO-2026-000568-L01,PO-2026-000568,1,Temperature-Controlled Secure Transport,1,3693.84,3693.84,1
+PO-2026-000568-L02,PO-2026-000568,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,1,1446.61,1446.61,1
+PO-2026-000569-L01,PO-2026-000569,1,Enterprise Architecture Strategic Advisory,5,345.14,1725.7,5
+PO-2026-000570-L01,PO-2026-000570,1,USB-C Braided Cable Multi-Length Pack,1,88.35,88.35,1
+PO-2026-000570-L02,PO-2026-000570,2,Dry-Erase Magnetic Whiteboard 72x48 with Markers,5,227.81,1139.05,5
+PO-2026-000571-L01,PO-2026-000571,1,Financial Data Pipeline Modernization Consulting,10,242.93,2429.3,10
+PO-2026-000572-L01,PO-2026-000572,1,Automated Compliance Monitoring Suite,20,9241.7,184834.0,20
+PO-2026-000572-L02,PO-2026-000572,2,Database Management Enterprise Cluster License,10,18381.48,183814.8,10
+PO-2026-000572-L03,PO-2026-000572,3,Cybersecurity Endpoint Detection & Response (EDR),5,5352.97,26764.85,5
+PO-2026-000572-L04,PO-2026-000572,4,Data Analytics and Visualization Platform Seat,10,1180.99,11809.9,10
+PO-2026-000573-L01,PO-2026-000573,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,45.68,91.36,2
+PO-2026-000573-L02,PO-2026-000573,2,Ergonomic Anti-Fatigue Desk Floor Mat,1,96.21,96.21,1
+PO-2026-000574-L01,PO-2026-000574,1,LED Low-Glare Architectural Office Lighting Panel,2,464.87,929.74,2
+PO-2026-000575-L01,PO-2026-000575,1,USB-C Braided Cable Multi-Length Pack,1,83.54,83.54,1
+PO-2026-000575-L02,PO-2026-000575,2,Executive Stationery & Meeting Pad Bundle,1,65.53,65.53,1
+PO-2026-000576-L01,PO-2026-000576,1,Ergonomic Anti-Fatigue Desk Floor Mat,20,98.94,1978.8,20
+PO-2026-000577-L01,PO-2026-000577,1,Wireless Access Point Wi-Fi 7,1,414.55,414.55,1
+PO-2026-000578-L01,PO-2026-000578,1,HEPA Air Filtration Commercial Tower,50,838.46,41923.0,50
+PO-2026-000579-L01,PO-2026-000579,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,1,230.78,230.78,1
+PO-2026-000580-L01,PO-2026-000580,1,Cloud Infrastructure Tier-1 Annual Subscription,1,23058.55,23058.55,1
+PO-2026-000580-L02,PO-2026-000580,2,Database Management Enterprise Cluster License,1,18273.88,18273.88,1
+PO-2026-000581-L01,PO-2026-000581,1,DevOps Migration and Kubernetes Optimization,1,267.54,267.54,1
+PO-2026-000582-L01,PO-2026-000582,1,DevOps Migration and Kubernetes Optimization,2,281.34,562.68,2
+PO-2026-000582-L02,PO-2026-000582,2,AI Model Governance & Ethics Framework Advisory,2,411.2,822.4,2
+PO-2026-000583-L01,PO-2026-000583,1,AI Model Governance & Ethics Framework Advisory,1,388.75,388.75,1
+PO-2026-000584-L01,PO-2026-000584,1,Ergonomic Keyboard and Precision Mouse Combo,2,173.1,346.2,2
+PO-2026-000585-L01,PO-2026-000585,1,Executive Stationery & Meeting Pad Bundle,2,64.03,128.06,2
+PO-2026-000585-L02,PO-2026-000585,2,USB-C Braided Cable Multi-Length Pack,20,85.66,1713.2,20
+PO-2026-000586-L01,PO-2026-000586,1,Financial Data Pipeline Modernization Consulting,1,249.07,249.07,1
+PO-2026-000587-L01,PO-2026-000587,1,AI Model Governance & Ethics Framework Advisory,5,385.6,1928.0,5
+PO-2026-000588-L01,PO-2026-000588,1,Meeting Room Video Conferencing System 4K,1,3286.1,3286.1,1
+PO-2026-000588-L02,PO-2026-000588,2,Acoustic Phone Booth Modular Unit,20,5981.87,119637.4,20
+PO-2026-000589-L01,PO-2026-000589,1,Temperature-Controlled Secure Transport,20,3983.92,79678.4,20
+PO-2026-000589-L02,PO-2026-000589,2,Bonded Warehouse Storage Pallet Space,5,654.78,3273.9,5
+PO-2026-000590-L01,PO-2026-000590,1,Ultra-Wide 34-Inch Curved Monitor,50,660.58,33029.0,50
+PO-2026-000591-L01,PO-2026-000591,1,Developer IDE Team Suite Subscription,5,464.79,2323.95,5
+PO-2026-000592-L01,PO-2026-000592,1,USB-C Braided Cable Multi-Length Pack,2,89.17,178.34,2
+PO-2026-000592-L02,PO-2026-000592,2,Security Shredder Cross-Cut Heavy Duty,1,571.41,571.41,1
+PO-2026-000593-L01,PO-2026-000593,1,Acoustic Phone Booth Modular Unit,1,6435.71,6435.71,1
+PO-2026-000593-L02,PO-2026-000593,2,Commercial Smart Keyless Access Door Controller,5,1493.82,7469.1,5
+PO-2026-000594-L01,PO-2026-000594,1,Security Shredder Cross-Cut Heavy Duty,1,556.31,556.31,1
+PO-2026-000594-L02,PO-2026-000594,2,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),5,45.74,228.7,5
+PO-2026-000595-L01,PO-2026-000595,1,Ergonomic Anti-Fatigue Desk Floor Mat,1,90.3,90.3,1
+PO-2026-000596-L01,PO-2026-000596,1,NVMe Enterprise Storage Array 50TB,1,12344.48,12344.48,1
+PO-2026-000596-L02,PO-2026-000596,2,High-Performance Server Rack 42U,1,8345.13,8345.13,1
+PO-2026-000597-L01,PO-2026-000597,1,Executive Motorized Standing Desk,2,940.19,1880.38,2
+PO-2026-000598-L01,PO-2026-000598,1,Executive Stationery & Meeting Pad Bundle,10,67.58,675.8,10
+PO-2026-000598-L02,PO-2026-000598,2,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,45.83,91.66,2
+PO-2026-000599-L01,PO-2026-000599,1,Security Shredder Cross-Cut Heavy Duty,1,598.33,598.33,1
+PO-2026-000599-L02,PO-2026-000599,2,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,226.67,453.34,2
+PO-2026-000600-L01,PO-2026-000600,1,24/7 Managed NOC Level-2 Support Service,10,8801.51,88015.1,10
+PO-2026-000601-L01,PO-2026-000601,1,AI Model Governance & Ethics Framework Advisory,2,388.93,777.86,2
+PO-2026-000601-L02,PO-2026-000601,2,Regulatory GDPR / CPRA Data Privacy Review,2,313.7,627.4,2
+PO-2026-000601-L03,PO-2026-000601,3,Financial Data Pipeline Modernization Consulting,1,251.0,251.0,1
+PO-2026-000602-L01,PO-2026-000602,1,Cloud Infrastructure Tier-1 Annual Subscription,10,24351.68,243516.8,10
+PO-2026-000602-L02,PO-2026-000602,2,Developer IDE Team Suite Subscription,2,456.76,913.52,2
+PO-2026-000602-L03,PO-2026-000602,3,Code Quality and SAST Security Scanner,1,3972.62,3972.62,1
+PO-2026-000602-L04,PO-2026-000602,4,Automated Compliance Monitoring Suite,1,9002.98,9002.98,1
+PO-2026-000603-L01,PO-2026-000603,1,Datacenter Preventive Maintenance Contract,2,3150.52,6301.04,2
+PO-2026-000604-L01,PO-2026-000604,1,Enterprise CI/CD Build Pipeline 50 Runners,2,7453.95,14907.9,2
+PO-2026-000605-L01,PO-2026-000605,1,Code Quality and SAST Security Scanner,2,3688.8,7377.6,2
+PO-2026-000606-L01,PO-2026-000606,1,Cloud Infrastructure Tier-1 Annual Subscription,2,23155.37,46310.74,2
+PO-2026-000606-L02,PO-2026-000606,2,Data Analytics and Visualization Platform Seat,5,1232.81,6164.05,5
+PO-2026-000606-L03,PO-2026-000606,3,Cybersecurity Endpoint Detection & Response (EDR),1,5194.7,5194.7,1
+PO-2026-000606-L04,PO-2026-000606,4,Database Management Enterprise Cluster License,5,17376.48,86882.4,5
+PO-2026-000607-L01,PO-2026-000607,1,LED Low-Glare Architectural Office Lighting Panel,2,429.23,858.46,2
+PO-2026-000607-L02,PO-2026-000607,2,Cafeteria Heavy Duty Commercial Coffee Maker,5,2684.53,13422.65,5
+PO-2026-000608-L01,PO-2026-000608,1,Commercial Smart Keyless Access Door Controller,2,1425.0,2850.0,2
+PO-2026-000608-L02,PO-2026-000608,2,LED Low-Glare Architectural Office Lighting Panel,5,449.74,2248.7,5
+PO-2026-000609-L01,PO-2026-000609,1,Ergonomic Keyboard and Precision Mouse Combo,5,185.85,929.25,5
+PO-2026-000609-L02,PO-2026-000609,2,AI Inference Accelerator Card PCIe,2,9513.56,19027.12,2
+PO-2026-000610-L01,PO-2026-000610,1,Cybersecurity Endpoint Detection & Response (EDR),5,5588.11,27940.55,5
+PO-2026-000610-L02,PO-2026-000610,2,Code Quality and SAST Security Scanner,50,3867.24,193362.0,50
+PO-2026-000611-L01,PO-2026-000611,1,High-Performance Server Rack 42U,10,8559.75,85597.5,10
+PO-2026-000612-L01,PO-2026-000612,1,HEPA Air Filtration Commercial Tower,1,796.67,796.67,1
+PO-2026-000612-L02,PO-2026-000612,2,Aeron Ergonomic Lumbar Support Chair,50,1107.46,55373.0,50
+PO-2026-000613-L01,PO-2026-000613,1,Hardware Lifecycle Replacement Program Support,1,7447.7,7447.7,1
+PO-2026-000614-L01,PO-2026-000614,1,Ergonomic Keyboard and Precision Mouse Combo,20,188.61,3772.2,20
+PO-2026-000614-L02,PO-2026-000614,2,Ultra-Wide 34-Inch Curved Monitor,1,676.51,676.51,1
+PO-2026-000615-L01,PO-2026-000615,1,DevOps Migration and Kubernetes Optimization,1,282.01,282.01,1
+PO-2026-000615-L02,PO-2026-000615,2,Financial Data Pipeline Modernization Consulting,2,246.64,493.28,2
+PO-2026-000615-L03,PO-2026-000615,3,Enterprise Architecture Strategic Advisory,2,347.17,694.34,2
+PO-2026-000616-L01,PO-2026-000616,1,Ergonomic Keyboard and Precision Mouse Combo,10,174.09,1740.9,10
+PO-2026-000616-L02,PO-2026-000616,2,AI Inference Accelerator Card PCIe,5,9315.99,46579.95,5
+PO-2026-000616-L03,PO-2026-000616,3,Wireless Access Point Wi-Fi 7,1,408.97,408.97,1
+PO-2026-000616-L04,PO-2026-000616,4,Thunderbolt 4 Docking Station Dual Display,20,243.64,4872.8,20
+PO-2026-000617-L01,PO-2026-000617,1,International Express Freight Delivery 500kg,5,2417.02,12085.1,5
+PO-2026-000618-L01,PO-2026-000618,1,LED Low-Glare Architectural Office Lighting Panel,1,452.25,452.25,1
+PO-2026-000618-L02,PO-2026-000618,2,Executive Motorized Standing Desk,5,916.61,4583.05,5
+PO-2026-000619-L01,PO-2026-000619,1,Automated Compliance Monitoring Suite,10,8911.02,89110.2,10
+PO-2026-000619-L02,PO-2026-000619,2,Customer Data Platform (CDP) Annual Tier,20,16920.99,338419.8,20
+PO-2026-000620-L01,PO-2026-000620,1,High-Performance Server Rack 42U,2,8116.1,16232.2,2
+PO-2026-000620-L02,PO-2026-000620,2,Ultra-Wide 34-Inch Curved Monitor,2,623.8,1247.6,2
+PO-2026-000620-L03,PO-2026-000620,3,Uninterruptible Power Supply (UPS) 3000VA,5,1540.72,7703.6,5
+PO-2026-000621-L01,PO-2026-000621,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,221.72,443.44,2
+PO-2026-000621-L02,PO-2026-000621,2,Ergonomic Anti-Fatigue Desk Floor Mat,1,90.5,90.5,1
+PO-2026-000621-L03,PO-2026-000621,3,Executive Stationery & Meeting Pad Bundle,2,67.43,134.86,2
+PO-2026-000621-L04,PO-2026-000621,4,High-Yield Laser Toner Cartridge Multipack,2,266.57,533.14,2
+PO-2026-000622-L01,PO-2026-000622,1,Bonded Warehouse Storage Pallet Space,2,668.16,1336.32,2
+PO-2026-000623-L01,PO-2026-000623,1,Ergonomic Keyboard and Precision Mouse Combo,5,181.31,906.55,5
+PO-2026-000623-L02,PO-2026-000623,2,NVMe Enterprise Storage Array 50TB,2,12166.15,24332.3,2
+PO-2026-000624-L01,PO-2026-000624,1,Compliance ISO 27001 Surveillance Audit,1,13376.84,13376.84,1
+PO-2026-000624-L02,PO-2026-000624,2,SLA Incident Management & SRE Escalation,1,5007.3,5007.3,1
+PO-2026-000624-L03,PO-2026-000624,3,Hardware Lifecycle Replacement Program Support,1,7339.65,7339.65,1
+PO-2026-000624-L04,PO-2026-000624,4,Datacenter Preventive Maintenance Contract,1,3079.85,3079.85,1
+PO-2026-000625-L01,PO-2026-000625,1,USB-C Braided Cable Multi-Length Pack,5,83.11,415.55,5
+PO-2026-000625-L02,PO-2026-000625,2,High-Yield Laser Toner Cartridge Multipack,10,293.48,2934.8,10
+PO-2026-000626-L01,PO-2026-000626,1,Data Analytics and Visualization Platform Seat,10,1200.8,12008.0,10
+PO-2026-000626-L02,PO-2026-000626,2,Code Quality and SAST Security Scanner,1,3808.66,3808.66,1
+PO-2026-000627-L01,PO-2026-000627,1,Annual Cloud Architecture Security Review,5,6452.47,32262.35,5
+PO-2026-000627-L02,PO-2026-000627,2,Disaster Recovery Site Warm Standby Service,1,4168.29,4168.29,1
+PO-2026-000628-L01,PO-2026-000628,1,Executive Motorized Standing Desk,1,966.55,966.55,1
+PO-2026-000629-L01,PO-2026-000629,1,Developer IDE Team Suite Subscription,2,492.99,985.98,2
+PO-2026-000629-L02,PO-2026-000629,2,Customer Data Platform (CDP) Annual Tier,5,16133.8,80669.0,5
+PO-2026-000629-L03,PO-2026-000629,3,Cybersecurity Endpoint Detection & Response (EDR),1,5355.21,5355.21,1
+PO-2026-000629-L04,PO-2026-000629,4,Identity Access Management (IAM) SSO License,2,4472.52,8945.04,2
+PO-2026-000630-L01,PO-2026-000630,1,Cybersecurity Endpoint Detection & Response (EDR),2,5514.53,11029.06,2
+PO-2026-000631-L01,PO-2026-000631,1,Ergonomic Anti-Fatigue Desk Floor Mat,20,96.92,1938.4,20
+PO-2026-000632-L01,PO-2026-000632,1,Developer IDE Team Suite Subscription,5,466.61,2333.05,5
+PO-2026-000632-L02,PO-2026-000632,2,Cloud Infrastructure Tier-1 Annual Subscription,20,24764.7,495294.0,20
+PO-2026-000633-L01,PO-2026-000633,1,Automated Compliance Monitoring Suite,10,9307.98,93079.8,10
+PO-2026-000633-L02,PO-2026-000633,2,Cloud Infrastructure Tier-1 Annual Subscription,1,24250.91,24250.91,1
+PO-2026-000634-L01,PO-2026-000634,1,Developer Workstation Dual GPU 64GB,2,3113.43,6226.86,2
+PO-2026-000634-L02,PO-2026-000634,2,High-Performance Server Rack 42U,1,8580.06,8580.06,1
+PO-2026-000634-L03,PO-2026-000634,3,Ultra-Wide 34-Inch Curved Monitor,5,676.71,3383.55,5
+PO-2026-000635-L01,PO-2026-000635,1,Enterprise Architecture Strategic Advisory,20,353.45,7069.0,20
+PO-2026-000635-L02,PO-2026-000635,2,DevOps Migration and Kubernetes Optimization,1,278.39,278.39,1
+PO-2026-000635-L03,PO-2026-000635,3,AI Model Governance & Ethics Framework Advisory,5,383.87,1919.35,5
+PO-2026-000636-L01,PO-2026-000636,1,Meeting Room Video Conferencing System 4K,10,3428.88,34288.8,10
+PO-2026-000637-L01,PO-2026-000637,1,Temperature-Controlled Secure Transport,1,3846.42,3846.42,1
+PO-2026-000637-L02,PO-2026-000637,2,Bonded Warehouse Storage Pallet Space,2,666.42,1332.84,2
+PO-2026-000638-L01,PO-2026-000638,1,Regulatory GDPR / CPRA Data Privacy Review,1,297.89,297.89,1
+PO-2026-000638-L02,PO-2026-000638,2,Enterprise Architecture Strategic Advisory,20,357.99,7159.8,20
+PO-2026-000639-L01,PO-2026-000639,1,NVMe Enterprise Storage Array 50TB,5,13057.66,65288.3,5
+PO-2026-000640-L01,PO-2026-000640,1,Uninterruptible Power Supply (UPS) 3000VA,1,1619.43,1619.43,1
+PO-2026-000640-L02,PO-2026-000640,2,NVMe Enterprise Storage Array 50TB,2,13050.28,26100.56,2
+PO-2026-000641-L01,PO-2026-000641,1,External Penetration Testing & Red Teaming,2,17876.88,35753.76,2
+PO-2026-000642-L01,PO-2026-000642,1,Cafeteria Heavy Duty Commercial Coffee Maker,5,2731.56,13657.8,5
+PO-2026-000642-L02,PO-2026-000642,2,Meeting Room Video Conferencing System 4K,5,3340.32,16701.6,5
+PO-2026-000643-L01,PO-2026-000643,1,AI Model Governance & Ethics Framework Advisory,1,418.81,418.81,1
+PO-2026-000644-L01,PO-2026-000644,1,USB-C Braided Cable Multi-Length Pack,2,86.73,173.46,2
+PO-2026-000645-L01,PO-2026-000645,1,Temperature-Controlled Secure Transport,2,3682.39,7364.78,2
+PO-2026-000646-L01,PO-2026-000646,1,Cafeteria Heavy Duty Commercial Coffee Maker,1,2859.51,2859.51,1
+PO-2026-000647-L01,PO-2026-000647,1,HEPA Air Filtration Commercial Tower,1,832.47,832.47,1
+PO-2026-000647-L02,PO-2026-000647,2,Aeron Ergonomic Lumbar Support Chair,2,1162.37,2324.74,2
+PO-2026-000648-L01,PO-2026-000648,1,Bonded Warehouse Storage Pallet Space,5,637.56,3187.8,5
+PO-2026-000648-L02,PO-2026-000648,2,Expedited Regional Courier Fleet Delivery,1,445.43,445.43,1
+PO-2026-000649-L01,PO-2026-000649,1,Bonded Warehouse Storage Pallet Space,5,619.42,3097.1,5
+PO-2026-000649-L02,PO-2026-000649,2,Expedited Regional Courier Fleet Delivery,1,465.8,465.8,1
+PO-2026-000650-L01,PO-2026-000650,1,Compliance ISO 27001 Surveillance Audit,5,14566.22,72831.1,5
+PO-2026-000650-L02,PO-2026-000650,2,Hardware Lifecycle Replacement Program Support,1,7497.79,7497.79,1
+PO-2026-000650-L03,PO-2026-000650,3,Datacenter Preventive Maintenance Contract,1,3162.65,3162.65,1
+PO-2026-000651-L01,PO-2026-000651,1,Meeting Room Video Conferencing System 4K,20,3464.45,69289.0,20
+PO-2026-000651-L02,PO-2026-000651,2,Cafeteria Heavy Duty Commercial Coffee Maker,2,2784.04,5568.08,2
+PO-2026-000652-L01,PO-2026-000652,1,Cybersecurity Endpoint Detection & Response (EDR),5,5270.42,26352.1,5
+PO-2026-000652-L02,PO-2026-000652,2,Cloud Infrastructure Tier-1 Annual Subscription,20,23174.62,463492.4,20
+PO-2026-000652-L03,PO-2026-000652,3,Data Analytics and Visualization Platform Seat,1,1177.55,1177.55,1
+PO-2026-000653-L01,PO-2026-000653,1,Security Shredder Cross-Cut Heavy Duty,2,602.0,1204.0,2
+PO-2026-000653-L02,PO-2026-000653,2,USB-C Braided Cable Multi-Length Pack,1,81.44,81.44,1
+PO-2026-000653-L03,PO-2026-000653,3,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),5,42.93,214.65,5
+PO-2026-000653-L04,PO-2026-000653,4,Dry-Erase Magnetic Whiteboard 72x48 with Markers,5,230.83,1154.15,5
+PO-2026-000654-L01,PO-2026-000654,1,Meeting Room Video Conferencing System 4K,2,3347.45,6694.9,2
+PO-2026-000654-L02,PO-2026-000654,2,HEPA Air Filtration Commercial Tower,1,781.85,781.85,1
+PO-2026-000655-L01,PO-2026-000655,1,High-Yield Laser Toner Cartridge Multipack,20,291.02,5820.4,20
+PO-2026-000656-L01,PO-2026-000656,1,Acoustic Phone Booth Modular Unit,1,6339.74,6339.74,1
+PO-2026-000657-L01,PO-2026-000657,1,Financial Data Pipeline Modernization Consulting,2,246.02,492.04,2
+PO-2026-000657-L02,PO-2026-000657,2,Enterprise Architecture Strategic Advisory,5,341.87,1709.35,5
+PO-2026-000658-L01,PO-2026-000658,1,Automated Compliance Monitoring Suite,5,8645.54,43227.7,5
+PO-2026-000658-L02,PO-2026-000658,2,Cloud Infrastructure Tier-1 Annual Subscription,2,23632.2,47264.4,2
+PO-2026-000659-L01,PO-2026-000659,1,SLA Incident Management & SRE Escalation,5,4873.09,24365.45,5
+PO-2026-000659-L02,PO-2026-000659,2,24/7 Managed NOC Level-2 Support Service,2,8151.15,16302.3,2
+PO-2026-000659-L03,PO-2026-000659,3,Hardware Lifecycle Replacement Program Support,20,7511.88,150237.6,20
+PO-2026-000660-L01,PO-2026-000660,1,AI Model Governance & Ethics Framework Advisory,1,417.88,417.88,1
+PO-2026-000661-L01,PO-2026-000661,1,Financial Data Pipeline Modernization Consulting,5,249.76,1248.8,5
+PO-2026-000661-L02,PO-2026-000661,2,DevOps Migration and Kubernetes Optimization,1,287.57,287.57,1
+PO-2026-000661-L03,PO-2026-000661,3,AI Model Governance & Ethics Framework Advisory,2,416.3,832.6,2
+PO-2026-000661-L04,PO-2026-000661,4,Supply Chain Resiliency Strategy Consulting,5,331.46,1657.3,5
+PO-2026-000662-L01,PO-2026-000662,1,High-Performance Server Rack 42U,5,8586.6,42933.0,5
+PO-2026-000662-L02,PO-2026-000662,2,Thunderbolt 4 Docking Station Dual Display,20,248.21,4964.2,20
+PO-2026-000662-L03,PO-2026-000662,3,AI Inference Accelerator Card PCIe,50,9968.88,498444.0,50
+PO-2026-000663-L01,PO-2026-000663,1,Customer Data Platform (CDP) Annual Tier,1,17051.91,17051.91,1
+PO-2026-000664-L01,PO-2026-000664,1,International Express Freight Delivery 500kg,2,2351.5,4703.0,2
+PO-2026-000664-L02,PO-2026-000664,2,Bonded Warehouse Storage Pallet Space,1,643.98,643.98,1
+PO-2026-000664-L03,PO-2026-000664,3,Temperature-Controlled Secure Transport,1,3905.19,3905.19,1
+PO-2026-000665-L01,PO-2026-000665,1,Temperature-Controlled Secure Transport,5,3858.61,19293.05,5
+PO-2026-000666-L01,PO-2026-000666,1,Hardware Lifecycle Replacement Program Support,5,7768.36,38841.8,5
+PO-2026-000667-L01,PO-2026-000667,1,Compliance ISO 27001 Surveillance Audit,1,14035.97,14035.97,1
+PO-2026-000668-L01,PO-2026-000668,1,Cafeteria Heavy Duty Commercial Coffee Maker,20,2739.51,54790.2,20
+PO-2026-000669-L01,PO-2026-000669,1,Financial Data Pipeline Modernization Consulting,2,253.45,506.9,2
+PO-2026-000670-L01,PO-2026-000670,1,Customer Data Platform (CDP) Annual Tier,20,16289.4,325788.0,20
+PO-2026-000670-L02,PO-2026-000670,2,Database Management Enterprise Cluster License,5,17915.41,89577.05,5
+PO-2026-000670-L03,PO-2026-000670,3,Data Analytics and Visualization Platform Seat,1,1154.49,1154.49,1
+PO-2026-000671-L01,PO-2026-000671,1,SLA Incident Management & SRE Escalation,5,5215.25,26076.25,5
+PO-2026-000671-L02,PO-2026-000671,2,Annual Cloud Architecture Security Review,5,6299.0,31495.0,5
+PO-2026-000672-L01,PO-2026-000672,1,Aeron Ergonomic Lumbar Support Chair,2,1167.72,2335.44,2
+PO-2026-000672-L02,PO-2026-000672,2,Executive Motorized Standing Desk,1,965.32,965.32,1
+PO-2026-000673-L01,PO-2026-000673,1,Disaster Recovery Site Warm Standby Service,5,4381.95,21909.75,5
+PO-2026-000674-L01,PO-2026-000674,1,AI Inference Accelerator Card PCIe,5,9983.78,49918.9,5
+PO-2026-000674-L02,PO-2026-000674,2,Enterprise Core Switch 48-Port 10GbE,1,4731.83,4731.83,1
+PO-2026-000675-L01,PO-2026-000675,1,Cloud Infrastructure Tier-1 Annual Subscription,2,24182.66,48365.32,2
+PO-2026-000675-L02,PO-2026-000675,2,Database Management Enterprise Cluster License,2,18670.68,37341.36,2
+PO-2026-000676-L01,PO-2026-000676,1,Financial Data Pipeline Modernization Consulting,2,262.23,524.46,2
+PO-2026-000676-L02,PO-2026-000676,2,Regulatory GDPR / CPRA Data Privacy Review,1,300.38,300.38,1
+PO-2026-000677-L01,PO-2026-000677,1,Disaster Recovery Site Warm Standby Service,10,4192.28,41922.8,10
+PO-2026-000677-L02,PO-2026-000677,2,24/7 Managed NOC Level-2 Support Service,20,8843.17,176863.4,20
+PO-2026-000678-L01,PO-2026-000678,1,Expedited Regional Courier Fleet Delivery,2,465.98,931.96,2
+PO-2026-000678-L02,PO-2026-000678,2,Temperature-Controlled Secure Transport,2,3753.64,7507.28,2
+PO-2026-000679-L01,PO-2026-000679,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),10,45.2,452.0,10
+PO-2026-000679-L02,PO-2026-000679,2,Executive Stationery & Meeting Pad Bundle,10,61.83,618.3,10
+PO-2026-000680-L01,PO-2026-000680,1,Executive Stationery & Meeting Pad Bundle,20,67.66,1353.2,20
+PO-2026-000680-L02,PO-2026-000680,2,High-Yield Laser Toner Cartridge Multipack,5,274.24,1371.2,5
+PO-2026-000681-L01,PO-2026-000681,1,Enterprise Core Switch 48-Port 10GbE,5,4922.02,24610.1,5
+PO-2026-000682-L01,PO-2026-000682,1,Dedicated White-Glove On-Site Unpacking & Rack Mount,1,1510.39,1510.39,1
+PO-2026-000682-L02,PO-2026-000682,2,International Express Freight Delivery 500kg,50,2414.81,120740.5,50
+PO-2026-000682-L03,PO-2026-000682,3,Expedited Regional Courier Fleet Delivery,10,457.75,4577.5,10
+PO-2026-000683-L01,PO-2026-000683,1,AI Model Governance & Ethics Framework Advisory,10,381.77,3817.7,10
+PO-2026-000683-L02,PO-2026-000683,2,Financial Data Pipeline Modernization Consulting,2,251.53,503.06,2
+PO-2026-000684-L01,PO-2026-000684,1,Executive Motorized Standing Desk,20,975.73,19514.6,20
+PO-2026-000684-L02,PO-2026-000684,2,LED Low-Glare Architectural Office Lighting Panel,1,450.56,450.56,1
+PO-2026-000685-L01,PO-2026-000685,1,Financial Data Pipeline Modernization Consulting,2,257.07,514.14,2
+PO-2026-000686-L01,PO-2026-000686,1,High-Yield Laser Toner Cartridge Multipack,2,270.16,540.32,2
+PO-2026-000687-L01,PO-2026-000687,1,NVMe Enterprise Storage Array 50TB,2,12165.2,24330.4,2
+PO-2026-000687-L02,PO-2026-000687,2,Wireless Access Point Wi-Fi 7,5,406.36,2031.8,5
+PO-2026-000687-L03,PO-2026-000687,3,High-Performance Server Rack 42U,2,8216.67,16433.34,2
+PO-2026-000688-L01,PO-2026-000688,1,High-Performance Server Rack 42U,1,8295.43,8295.43,1
+PO-2026-000689-L01,PO-2026-000689,1,NVMe Enterprise Storage Array 50TB,1,12913.38,12913.38,1
+PO-2026-000689-L02,PO-2026-000689,2,Developer Workstation Dual GPU 64GB,1,3169.52,3169.52,1
+PO-2026-000690-L01,PO-2026-000690,1,AI Model Governance & Ethics Framework Advisory,2,398.54,797.08,2
+PO-2026-000690-L02,PO-2026-000690,2,Regulatory GDPR / CPRA Data Privacy Review,1,294.03,294.03,1
+PO-2026-000690-L03,PO-2026-000690,3,Supply Chain Resiliency Strategy Consulting,2,333.01,666.02,2
+PO-2026-000691-L01,PO-2026-000691,1,Commercial Smart Keyless Access Door Controller,1,1504.85,1504.85,1
+PO-2026-000692-L01,PO-2026-000692,1,Regulatory GDPR / CPRA Data Privacy Review,10,303.28,3032.8,10
+PO-2026-000692-L02,PO-2026-000692,2,Financial Data Pipeline Modernization Consulting,20,257.97,5159.4,20
+PO-2026-000693-L01,PO-2026-000693,1,Cafeteria Heavy Duty Commercial Coffee Maker,5,2868.12,14340.6,5
+PO-2026-000694-L01,PO-2026-000694,1,Financial Data Pipeline Modernization Consulting,1,241.81,241.81,1
+PO-2026-000695-L01,PO-2026-000695,1,Customer Data Platform (CDP) Annual Tier,2,16992.54,33985.08,2
+PO-2026-000695-L02,PO-2026-000695,2,Cloud Infrastructure Tier-1 Annual Subscription,5,23310.54,116552.7,5
+PO-2026-000695-L03,PO-2026-000695,3,Enterprise CI/CD Build Pipeline 50 Runners,5,6934.89,34674.45,5
+PO-2026-000695-L04,PO-2026-000695,4,Database Management Enterprise Cluster License,10,17435.17,174351.7,10
+PO-2026-000696-L01,PO-2026-000696,1,Hardware Lifecycle Replacement Program Support,1,7852.02,7852.02,1
+PO-2026-000696-L02,PO-2026-000696,2,Annual Cloud Architecture Security Review,1,6758.59,6758.59,1
+PO-2026-000697-L01,PO-2026-000697,1,Executive Motorized Standing Desk,1,956.97,956.97,1
+PO-2026-000698-L01,PO-2026-000698,1,AI Model Governance & Ethics Framework Advisory,5,390.16,1950.8,5
+PO-2026-000699-L01,PO-2026-000699,1,Acoustic Phone Booth Modular Unit,10,6244.77,62447.7,10
+PO-2026-000700-L01,PO-2026-000700,1,Meeting Room Video Conferencing System 4K,20,3455.85,69117.0,20
+PO-2026-000700-L02,PO-2026-000700,2,Cafeteria Heavy Duty Commercial Coffee Maker,1,2683.5,2683.5,1
+PO-2026-000700-L03,PO-2026-000700,3,Acoustic Phone Booth Modular Unit,5,6220.71,31103.55,5
+PO-2026-000700-L04,PO-2026-000700,4,Aeron Ergonomic Lumbar Support Chair,20,1118.71,22374.2,20
+PO-2026-000701-L01,PO-2026-000701,1,Data Analytics and Visualization Platform Seat,1,1205.01,1205.01,1
+PO-2026-000702-L01,PO-2026-000702,1,Cafeteria Heavy Duty Commercial Coffee Maker,1,2914.07,2914.07,1
+PO-2026-000702-L02,PO-2026-000702,2,Acoustic Phone Booth Modular Unit,5,6028.81,30144.05,5
+PO-2026-000702-L03,PO-2026-000702,3,Aeron Ergonomic Lumbar Support Chair,50,1141.52,57076.0,50
+PO-2026-000702-L04,PO-2026-000702,4,Meeting Room Video Conferencing System 4K,1,3527.8,3527.8,1
+PO-2026-000703-L01,PO-2026-000703,1,Aeron Ergonomic Lumbar Support Chair,1,1138.84,1138.84,1
+PO-2026-000704-L01,PO-2026-000704,1,Cloud Infrastructure Tier-1 Annual Subscription,2,23738.66,47477.32,2
+PO-2026-000705-L01,PO-2026-000705,1,Enterprise Core Switch 48-Port 10GbE,1,4726.02,4726.02,1
+PO-2026-000706-L01,PO-2026-000706,1,Security Shredder Cross-Cut Heavy Duty,5,564.27,2821.35,5
+PO-2026-000707-L01,PO-2026-000707,1,Aeron Ergonomic Lumbar Support Chair,5,1206.81,6034.05,5
+PO-2026-000707-L02,PO-2026-000707,2,Executive Motorized Standing Desk,1,911.1,911.1,1
+PO-2026-000708-L01,PO-2026-000708,1,Commercial Smart Keyless Access Door Controller,20,1444.13,28882.6,20
+PO-2026-000709-L01,PO-2026-000709,1,LED Low-Glare Architectural Office Lighting Panel,10,452.59,4525.9,10
+PO-2026-000709-L02,PO-2026-000709,2,Acoustic Phone Booth Modular Unit,5,6277.76,31388.8,5
+PO-2026-000710-L01,PO-2026-000710,1,SLA Incident Management & SRE Escalation,5,5051.35,25256.75,5
+PO-2026-000710-L02,PO-2026-000710,2,24/7 Managed NOC Level-2 Support Service,10,8342.35,83423.5,10
+PO-2026-000710-L03,PO-2026-000710,3,Datacenter Preventive Maintenance Contract,10,3071.23,30712.3,10
+PO-2026-000711-L01,PO-2026-000711,1,Supply Chain Resiliency Strategy Consulting,2,332.09,664.18,2
+PO-2026-000712-L01,PO-2026-000712,1,Customer Data Platform (CDP) Annual Tier,50,15860.57,793028.5,50
+PO-2026-000712-L02,PO-2026-000712,2,Database Management Enterprise Cluster License,2,17288.58,34577.16,2
+PO-2026-000713-L01,PO-2026-000713,1,Financial Data Pipeline Modernization Consulting,2,249.92,499.84,2
+PO-2026-000714-L01,PO-2026-000714,1,Customer Data Platform (CDP) Annual Tier,1,16220.36,16220.36,1
+PO-2026-000715-L01,PO-2026-000715,1,Code Quality and SAST Security Scanner,2,3695.93,7391.86,2
+PO-2026-000716-L01,PO-2026-000716,1,Meeting Room Video Conferencing System 4K,1,3496.53,3496.53,1
+PO-2026-000716-L02,PO-2026-000716,2,Acoustic Phone Booth Modular Unit,2,6408.4,12816.8,2
+PO-2026-000716-L03,PO-2026-000716,3,Executive Motorized Standing Desk,5,982.45,4912.25,5
+PO-2026-000716-L04,PO-2026-000716,4,Cafeteria Heavy Duty Commercial Coffee Maker,1,2671.25,2671.25,1
+PO-2026-000717-L01,PO-2026-000717,1,SLA Incident Management & SRE Escalation,1,4840.72,4840.72,1
+PO-2026-000718-L01,PO-2026-000718,1,Identity Access Management (IAM) SSO License,2,4515.29,9030.58,2
+PO-2026-000718-L02,PO-2026-000718,2,Developer IDE Team Suite Subscription,5,486.8,2434.0,5
+PO-2026-000719-L01,PO-2026-000719,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),1,45.16,45.16,1
+PO-2026-000720-L01,PO-2026-000720,1,Customer Data Platform (CDP) Annual Tier,1,17138.3,17138.3,1
+PO-2026-000721-L01,PO-2026-000721,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,10,229.77,2297.7,10
+PO-2026-000721-L02,PO-2026-000721,2,Ergonomic Anti-Fatigue Desk Floor Mat,5,99.41,497.05,5
+PO-2026-000722-L01,PO-2026-000722,1,Executive Motorized Standing Desk,2,959.43,1918.86,2
+PO-2026-000723-L01,PO-2026-000723,1,Enterprise Architecture Strategic Advisory,2,334.37,668.74,2
+PO-2026-000723-L02,PO-2026-000723,2,AI Model Governance & Ethics Framework Advisory,1,381.74,381.74,1
+PO-2026-000723-L03,PO-2026-000723,3,Supply Chain Resiliency Strategy Consulting,2,328.29,656.58,2
+PO-2026-000723-L04,PO-2026-000723,4,Regulatory GDPR / CPRA Data Privacy Review,1,312.05,312.05,1
+PO-2026-000724-L01,PO-2026-000724,1,Database Management Enterprise Cluster License,2,18690.8,37381.6,2
+PO-2026-000725-L01,PO-2026-000725,1,Datacenter Preventive Maintenance Contract,1,3066.55,3066.55,1
+PO-2026-000725-L02,PO-2026-000725,2,Compliance ISO 27001 Surveillance Audit,50,13912.9,695645.0,50
+PO-2026-000725-L03,PO-2026-000725,3,Disaster Recovery Site Warm Standby Service,1,4039.28,4039.28,1
+PO-2026-000726-L01,PO-2026-000726,1,Developer IDE Team Suite Subscription,2,503.77,1007.54,2
+PO-2026-000726-L02,PO-2026-000726,2,Cloud Infrastructure Tier-1 Annual Subscription,2,24754.88,49509.76,2
+PO-2026-000726-L03,PO-2026-000726,3,Data Analytics and Visualization Platform Seat,10,1246.11,12461.1,10
+PO-2026-000726-L04,PO-2026-000726,4,Customer Data Platform (CDP) Annual Tier,2,16585.92,33171.84,2
+PO-2026-000727-L01,PO-2026-000727,1,Developer IDE Team Suite Subscription,1,500.28,500.28,1
+PO-2026-000727-L02,PO-2026-000727,2,Cybersecurity Endpoint Detection & Response (EDR),1,5151.56,5151.56,1
+PO-2026-000727-L03,PO-2026-000727,3,Automated Compliance Monitoring Suite,1,8910.1,8910.1,1
+PO-2026-000727-L04,PO-2026-000727,4,Identity Access Management (IAM) SSO License,5,4540.47,22702.35,5
+PO-2026-000728-L01,PO-2026-000728,1,Aeron Ergonomic Lumbar Support Chair,2,1133.99,2267.98,2
+PO-2026-000728-L02,PO-2026-000728,2,HEPA Air Filtration Commercial Tower,20,766.62,15332.4,20
+PO-2026-000728-L03,PO-2026-000728,3,Cafeteria Heavy Duty Commercial Coffee Maker,10,2824.89,28248.9,10
+PO-2026-000728-L04,PO-2026-000728,4,Commercial Smart Keyless Access Door Controller,5,1548.07,7740.35,5
+PO-2026-000729-L01,PO-2026-000729,1,Ultra-Wide 34-Inch Curved Monitor,1,671.97,671.97,1
+PO-2026-000730-L01,PO-2026-000730,1,Enterprise Core Switch 48-Port 10GbE,20,4725.76,94515.2,20
+PO-2026-000730-L02,PO-2026-000730,2,Ergonomic Keyboard and Precision Mouse Combo,5,183.09,915.45,5
+PO-2026-000731-L01,PO-2026-000731,1,AI Model Governance & Ethics Framework Advisory,1,411.23,411.23,1
+PO-2026-000731-L02,PO-2026-000731,2,Supply Chain Resiliency Strategy Consulting,5,317.74,1588.7,5
+PO-2026-000731-L03,PO-2026-000731,3,DevOps Migration and Kubernetes Optimization,2,280.27,560.54,2
+PO-2026-000731-L04,PO-2026-000731,4,Regulatory GDPR / CPRA Data Privacy Review,1,300.82,300.82,1
+PO-2026-000732-L01,PO-2026-000732,1,Meeting Room Video Conferencing System 4K,1,3320.95,3320.95,1
+PO-2026-000733-L01,PO-2026-000733,1,Customer Data Platform (CDP) Annual Tier,2,16154.1,32308.2,2
+PO-2026-000734-L01,PO-2026-000734,1,Enterprise Core Switch 48-Port 10GbE,1,4729.23,4729.23,1
+PO-2026-000735-L01,PO-2026-000735,1,Enterprise Architecture Strategic Advisory,1,336.87,336.87,1
+PO-2026-000735-L02,PO-2026-000735,2,AI Model Governance & Ethics Framework Advisory,1,404.47,404.47,1
+PO-2026-000735-L03,PO-2026-000735,3,Regulatory GDPR / CPRA Data Privacy Review,2,309.12,618.24,2
+PO-2026-000735-L04,PO-2026-000735,4,Supply Chain Resiliency Strategy Consulting,5,309.5,1547.5,5
+PO-2026-000736-L01,PO-2026-000736,1,Aeron Ergonomic Lumbar Support Chair,5,1169.72,5848.6,5
+PO-2026-000736-L02,PO-2026-000736,2,Meeting Room Video Conferencing System 4K,2,3320.92,6641.84,2
+PO-2026-000736-L03,PO-2026-000736,3,HEPA Air Filtration Commercial Tower,20,780.56,15611.2,20
+PO-2026-000737-L01,PO-2026-000737,1,High-Yield Laser Toner Cartridge Multipack,1,275.92,275.92,1
+PO-2026-000737-L02,PO-2026-000737,2,Security Shredder Cross-Cut Heavy Duty,5,584.35,2921.75,5
+PO-2026-000737-L03,PO-2026-000737,3,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),5,45.74,228.7,5
+PO-2026-000738-L01,PO-2026-000738,1,Enterprise Architecture Strategic Advisory,1,362.04,362.04,1
+PO-2026-000739-L01,PO-2026-000739,1,Automated Compliance Monitoring Suite,2,8779.08,17558.16,2
+PO-2026-000740-L01,PO-2026-000740,1,Meeting Room Video Conferencing System 4K,1,3488.85,3488.85,1
+PO-2026-000740-L02,PO-2026-000740,2,HEPA Air Filtration Commercial Tower,1,771.51,771.51,1
+PO-2026-000740-L03,PO-2026-000740,3,Commercial Smart Keyless Access Door Controller,1,1446.12,1446.12,1
+PO-2026-000741-L01,PO-2026-000741,1,LED Low-Glare Architectural Office Lighting Panel,20,464.56,9291.2,20
+PO-2026-000741-L02,PO-2026-000741,2,HEPA Air Filtration Commercial Tower,1,830.93,830.93,1
+PO-2026-000742-L01,PO-2026-000742,1,Meeting Room Video Conferencing System 4K,1,3539.3,3539.3,1
+PO-2026-000742-L02,PO-2026-000742,2,LED Low-Glare Architectural Office Lighting Panel,1,467.77,467.77,1
+PO-2026-000743-L01,PO-2026-000743,1,Security Shredder Cross-Cut Heavy Duty,1,585.72,585.72,1
+PO-2026-000743-L02,PO-2026-000743,2,Executive Stationery & Meeting Pad Bundle,5,62.24,311.2,5
+PO-2026-000744-L01,PO-2026-000744,1,Financial Data Pipeline Modernization Consulting,5,249.48,1247.4,5
+PO-2026-000745-L01,PO-2026-000745,1,Financial Data Pipeline Modernization Consulting,1,251.55,251.55,1
+PO-2026-000745-L02,PO-2026-000745,2,Regulatory GDPR / CPRA Data Privacy Review,20,290.01,5800.2,20
+PO-2026-000746-L01,PO-2026-000746,1,External Penetration Testing & Red Teaming,1,18904.42,18904.42,1
+PO-2026-000747-L01,PO-2026-000747,1,Executive Stationery & Meeting Pad Bundle,1,64.62,64.62,1
+PO-2026-000748-L01,PO-2026-000748,1,Aeron Ergonomic Lumbar Support Chair,2,1109.66,2219.32,2
+PO-2026-000749-L01,PO-2026-000749,1,Executive Motorized Standing Desk,1,918.58,918.58,1
+PO-2026-000750-L01,PO-2026-000750,1,Commercial Smart Keyless Access Door Controller,2,1573.28,3146.56,2
+PO-2026-000750-L02,PO-2026-000750,2,Executive Motorized Standing Desk,1,906.62,906.62,1
+PO-2026-000751-L01,PO-2026-000751,1,High-Yield Laser Toner Cartridge Multipack,20,274.39,5487.8,20
+PO-2026-000751-L02,PO-2026-000751,2,Executive Stationery & Meeting Pad Bundle,1,67.75,67.75,1
+PO-2026-000752-L01,PO-2026-000752,1,24/7 Managed NOC Level-2 Support Service,20,8656.83,173136.6,20
+PO-2026-000753-L01,PO-2026-000753,1,Aeron Ergonomic Lumbar Support Chair,2,1182.6,2365.2,2
+PO-2026-000754-L01,PO-2026-000754,1,USB-C Braided Cable Multi-Length Pack,1,87.54,87.54,1
+PO-2026-000754-L02,PO-2026-000754,2,Security Shredder Cross-Cut Heavy Duty,20,553.01,11060.2,20
+PO-2026-000755-L01,PO-2026-000755,1,Data Analytics and Visualization Platform Seat,2,1164.38,2328.76,2
+PO-2026-000755-L02,PO-2026-000755,2,Identity Access Management (IAM) SSO License,10,4458.17,44581.7,10
+PO-2026-000755-L03,PO-2026-000755,3,Customer Data Platform (CDP) Annual Tier,10,16907.81,169078.1,10
+PO-2026-000756-L01,PO-2026-000756,1,HEPA Air Filtration Commercial Tower,1,832.59,832.59,1
+PO-2026-000757-L01,PO-2026-000757,1,Cybersecurity Endpoint Detection & Response (EDR),2,5271.23,10542.46,2
+PO-2026-000758-L01,PO-2026-000758,1,Temperature-Controlled Secure Transport,1,3963.92,3963.92,1
+PO-2026-000758-L02,PO-2026-000758,2,International Express Freight Delivery 500kg,10,2379.38,23793.8,10
+PO-2026-000758-L03,PO-2026-000758,3,Dedicated White-Glove On-Site Unpacking & Rack Mount,2,1500.25,3000.5,2
+PO-2026-000758-L04,PO-2026-000758,4,Expedited Regional Courier Fleet Delivery,20,431.27,8625.4,20
+PO-2026-000759-L01,PO-2026-000759,1,Financial Data Pipeline Modernization Consulting,1,248.45,248.45,1
+PO-2026-000760-L01,PO-2026-000760,1,Supply Chain Resiliency Strategy Consulting,50,312.66,15633.0,50
+PO-2026-000760-L02,PO-2026-000760,2,Enterprise Architecture Strategic Advisory,1,366.6,366.6,1
+PO-2026-000760-L03,PO-2026-000760,3,Regulatory GDPR / CPRA Data Privacy Review,2,300.45,600.9,2
+PO-2026-000760-L04,PO-2026-000760,4,Financial Data Pipeline Modernization Consulting,2,254.93,509.86,2
+PO-2026-000761-L01,PO-2026-000761,1,Compliance ISO 27001 Surveillance Audit,1,14138.35,14138.35,1
+PO-2026-000762-L01,PO-2026-000762,1,Developer Workstation Dual GPU 64GB,2,3225.2,6450.4,2
+PO-2026-000762-L02,PO-2026-000762,2,NVMe Enterprise Storage Array 50TB,10,12677.33,126773.3,10
+PO-2026-000763-L01,PO-2026-000763,1,Ergonomic Anti-Fatigue Desk Floor Mat,2,94.67,189.34,2
+PO-2026-000764-L01,PO-2026-000764,1,LED Low-Glare Architectural Office Lighting Panel,2,439.56,879.12,2
+PO-2026-000765-L01,PO-2026-000765,1,Expedited Regional Courier Fleet Delivery,10,446.86,4468.6,10
+PO-2026-000765-L02,PO-2026-000765,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,5,1494.72,7473.6,5
+PO-2026-000766-L01,PO-2026-000766,1,Compliance ISO 27001 Surveillance Audit,5,14539.46,72697.3,5
+PO-2026-000767-L01,PO-2026-000767,1,AI Model Governance & Ethics Framework Advisory,1,389.5,389.5,1
+PO-2026-000768-L01,PO-2026-000768,1,Disaster Recovery Site Warm Standby Service,1,4216.58,4216.58,1
+PO-2026-000768-L02,PO-2026-000768,2,Hardware Lifecycle Replacement Program Support,10,7600.25,76002.5,10
+PO-2026-000769-L01,PO-2026-000769,1,Regulatory GDPR / CPRA Data Privacy Review,5,304.38,1521.9,5
+PO-2026-000769-L02,PO-2026-000769,2,DevOps Migration and Kubernetes Optimization,5,282.67,1413.35,5
+PO-2026-000770-L01,PO-2026-000770,1,NVMe Enterprise Storage Array 50TB,1,13116.13,13116.13,1
+PO-2026-000771-L01,PO-2026-000771,1,Financial Data Pipeline Modernization Consulting,2,242.57,485.14,2
+PO-2026-000771-L02,PO-2026-000771,2,Regulatory GDPR / CPRA Data Privacy Review,20,287.98,5759.6,20
+PO-2026-000772-L01,PO-2026-000772,1,Regulatory GDPR / CPRA Data Privacy Review,1,296.5,296.5,1
+PO-2026-000773-L01,PO-2026-000773,1,HEPA Air Filtration Commercial Tower,1,766.87,766.87,1
+PO-2026-000774-L01,PO-2026-000774,1,USB-C Braided Cable Multi-Length Pack,1,88.62,88.62,1
+PO-2026-000775-L01,PO-2026-000775,1,Uninterruptible Power Supply (UPS) 3000VA,10,1605.26,16052.6,10
+PO-2026-000776-L01,PO-2026-000776,1,Enterprise Architecture Strategic Advisory,1,357.92,357.92,1
+PO-2026-000777-L01,PO-2026-000777,1,Database Management Enterprise Cluster License,1,17327.39,17327.39,1
+PO-2026-000777-L02,PO-2026-000777,2,Automated Compliance Monitoring Suite,2,8766.79,17533.58,2
+PO-2026-000778-L01,PO-2026-000778,1,Cloud Infrastructure Tier-1 Annual Subscription,10,24213.79,242137.9,10
+PO-2026-000778-L02,PO-2026-000778,2,Cybersecurity Endpoint Detection & Response (EDR),1,5466.42,5466.42,1
+PO-2026-000779-L01,PO-2026-000779,1,Executive Motorized Standing Desk,1,943.31,943.31,1
+PO-2026-000779-L02,PO-2026-000779,2,Meeting Room Video Conferencing System 4K,1,3254.64,3254.64,1
+PO-2026-000780-L01,PO-2026-000780,1,HEPA Air Filtration Commercial Tower,1,810.56,810.56,1
+PO-2026-000781-L01,PO-2026-000781,1,HEPA Air Filtration Commercial Tower,10,767.44,7674.4,10
+PO-2026-000781-L02,PO-2026-000781,2,Aeron Ergonomic Lumbar Support Chair,2,1105.23,2210.46,2
+PO-2026-000782-L01,PO-2026-000782,1,Supply Chain Resiliency Strategy Consulting,10,308.88,3088.8,10
+PO-2026-000783-L01,PO-2026-000783,1,Expedited Regional Courier Fleet Delivery,50,431.23,21561.5,50
+PO-2026-000784-L01,PO-2026-000784,1,Identity Access Management (IAM) SSO License,2,4659.71,9319.42,2
+PO-2026-000784-L02,PO-2026-000784,2,Customer Data Platform (CDP) Annual Tier,5,15870.21,79351.05,5
+PO-2026-000784-L03,PO-2026-000784,3,Automated Compliance Monitoring Suite,1,8866.02,8866.02,1
+PO-2026-000785-L01,PO-2026-000785,1,24/7 Managed NOC Level-2 Support Service,5,8870.78,44353.9,5
+PO-2026-000785-L02,PO-2026-000785,2,External Penetration Testing & Red Teaming,20,18942.76,378855.2,20
+PO-2026-000785-L03,PO-2026-000785,3,Compliance ISO 27001 Surveillance Audit,1,13561.9,13561.9,1
+PO-2026-000785-L04,PO-2026-000785,4,Disaster Recovery Site Warm Standby Service,2,4233.2,8466.4,2
+PO-2026-000786-L01,PO-2026-000786,1,Temperature-Controlled Secure Transport,1,3632.54,3632.54,1
+PO-2026-000786-L02,PO-2026-000786,2,Bonded Warehouse Storage Pallet Space,20,678.01,13560.2,20
+PO-2026-000786-L03,PO-2026-000786,3,Expedited Regional Courier Fleet Delivery,5,441.25,2206.25,5
+PO-2026-000787-L01,PO-2026-000787,1,HEPA Air Filtration Commercial Tower,10,834.55,8345.5,10
+PO-2026-000787-L02,PO-2026-000787,2,Cafeteria Heavy Duty Commercial Coffee Maker,5,2847.46,14237.3,5
+PO-2026-000788-L01,PO-2026-000788,1,Security Shredder Cross-Cut Heavy Duty,1,583.48,583.48,1
+PO-2026-000789-L01,PO-2026-000789,1,DevOps Migration and Kubernetes Optimization,5,263.71,1318.55,5
+PO-2026-000789-L02,PO-2026-000789,2,Enterprise Architecture Strategic Advisory,1,333.38,333.38,1
+PO-2026-000789-L03,PO-2026-000789,3,Supply Chain Resiliency Strategy Consulting,5,331.41,1657.05,5
+PO-2026-000789-L04,PO-2026-000789,4,Financial Data Pipeline Modernization Consulting,2,247.06,494.12,2
+PO-2026-000790-L01,PO-2026-000790,1,Datacenter Preventive Maintenance Contract,10,3323.48,33234.8,10
+PO-2026-000790-L02,PO-2026-000790,2,Annual Cloud Architecture Security Review,20,6328.42,126568.4,20
+PO-2026-000791-L01,PO-2026-000791,1,Regulatory GDPR / CPRA Data Privacy Review,1,287.28,287.28,1
+PO-2026-000792-L01,PO-2026-000792,1,Security Shredder Cross-Cut Heavy Duty,5,595.23,2976.15,5
+PO-2026-000792-L02,PO-2026-000792,2,USB-C Braided Cable Multi-Length Pack,5,86.52,432.6,5
+PO-2026-000793-L01,PO-2026-000793,1,Code Quality and SAST Security Scanner,1,3963.35,3963.35,1
+PO-2026-000794-L01,PO-2026-000794,1,USB-C Braided Cable Multi-Length Pack,10,83.39,833.9,10
+PO-2026-000795-L01,PO-2026-000795,1,SLA Incident Management & SRE Escalation,5,5149.71,25748.55,5
+PO-2026-000796-L01,PO-2026-000796,1,Data Analytics and Visualization Platform Seat,2,1211.55,2423.1,2
+PO-2026-000797-L01,PO-2026-000797,1,Expedited Regional Courier Fleet Delivery,10,461.28,4612.8,10
+PO-2026-000797-L02,PO-2026-000797,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,1,1553.16,1553.16,1
+PO-2026-000798-L01,PO-2026-000798,1,Datacenter Preventive Maintenance Contract,1,3040.51,3040.51,1
+PO-2026-000798-L02,PO-2026-000798,2,External Penetration Testing & Red Teaming,1,18410.57,18410.57,1
+PO-2026-000799-L01,PO-2026-000799,1,AI Model Governance & Ethics Framework Advisory,5,382.51,1912.55,5
+PO-2026-000799-L02,PO-2026-000799,2,Regulatory GDPR / CPRA Data Privacy Review,1,291.67,291.67,1
+PO-2026-000800-L01,PO-2026-000800,1,Enterprise CI/CD Build Pipeline 50 Runners,20,7500.42,150008.4,20
+PO-2026-000801-L01,PO-2026-000801,1,Annual Cloud Architecture Security Review,5,6766.97,33834.85,5
+PO-2026-000801-L02,PO-2026-000801,2,Hardware Lifecycle Replacement Program Support,2,7150.83,14301.66,2
+PO-2026-000802-L01,PO-2026-000802,1,Aeron Ergonomic Lumbar Support Chair,1,1176.31,1176.31,1
+PO-2026-000803-L01,PO-2026-000803,1,Dedicated White-Glove On-Site Unpacking & Rack Mount,1,1574.28,1574.28,1
+PO-2026-000804-L01,PO-2026-000804,1,Data Analytics and Visualization Platform Seat,5,1169.35,5846.75,5
+PO-2026-000804-L02,PO-2026-000804,2,Database Management Enterprise Cluster License,5,18202.51,91012.55,5
+PO-2026-000805-L01,PO-2026-000805,1,Acoustic Phone Booth Modular Unit,1,6176.86,6176.86,1
+PO-2026-000806-L01,PO-2026-000806,1,AI Inference Accelerator Card PCIe,1,9380.35,9380.35,1
+PO-2026-000806-L02,PO-2026-000806,2,Ergonomic Keyboard and Precision Mouse Combo,5,182.57,912.85,5
+PO-2026-000806-L03,PO-2026-000806,3,NVMe Enterprise Storage Array 50TB,1,12022.32,12022.32,1
+PO-2026-000807-L01,PO-2026-000807,1,Ultra-Wide 34-Inch Curved Monitor,2,651.46,1302.92,2
+PO-2026-000808-L01,PO-2026-000808,1,Wireless Access Point Wi-Fi 7,1,416.83,416.83,1
+PO-2026-000809-L01,PO-2026-000809,1,Temperature-Controlled Secure Transport,1,3935.14,3935.14,1
+PO-2026-000810-L01,PO-2026-000810,1,Ultra-Wide 34-Inch Curved Monitor,20,678.14,13562.8,20
+PO-2026-000810-L02,PO-2026-000810,2,Enterprise Core Switch 48-Port 10GbE,1,4807.81,4807.81,1
+PO-2026-000811-L01,PO-2026-000811,1,LED Low-Glare Architectural Office Lighting Panel,1,446.54,446.54,1
+PO-2026-000812-L01,PO-2026-000812,1,Commercial Smart Keyless Access Door Controller,2,1520.07,3040.14,2
+PO-2026-000812-L02,PO-2026-000812,2,Meeting Room Video Conferencing System 4K,2,3507.16,7014.32,2
+PO-2026-000812-L03,PO-2026-000812,3,Aeron Ergonomic Lumbar Support Chair,1,1144.42,1144.42,1
+PO-2026-000812-L04,PO-2026-000812,4,Cafeteria Heavy Duty Commercial Coffee Maker,1,2748.92,2748.92,1
+PO-2026-000813-L01,PO-2026-000813,1,Aeron Ergonomic Lumbar Support Chair,10,1189.8,11898.0,10
+PO-2026-000814-L01,PO-2026-000814,1,Financial Data Pipeline Modernization Consulting,1,248.94,248.94,1
+PO-2026-000815-L01,PO-2026-000815,1,Executive Stationery & Meeting Pad Bundle,2,66.17,132.34,2
+PO-2026-000816-L01,PO-2026-000816,1,Hardware Lifecycle Replacement Program Support,2,7842.11,15684.22,2
+PO-2026-000817-L01,PO-2026-000817,1,Financial Data Pipeline Modernization Consulting,2,255.0,510.0,2
+PO-2026-000817-L02,PO-2026-000817,2,Regulatory GDPR / CPRA Data Privacy Review,20,288.85,5777.0,20
+PO-2026-000818-L01,PO-2026-000818,1,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,213.98,427.96,2
+PO-2026-000819-L01,PO-2026-000819,1,International Express Freight Delivery 500kg,2,2428.58,4857.16,2
+PO-2026-000819-L02,PO-2026-000819,2,Temperature-Controlled Secure Transport,5,3967.75,19838.75,5
+PO-2026-000820-L01,PO-2026-000820,1,International Express Freight Delivery 500kg,5,2363.41,11817.05,5
+PO-2026-000821-L01,PO-2026-000821,1,Cafeteria Heavy Duty Commercial Coffee Maker,1,2805.25,2805.25,1
+PO-2026-000822-L01,PO-2026-000822,1,Ergonomic Keyboard and Precision Mouse Combo,5,177.64,888.2,5
+PO-2026-000823-L01,PO-2026-000823,1,Executive Motorized Standing Desk,1,938.12,938.12,1
+PO-2026-000823-L02,PO-2026-000823,2,Commercial Smart Keyless Access Door Controller,50,1444.64,72232.0,50
+PO-2026-000824-L01,PO-2026-000824,1,Financial Data Pipeline Modernization Consulting,20,244.68,4893.6,20
+PO-2026-000825-L01,PO-2026-000825,1,Supply Chain Resiliency Strategy Consulting,20,331.64,6632.8,20
+PO-2026-000826-L01,PO-2026-000826,1,Datacenter Preventive Maintenance Contract,20,3304.69,66093.8,20
+PO-2026-000827-L01,PO-2026-000827,1,Financial Data Pipeline Modernization Consulting,1,249.84,249.84,1
+PO-2026-000828-L01,PO-2026-000828,1,USB-C Braided Cable Multi-Length Pack,1,88.07,88.07,1
+PO-2026-000829-L01,PO-2026-000829,1,International Express Freight Delivery 500kg,2,2492.18,4984.36,2
+PO-2026-000830-L01,PO-2026-000830,1,Commercial Smart Keyless Access Door Controller,5,1504.4,7522.0,5
+PO-2026-000831-L01,PO-2026-000831,1,Ergonomic Anti-Fatigue Desk Floor Mat,10,95.37,953.7,10
+PO-2026-000832-L01,PO-2026-000832,1,Bonded Warehouse Storage Pallet Space,2,666.38,1332.76,2
+PO-2026-000832-L02,PO-2026-000832,2,Expedited Regional Courier Fleet Delivery,20,430.62,8612.4,20
+PO-2026-000833-L01,PO-2026-000833,1,Executive Motorized Standing Desk,5,911.72,4558.6,5
+PO-2026-000834-L01,PO-2026-000834,1,USB-C Braided Cable Multi-Length Pack,1,83.97,83.97,1
+PO-2026-000834-L02,PO-2026-000834,2,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,45.82,91.64,2
+PO-2026-000834-L03,PO-2026-000834,3,Executive Stationery & Meeting Pad Bundle,1,65.33,65.33,1
+PO-2026-000834-L04,PO-2026-000834,4,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,215.66,431.32,2
+PO-2026-000835-L01,PO-2026-000835,1,Identity Access Management (IAM) SSO License,1,4330.42,4330.42,1
+PO-2026-000836-L01,PO-2026-000836,1,Automated Compliance Monitoring Suite,1,8570.85,8570.85,1
+PO-2026-000837-L01,PO-2026-000837,1,Cafeteria Heavy Duty Commercial Coffee Maker,1,2925.71,2925.71,1
+PO-2026-000837-L02,PO-2026-000837,2,Acoustic Phone Booth Modular Unit,1,6374.18,6374.18,1
+PO-2026-000837-L03,PO-2026-000837,3,Meeting Room Video Conferencing System 4K,1,3232.82,3232.82,1
+PO-2026-000838-L01,PO-2026-000838,1,Supply Chain Resiliency Strategy Consulting,10,311.75,3117.5,10
+PO-2026-000838-L02,PO-2026-000838,2,DevOps Migration and Kubernetes Optimization,1,280.81,280.81,1
+PO-2026-000839-L01,PO-2026-000839,1,Developer IDE Team Suite Subscription,1,498.35,498.35,1
+PO-2026-000840-L01,PO-2026-000840,1,Uninterruptible Power Supply (UPS) 3000VA,2,1667.76,3335.52,2
+PO-2026-000841-L01,PO-2026-000841,1,Customer Data Platform (CDP) Annual Tier,2,16803.77,33607.54,2
+PO-2026-000842-L01,PO-2026-000842,1,Expedited Regional Courier Fleet Delivery,5,437.24,2186.2,5
+PO-2026-000842-L02,PO-2026-000842,2,Temperature-Controlled Secure Transport,1,3810.51,3810.51,1
+PO-2026-000842-L03,PO-2026-000842,3,International Express Freight Delivery 500kg,20,2471.49,49429.8,20
+PO-2026-000843-L01,PO-2026-000843,1,External Penetration Testing & Red Teaming,1,17895.91,17895.91,1
+PO-2026-000843-L02,PO-2026-000843,2,SLA Incident Management & SRE Escalation,10,4863.34,48633.4,10
+PO-2026-000843-L03,PO-2026-000843,3,Annual Cloud Architecture Security Review,1,6513.15,6513.15,1
+PO-2026-000843-L04,PO-2026-000843,4,24/7 Managed NOC Level-2 Support Service,10,8094.24,80942.4,10
+PO-2026-000844-L01,PO-2026-000844,1,Expedited Regional Courier Fleet Delivery,2,469.28,938.56,2
+PO-2026-000844-L02,PO-2026-000844,2,Bonded Warehouse Storage Pallet Space,1,631.77,631.77,1
+PO-2026-000844-L03,PO-2026-000844,3,International Express Freight Delivery 500kg,1,2433.56,2433.56,1
+PO-2026-000845-L01,PO-2026-000845,1,Expedited Regional Courier Fleet Delivery,2,440.44,880.88,2
+PO-2026-000846-L01,PO-2026-000846,1,Meeting Room Video Conferencing System 4K,2,3330.36,6660.72,2
+PO-2026-000846-L02,PO-2026-000846,2,Executive Motorized Standing Desk,10,934.34,9343.4,10
+PO-2026-000847-L01,PO-2026-000847,1,Financial Data Pipeline Modernization Consulting,2,240.69,481.38,2
+PO-2026-000848-L01,PO-2026-000848,1,High-Yield Laser Toner Cartridge Multipack,10,266.09,2660.9,10
+PO-2026-000848-L02,PO-2026-000848,2,Ergonomic Anti-Fatigue Desk Floor Mat,10,97.48,974.8,10
+PO-2026-000849-L01,PO-2026-000849,1,Enterprise Core Switch 48-Port 10GbE,1,4917.65,4917.65,1
+PO-2026-000849-L02,PO-2026-000849,2,Uninterruptible Power Supply (UPS) 3000VA,2,1554.41,3108.82,2
+PO-2026-000849-L03,PO-2026-000849,3,Developer Workstation Dual GPU 64GB,2,3065.61,6131.22,2
+PO-2026-000850-L01,PO-2026-000850,1,Hardware Lifecycle Replacement Program Support,2,7232.0,14464.0,2
+PO-2026-000850-L02,PO-2026-000850,2,Datacenter Preventive Maintenance Contract,2,3048.21,6096.42,2
+PO-2026-000850-L03,PO-2026-000850,3,Compliance ISO 27001 Surveillance Audit,5,14090.99,70454.95,5
+PO-2026-000851-L01,PO-2026-000851,1,Executive Stationery & Meeting Pad Bundle,2,64.51,129.02,2
+PO-2026-000851-L02,PO-2026-000851,2,Ergonomic Anti-Fatigue Desk Floor Mat,1,96.5,96.5,1
+PO-2026-000852-L01,PO-2026-000852,1,International Express Freight Delivery 500kg,2,2470.62,4941.24,2
+PO-2026-000852-L02,PO-2026-000852,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,2,1444.0,2888.0,2
+PO-2026-000853-L01,PO-2026-000853,1,Enterprise Core Switch 48-Port 10GbE,20,4709.7,94194.0,20
+PO-2026-000854-L01,PO-2026-000854,1,Executive Stationery & Meeting Pad Bundle,2,61.99,123.98,2
+PO-2026-000854-L02,PO-2026-000854,2,Dry-Erase Magnetic Whiteboard 72x48 with Markers,5,216.07,1080.35,5
+PO-2026-000855-L01,PO-2026-000855,1,Customer Data Platform (CDP) Annual Tier,1,16420.15,16420.15,1
+PO-2026-000855-L02,PO-2026-000855,2,Code Quality and SAST Security Scanner,5,3959.9,19799.5,5
+PO-2026-000856-L01,PO-2026-000856,1,Code Quality and SAST Security Scanner,1,3783.63,3783.63,1
+PO-2026-000856-L02,PO-2026-000856,2,Customer Data Platform (CDP) Annual Tier,5,16692.07,83460.35,5
+PO-2026-000856-L03,PO-2026-000856,3,Identity Access Management (IAM) SSO License,10,4592.0,45920.0,10
+PO-2026-000856-L04,PO-2026-000856,4,Data Analytics and Visualization Platform Seat,10,1225.05,12250.5,10
+PO-2026-000857-L01,PO-2026-000857,1,Enterprise Architecture Strategic Advisory,2,362.54,725.08,2
+PO-2026-000858-L01,PO-2026-000858,1,Dedicated White-Glove On-Site Unpacking & Rack Mount,1,1557.04,1557.04,1
+PO-2026-000858-L02,PO-2026-000858,2,Bonded Warehouse Storage Pallet Space,1,653.4,653.4,1
+PO-2026-000859-L01,PO-2026-000859,1,Expedited Regional Courier Fleet Delivery,5,463.26,2316.3,5
+PO-2026-000860-L01,PO-2026-000860,1,HEPA Air Filtration Commercial Tower,5,773.77,3868.85,5
+PO-2026-000861-L01,PO-2026-000861,1,Compliance ISO 27001 Surveillance Audit,20,13512.87,270257.4,20
+PO-2026-000861-L02,PO-2026-000861,2,Datacenter Preventive Maintenance Contract,5,3247.14,16235.7,5
+PO-2026-000862-L01,PO-2026-000862,1,Automated Compliance Monitoring Suite,1,9189.63,9189.63,1
+PO-2026-000862-L02,PO-2026-000862,2,Identity Access Management (IAM) SSO License,1,4349.06,4349.06,1
+PO-2026-000863-L01,PO-2026-000863,1,Enterprise CI/CD Build Pipeline 50 Runners,10,7117.74,71177.4,10
+PO-2026-000864-L01,PO-2026-000864,1,Database Management Enterprise Cluster License,1,18188.26,18188.26,1
+PO-2026-000864-L02,PO-2026-000864,2,Enterprise CI/CD Build Pipeline 50 Runners,1,7234.52,7234.52,1
+PO-2026-000865-L01,PO-2026-000865,1,DevOps Migration and Kubernetes Optimization,1,283.68,283.68,1
+PO-2026-000866-L01,PO-2026-000866,1,Executive Motorized Standing Desk,1,991.98,991.98,1
+PO-2026-000866-L02,PO-2026-000866,2,Commercial Smart Keyless Access Door Controller,2,1471.55,2943.1,2
+PO-2026-000867-L01,PO-2026-000867,1,Datacenter Preventive Maintenance Contract,1,3191.73,3191.73,1
+PO-2026-000868-L01,PO-2026-000868,1,Cafeteria Heavy Duty Commercial Coffee Maker,2,2808.95,5617.9,2
+PO-2026-000869-L01,PO-2026-000869,1,Aeron Ergonomic Lumbar Support Chair,2,1185.62,2371.24,2
+PO-2026-000870-L01,PO-2026-000870,1,Regulatory GDPR / CPRA Data Privacy Review,1,312.97,312.97,1
+PO-2026-000871-L01,PO-2026-000871,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),5,47.25,236.25,5
+PO-2026-000872-L01,PO-2026-000872,1,AI Inference Accelerator Card PCIe,2,10178.94,20357.88,2
+PO-2026-000873-L01,PO-2026-000873,1,Identity Access Management (IAM) SSO License,2,4370.86,8741.72,2
+PO-2026-000874-L01,PO-2026-000874,1,HEPA Air Filtration Commercial Tower,1,815.96,815.96,1
+PO-2026-000874-L02,PO-2026-000874,2,Aeron Ergonomic Lumbar Support Chair,5,1202.1,6010.5,5
+PO-2026-000875-L01,PO-2026-000875,1,International Express Freight Delivery 500kg,2,2331.75,4663.5,2
+PO-2026-000875-L02,PO-2026-000875,2,Temperature-Controlled Secure Transport,2,3825.61,7651.22,2
+PO-2026-000876-L01,PO-2026-000876,1,DevOps Migration and Kubernetes Optimization,1,283.75,283.75,1
+PO-2026-000876-L02,PO-2026-000876,2,Regulatory GDPR / CPRA Data Privacy Review,2,293.26,586.52,2
+PO-2026-000877-L01,PO-2026-000877,1,LED Low-Glare Architectural Office Lighting Panel,2,452.0,904.0,2
+PO-2026-000878-L01,PO-2026-000878,1,Recycled Multi-Purpose Copy Paper (Carton 5 Reams),2,45.92,91.84,2
+PO-2026-000878-L02,PO-2026-000878,2,Dry-Erase Magnetic Whiteboard 72x48 with Markers,2,230.02,460.04,2
+PO-2026-000879-L01,PO-2026-000879,1,Annual Cloud Architecture Security Review,50,6696.45,334822.5,50
+PO-2026-000880-L01,PO-2026-000880,1,Financial Data Pipeline Modernization Consulting,1,246.39,246.39,1
+PO-2026-000880-L02,PO-2026-000880,2,Regulatory GDPR / CPRA Data Privacy Review,50,294.93,14746.5,50
+PO-2026-000881-L01,PO-2026-000881,1,Regulatory GDPR / CPRA Data Privacy Review,1,305.79,305.79,1
+PO-2026-000881-L02,PO-2026-000881,2,Supply Chain Resiliency Strategy Consulting,10,306.02,3060.2,10
+PO-2026-000882-L01,PO-2026-000882,1,Identity Access Management (IAM) SSO License,1,4556.46,4556.46,1
+PO-2026-000882-L02,PO-2026-000882,2,Cybersecurity Endpoint Detection & Response (EDR),2,5351.83,10703.66,2
+PO-2026-000882-L03,PO-2026-000882,3,Developer IDE Team Suite Subscription,10,490.74,4907.4,10
+PO-2026-000883-L01,PO-2026-000883,1,Regulatory GDPR / CPRA Data Privacy Review,1,309.18,309.18,1
+PO-2026-000883-L02,PO-2026-000883,2,Supply Chain Resiliency Strategy Consulting,5,321.8,1609.0,5
+PO-2026-000884-L01,PO-2026-000884,1,High-Yield Laser Toner Cartridge Multipack,2,270.7,541.4,2
+PO-2026-000884-L02,PO-2026-000884,2,Ergonomic Anti-Fatigue Desk Floor Mat,5,90.68,453.4,5
+PO-2026-000885-L01,PO-2026-000885,1,Ultra-Wide 34-Inch Curved Monitor,2,638.91,1277.82,2
+PO-2026-000885-L02,PO-2026-000885,2,Ergonomic Keyboard and Precision Mouse Combo,2,182.92,365.84,2
+PO-2026-000885-L03,PO-2026-000885,3,Developer Workstation Dual GPU 64GB,20,3064.64,61292.8,20
+PO-2026-000885-L04,PO-2026-000885,4,NVMe Enterprise Storage Array 50TB,2,12505.78,25011.56,2
+PO-2026-000886-L01,PO-2026-000886,1,Executive Motorized Standing Desk,2,950.5,1901.0,2
+PO-2026-000887-L01,PO-2026-000887,1,Enterprise Architecture Strategic Advisory,2,366.63,733.26,2
+PO-2026-000887-L02,PO-2026-000887,2,DevOps Migration and Kubernetes Optimization,1,277.69,277.69,1
+PO-2026-000887-L03,PO-2026-000887,3,AI Model Governance & Ethics Framework Advisory,5,412.72,2063.6,5
+PO-2026-000888-L01,PO-2026-000888,1,Commercial Smart Keyless Access Door Controller,1,1451.47,1451.47,1
+PO-2026-000889-L01,PO-2026-000889,1,External Penetration Testing & Red Teaming,10,18581.1,185811.0,10
+PO-2026-000889-L02,PO-2026-000889,2,Compliance ISO 27001 Surveillance Audit,1,13826.07,13826.07,1
+PO-2026-000889-L03,PO-2026-000889,3,Annual Cloud Architecture Security Review,1,6471.22,6471.22,1
+PO-2026-000890-L01,PO-2026-000890,1,24/7 Managed NOC Level-2 Support Service,2,8740.07,17480.14,2
+PO-2026-000890-L02,PO-2026-000890,2,Annual Cloud Architecture Security Review,20,6814.6,136292.0,20
+PO-2026-000891-L01,PO-2026-000891,1,International Express Freight Delivery 500kg,5,2459.6,12298.0,5
+PO-2026-000891-L02,PO-2026-000891,2,Dedicated White-Glove On-Site Unpacking & Rack Mount,1,1438.75,1438.75,1
+PO-2026-000891-L03,PO-2026-000891,3,Temperature-Controlled Secure Transport,5,3803.93,19019.65,5
+PO-2026-000892-L01,PO-2026-000892,1,Financial Data Pipeline Modernization Consulting,1,257.79,257.79,1
+PO-2026-000893-L01,PO-2026-000893,1,Cafeteria Heavy Duty Commercial Coffee Maker,5,2768.05,13840.25,5
+PO-2026-000893-L02,PO-2026-000893,2,Acoustic Phone Booth Modular Unit,5,5950.01,29750.05,5
+PO-2026-000893-L03,PO-2026-000893,3,Aeron Ergonomic Lumbar Support Chair,5,1157.61,5788.05,5
+PO-2026-000893-L04,PO-2026-000893,4,Commercial Smart Keyless Access Door Controller,1,1477.38,1477.38,1
+PO-2026-000894-L01,PO-2026-000894,1,DevOps Migration and Kubernetes Optimization,5,282.9,1414.5,5
+PO-2026-000895-L01,PO-2026-000895,1,Code Quality and SAST Security Scanner,1,3978.86,3978.86,1
+PO-2026-000895-L02,PO-2026-000895,2,Cybersecurity Endpoint Detection & Response (EDR),5,5300.23,26501.15,5
+PO-2026-000896-L01,PO-2026-000896,1,Supply Chain Resiliency Strategy Consulting,2,315.18,630.36,2
+PO-2026-000897-L01,PO-2026-000897,1,Enterprise Core Switch 48-Port 10GbE,2,4566.54,9133.08,2
+PO-2026-000897-L02,PO-2026-000897,2,Ultra-Wide 34-Inch Curved Monitor,20,672.83,13456.6,20
+PO-2026-000898-L01,PO-2026-000898,1,Meeting Room Video Conferencing System 4K,10,3542.69,35426.9,10
+PO-2026-000899-L01,PO-2026-000899,1,Security Shredder Cross-Cut Heavy Duty,1,561.44,561.44,1
+PO-2026-000899-L02,PO-2026-000899,2,Dry-Erase Magnetic Whiteboard 72x48 with Markers,10,228.12,2281.2,10
+PO-2026-000899-L03,PO-2026-000899,3,Ergonomic Anti-Fatigue Desk Floor Mat,1,96.37,96.37,1
+PO-2026-000899-L04,PO-2026-000899,4,Executive Stationery & Meeting Pad Bundle,2,64.46,128.92,2
+PO-2026-000900-L01,PO-2026-000900,1,Data Analytics and Visualization Platform Seat,10,1175.08,11750.8,10

@@ -1,0 +1,82 @@
+[
+  {
+    "department_id": "DEPT-001",
+    "department_name": "Engineering & Software",
+    "category": "ENGINEERING",
+    "cost_center_code": "CC-1010",
+    "head_requester_id": "REQ-0001",
+    "is_active": true
+  },
+  {
+    "department_id": "DEPT-002",
+    "department_name": "Cloud & IT Infrastructure",
+    "category": "IT_INFRASTRUCTURE",
+    "cost_center_code": "CC-1020",
+    "head_requester_id": "REQ-0036",
+    "is_active": true
+  },
+  {
+    "department_id": "DEPT-003",
+    "department_name": "Data Science & AI Research",
+    "category": "RESEARCH_DEV",
+    "cost_center_code": "CC-1030",
+    "head_requester_id": "REQ-0030",
+    "is_active": true
+  },
+  {
+    "department_id": "DEPT-004",
+    "department_name": "Global Operations & Supply Chain",
+    "category": "OPERATIONS",
+    "cost_center_code": "CC-1040",
+    "head_requester_id": "REQ-0023",
+    "is_active": true
+  },
+  {
+    "department_id": "DEPT-005",
+    "department_name": "Brand & Product Marketing",
+    "category": "MARKETING",
+    "cost_center_code": "CC-1050",
+    "head_requester_id": "REQ-0015",
+    "is_active": true
+  },
+  {
+    "department_id": "DEPT-006",
+    "department_name": "Corporate Facilities & Workplace",
+    "category": "FACILITIES",
+    "cost_center_code": "CC-1060",
+    "head_requester_id": "REQ-0053",
+    "is_active": true
+  },
+  {
+    "department_id": "DEPT-007",
+    "department_name": "Financial Planning & Control",
+    "category": "FINANCE",
+    "cost_center_code": "CC-1070",
+    "head_requester_id": "REQ-0007",
+    "is_active": true
+  },
+  {
+    "department_id": "DEPT-008",
+    "department_name": "Legal, Compliance & Risk",
+    "category": "LEGAL",
+    "cost_center_code": "CC-1080",
+    "head_requester_id": "REQ-0147",
+    "is_active": true
+  },
+  {
+    "department_id": "DEPT-009",
+    "department_name": "People Operations & HR",
+    "category": "HUMAN_RESOURCES",
+    "cost_center_code": "CC-1090",
+    "head_requester_id": "REQ-0009",
+    "is_active": true
+  },
+  {
+    "department_id": "DEPT-010",
+    "department_name": "Global Customer Experience",
+    "category": "CUSTOMER_SUPPORT",
+    "cost_center_code": "CC-1100",
+    "head_requester_id": "REQ-0010",
+    "is_active": true
+  }
+]

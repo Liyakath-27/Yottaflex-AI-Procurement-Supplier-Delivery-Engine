@@ -1,0 +1,95 @@
+{
+  "dataset_name": "Yottaflex Procurement & Supplier Delivery Synthetic Dataset",
+  "generation_timestamp": "2026-11-09T09:30:59.198665",
+  "generator_version": "1.0.0",
+  "random_seed": 20261022,
+  "scale_profile": "full",
+  "provenance": {
+    "lawful_use_type": "100% Synthetic Domain-Generated Data",
+    "personal_data_included": false,
+    "external_confidential_data": false,
+    "license": "MIT / Creative Commons Zero (CC0)"
+  },
+  "table_summary": {
+    "departments": {
+      "record_count": 10
+    },
+    "budgets": {
+      "record_count": 42
+    },
+    "requesters": {
+      "record_count": 300
+    },
+    "suppliers": {
+      "record_count": 120
+    },
+    "purchase_requests": {
+      "record_count": 1224
+    },
+    "request_lines": {
+      "record_count": 2314
+    },
+    "rfqs": {
+      "record_count": 500
+    },
+    "supplier_quotes": {
+      "record_count": 1500
+    },
+    "quote_lines": {
+      "record_count": 2943
+    },
+    "approvals": {
+      "record_count": 1200
+    },
+    "purchase_orders": {
+      "record_count": 900
+    },
+    "po_lines": {
+      "record_count": 1684
+    },
+    "deliveries": {
+      "record_count": 952
+    },
+    "audit_events": {
+      "record_count": 4300
+    },
+    "ground_truth": {
+      "record_count": 135
+    }
+  },
+  "file_checksums_sha256": {
+    "procurement.db": "130b6a73e455d1d3947bc1af8da2663ea096427717690f3484a3ad4ddc9a55f3",
+    "csv/approvals.csv": "9ec2f8c221bdbfe6914d1209034683b62bda6e50482722aa1a908661d5d2a973",
+    "csv/audit_events.csv": "1d456f6f9494a4da3161100b0e26923bf6e759742e0c6dd8f07b206450e3fb1b",
+    "csv/budgets.csv": "c2ac5ce429b86a7e44fb45bca805a1d99947fedd21ba444b6bfac39dedfbcdb3",
+    "csv/deliveries.csv": "a83076bb4c294e1a1b5235329bb8411640581ed4935f2c38916d86b5a0aad5cc",
+    "csv/departments.csv": "b00f7a4f501019b71593236aeed87b8f058175f64d89a5ab028832acf5df1c24",
+    "csv/ground_truth.csv": "0930ace670e791014386a6c8672306acf402c901ec387de66482170c9af1a577",
+    "csv/po_lines.csv": "c9f22e2959c17fcc1e9267a5ef55f695822585ab17fc5c8ea336b412ef237e80",
+    "csv/purchase_orders.csv": "141046d850bd47cf4075ba439fdb23fa020cb182362e4932d12ddca61ad6e6e2",
+    "csv/purchase_requests.csv": "2b2b9b509ba9670156d2cf424cab8b08915d9f908753ee460d2ea524d230d133",
+    "csv/quote_lines.csv": "81f6a56376570a25a6e44d38b761ed15ed402af8a2a956a28830c60911c92f35",
+    "csv/requesters.csv": "34f695a138ed367ffe66f4c1adf847ac3d4a988646d6ed1966623c6daec26461",
+    "csv/request_lines.csv": "1ba75082c4b924fd5665e4c37ded2106d72bbeafbc78346e9b726c8f1892645b",
+    "csv/rfqs.csv": "3d7f13b0b3f2ef4c8191f96c1e2050f4e7578941191666b77b2493887173a27a",
+    "csv/suppliers.csv": "03e381129a648687dcabe366b67da9e284ed7c27420105f2c3c581c48cb2004f",
+    "csv/supplier_quotes.csv": "e1c0c8dc999c21b802c79ea3c5dc6663c3a46c997de7265985ca370a2a373bbf",
+    "json/approvals.json": "1e7bb47c97b7373f04273266ffc67fee8e806769e41bd82fbef4b2da43698357",
+    "json/audit_events.json": "49039c110c7e744cb6c00bbb50ac4acab2e59c6f29032a9dcb08d14a750db1de",
+    "json/budgets.json": "eeea47225168ab5ba8954ce0c3fe70fb088b7ebbd82c467bd7b950443b0451de",
+    "json/deliveries.json": "e687227e9991fc57b38cd838895a743987bb3e15febb261e0e5ccd4cb727ac4d",
+    "json/departments.json": "a414f9e9205453f146030e1193d724c3e2b36153e301c7424b3ee76d740e32b1",
+    "json/ground_truth.json": "3629f7650ac7f8d2330f2858bb9fc6f1e23d9e27615d4f4ef39ca1b0466b7732",
+    "json/po_lines.json": "038b6654bd25991d92b57fe1865e9257690b8914da999acb5ae357985945ce02",
+    "json/purchase_orders.json": "725f97f84104b2cf21af074aed6c5773fc2b2d330b206854e71d477672d5096a",
+    "json/purchase_requests.json": "faf4be8e2c11d76a2f859949518d5d2bf166c61a84cdafbd38a5f58ae0925fe7",
+    "json/quote_lines.json": "4a6e42e073a0e378f2453d830d20986bcba4a83d126aeeb81349747947bb7cf9",
+    "json/requesters.json": "2fa7feead859d1caa9aa74f4ae8a00f7d873f742a88943f071e04f4650fea378",
+    "json/request_lines.json": "6a6de8079fbdac809bd257ec076d1a60baddb11ca47ce0301fae35cf27315d45",
+    "json/rfqs.json": "7d8fc42c6f0ca73dd89f12f69ded1241f0ac3f76e6163ca5a42748b84f627082",
+    "json/suppliers.json": "12411afa9b1a22ac614092ae9fad7435ccb92506dfe2ec79f69185bb68d5d5f7",
+    "json/supplier_quotes.json": "d260efe213827515fa510b872cfddfa1ec3cc14b17247faf6f0dba8584c1ba07",
+    "sql/schema.sql": "a948aace070dffc406e5ac2970508d0bb681838e9ac13fe07589754d55878200",
+    "sql/seed_data.sql": "d8f637c2159cbaa582e9cc4d14fdb4a6a1a7e8a9686a25f2944dfe180d60a22b"
+  }
+}
